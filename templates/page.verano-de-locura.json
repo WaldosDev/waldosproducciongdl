@@ -1,0 +1,329 @@
+{
+  "sections": {
+    "165576459472660974": {
+      "type": "image-slideshow",
+      "blocks": {
+        "165576459482db4e32-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/07-VERANO-DE-LOCURA-SEM29.png",
+            "mb_image": "shopify:\/\/shop_images\/07-VERANO-DE-LOCURA-SEM29-MOBILE.png",
+            "link": "shopify:\/\/collections\/accesorios-y-maletas",
+            "newTab": false
+          }
+        },
+        "165576459482db4e32-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PERFUMES.jpg",
+            "mb_image": "shopify:\/\/shop_images\/PERFUMES_c6a9f3be-778a-4447-8a27-fd9c41a189b2.jpg",
+            "link": "shopify:\/\/collections\/perfumeria",
+            "newTab": false
+          }
+        }
+      },
+      "block_order": [
+        "165576459482db4e32-0",
+        "165576459482db4e32-1"
+      ],
+      "settings": {
+        "section_width": true,
+        "top-offeset": "default",
+        "autoplay": true,
+        "autoplay_speed": "5000",
+        "arrow": true,
+        "dots": false,
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1654790949ae94c54d": {
+      "type": "collection-list",
+      "blocks": {
+        "1654790948117f6440-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ropa-de-verano-para-toda-la-familia",
+            "collection_name": "Ropa de Verano",
+            "collection_btn": "Compra Aquí"
+          }
+        },
+        "1654790948117f6440-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "accesorios-de-verano",
+            "collection_name": "Accesorios de Verano",
+            "collection_btn": "Compra Aquí"
+          }
+        },
+        "1654790948117f6440-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "accesorios-y-maletas",
+            "collection_name": "Maletas de Viaje",
+            "collection_btn": "Compra Aquí"
+          }
+        }
+      },
+      "block_order": [
+        "1654790948117f6440-0",
+        "1654790948117f6440-1",
+        "1654790948117f6440-3"
+      ],
+      "settings": {
+        "title": "Verano de Locura",
+        "subtitle": "Desde $19.99",
+        "top-offeset": "default",
+        "section_width": true,
+        "pad-desk": 55,
+        "pad-ipad": 15,
+        "pad-mbl": 10,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "hide_mobile": false,
+        "enable_carousel": true,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 5,
+        "style": "style1",
+        "textalign": "text-center",
+        "leftpadzero": false,
+        "product_count": false,
+        "show_buttons": true,
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm",
+        "grid": 3,
+        "tablet-grid": 3,
+        "mobile-grid": 3,
+        "collection_ttl_hm": "#ffffff",
+        "collection_ttl_bg_hm": "#000000",
+        "collection_ttl_bg_hm_responsive": "#000000",
+        "collection_ttl_opt_hm": 0.7,
+        "disable_zoom": false
+      }
+    },
+    "16547898286671a1fd": {
+      "type": "feature-row",
+      "blocks": {
+        "16547898271433f893-0": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ST-S19504_Groovy-2.progressive_6eba1b10-9dca-4af8-ac23-798b946a32d9.jpg",
+            "layout": "left",
+            "title": "¡Lleva la música a donde tu vayas!",
+            "text": "<p>Las mejores bocinas para tus viajes desde $299.99<\/p>",
+            "button_label": "Compra Aquí",
+            "button_link": "https:\/\/waldos.com.mx\/collections\/audio",
+            "btn-size-desk": "btn-sm",
+            "btn-size-mob": "mob-btn-sm",
+            "text_align": "text-left",
+            "text_clr": "#000000",
+            "text_bg_clr": "#f5f5f5",
+            "button_bg_clr": "#000000",
+            "button_bdr_clr": "#000000",
+            "button_text_clr": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "16547898271433f893-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "165482171087e70e45": {
+      "type": "product-slider",
+      "settings": {
+        "title": "Viaja sin preocupaciones",
+        "subtitle": "Desde $19.99",
+        "collection": "higiene-personal-y-belleza",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "Ver todos",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "1654790168079953b0": {
+      "type": "products-columns",
+      "blocks": {
+        "1654790168d88421fa-1": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "Maletas",
+            "collection": "accesorios-y-maletas"
+          }
+        },
+        "1654790168d88421fa-2": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "Cosmetiqueras",
+            "collection": "cosmetiqueras-de-verano"
+          }
+        }
+      },
+      "block_order": [
+        "1654790168d88421fa-1",
+        "1654790168d88421fa-2"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "grid": "2",
+        "rows": "3"
+      }
+    },
+    "1654790921bc1355fc": {
+      "type": "featured-product",
+      "settings": {
+        "top-offeset": "default",
+        "title": "Producto del día",
+        "featured_product": "traje-de-bano-para-caballero-1",
+        "image_size": "medium",
+        "enable_zoom": true,
+        "show_vendor": false,
+        "spr_availability": false,
+        "spr_sku": false,
+        "countdown": false,
+        "countdown_lbl": "Corre por que se acaban",
+        "show_share_buttons": true,
+        "show_variant_swatches": true,
+        "fake_orders": false,
+        "orders": 20,
+        "orders_time": 24,
+        "orders_msg": "[orders] sold in last [hours] hours"
+      }
+    },
+    "165479029744feb5d2": {
+      "type": "feature-row",
+      "blocks": {
+        "16547902969a64a869-0": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/100077051RB80_2.jpg",
+            "layout": "left",
+            "title": "El mundo de Disney llegó a Waldo's",
+            "text": "<p>Playeras a solo $69.99<\/p>",
+            "button_label": "Compra Aquí",
+            "button_link": "https:\/\/waldos.com.mx\/collections\/disney",
+            "btn-size-desk": "btn-sm",
+            "btn-size-mob": "mob-btn-sm",
+            "text_align": "text-left",
+            "text_clr": "#000000",
+            "text_bg_clr": "#f5f5f5",
+            "button_bg_clr": "#000000",
+            "button_bdr_clr": "#000000",
+            "button_text_clr": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "16547902969a64a869-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1654791097bd4cc3d2": {
+      "type": "feature-row",
+      "blocks": {
+        "1654791097e900cedb-0": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/21958293BEIGE-_2.jpg",
+            "layout": "right",
+            "title": "Accesorios ideales para toda ocasión",
+            "text": "<p>Lentes de sol y más desde $29.99<\/p>",
+            "button_label": "Compra Aquí",
+            "button_link": "https:\/\/waldos.com.mx\/collections\/maquillaje-y-belleza",
+            "btn-size-desk": "btn-sm",
+            "btn-size-mob": "mob-btn-sm",
+            "text_align": "text-left",
+            "text_clr": "#000000",
+            "text_bg_clr": "#f5f5f5",
+            "button_bg_clr": "#000000",
+            "button_bdr_clr": "#000000",
+            "button_text_clr": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "1654791097e900cedb-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "165479145495f8b5b1": {
+      "type": "product-slider",
+      "disabled": true,
+      "settings": {
+        "title": "Calzado para Niña",
+        "subtitle": "A solo $49.99",
+        "collection": "calzado-para-dama-y-nina",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "Compra Aquí",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    }
+  },
+  "order": [
+    "165576459472660974",
+    "1654790949ae94c54d",
+    "16547898286671a1fd",
+    "165482171087e70e45",
+    "1654790168079953b0",
+    "1654790921bc1355fc",
+    "165479029744feb5d2",
+    "1654791097bd4cc3d2",
+    "165479145495f8b5b1"
+  ]
+}

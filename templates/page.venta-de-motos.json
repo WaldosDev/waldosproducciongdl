@@ -1,0 +1,273 @@
+{
+  "sections": {
+    "1660336040ce72d933": {
+      "type": "image-slideshow",
+      "blocks": {
+        "16603360408a832edc-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BANNER-MOTOS-DESKTOP.png",
+            "mb_image": "shopify:\/\/shop_images\/BANNER-MOTOS-MOBILE.png",
+            "link": "shopify:\/\/collections\/motocicletas",
+            "newTab": false
+          }
+        }
+      },
+      "block_order": [
+        "16603360408a832edc-0"
+      ],
+      "settings": {
+        "section_width": true,
+        "top-offeset": "default",
+        "autoplay": true,
+        "autoplay_speed": "5000",
+        "arrow": true,
+        "dots": false,
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1663022210612d79ff": {
+      "type": "product-slider",
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "collection": "motocicletas",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "Ver TODOS",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "1654790949ae94c54d": {
+      "type": "collection-list",
+      "blocks": {
+        "1654790948117f6440-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "motocicleta-vento-screamer",
+            "collection_image": "shopify:\/\/shop_images\/05_09e5f524-3c6f-47c0-beaf-3490b104956d.jpg",
+            "collection_name": "Vento Screamer",
+            "collection_btn": "Compra Aquí"
+          }
+        },
+        "1654790948117f6440-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "motocicleta-vento-storm",
+            "collection_image": "shopify:\/\/shop_images\/05_b5f847ec-2592-4568-87e3-bc59c5b79ecc.jpg",
+            "collection_name": "Vento Storm",
+            "collection_btn": "Compra Aquí"
+          }
+        }
+      },
+      "block_order": [
+        "1654790948117f6440-0",
+        "1654790948117f6440-1"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": true,
+        "pad-desk": 55,
+        "pad-ipad": 15,
+        "pad-mbl": 10,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "hide_mobile": false,
+        "enable_carousel": true,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 5,
+        "style": "style1",
+        "textalign": "text-center",
+        "leftpadzero": false,
+        "product_count": false,
+        "show_buttons": true,
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm",
+        "grid": 2,
+        "tablet-grid": 2,
+        "mobile-grid": 2,
+        "collection_ttl_hm": "#ffffff",
+        "collection_ttl_bg_hm": "#000000",
+        "collection_ttl_bg_hm_responsive": "#000000",
+        "collection_ttl_opt_hm": 0.7,
+        "disable_zoom": false
+      }
+    },
+    "16630205263a865880": {
+      "type": "feature-row",
+      "blocks": {
+        "1663020525c9614c25-0": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/05_689b65b1-f867-430f-bb2f-8a985ada16bd.jpg",
+            "layout": "left",
+            "title": "Linea CrossMax",
+            "text": "<p><strong>Paga en 5 plazos desde $ 8400.00 con Aplazo<\/strong><\/p><p>Hoy más que nunca, la <strong>Crossmax 200 2022<\/strong> representa todo lo que nos encanta de los grandes monocilíndricos de 4 tiempos: aceleración y una potencia incontestable. Equipada con una lista de componentes de primera línea, destacan su <strong>suspensión monoshock<\/strong>, <strong>motor 200 de 16 HP<\/strong>, y un par de robustos cauchos todoterreno; componentes que conforman un set de prestaciones de ensueño para conquistar los lugares más recónditos.<\/p><p>Su carrocería ultraligera equipada con una angulada geometría en tonalidades rojas y negras derivada de la competición, <strong>cubre puños iluminados<\/strong>, y <strong>sliders frontales<\/strong>, le otorgan al piloto en una experiencia de manejo segura, ágil y divertida.<\/p>",
+            "button_label": "Compra Aquí",
+            "button_link": "https:\/\/waldos.com.mx\/collections\/motocicletas-vento-crossmax",
+            "btn-size-desk": "btn-sm",
+            "btn-size-mob": "mob-btn-sm",
+            "text_align": "text-left",
+            "text_clr": "#000000",
+            "text_bg_clr": "#f5f5f5",
+            "button_bg_clr": "#cb0303",
+            "button_bdr_clr": "#cb0303",
+            "button_text_clr": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "1663020525c9614c25-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "16630212189a534263": {
+      "type": "product-slider",
+      "settings": {
+        "title": "Rebels",
+        "subtitle": "",
+        "collection": "motocicleta-vento-screamer",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "Ver Todos",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "16630215732954f823": {
+      "type": "featured-product",
+      "settings": {
+        "top-offeset": "default",
+        "title": "Producto del día",
+        "featured_product": "motocicleta-vento-workman-250",
+        "image_size": "medium",
+        "enable_zoom": true,
+        "show_vendor": false,
+        "spr_availability": false,
+        "spr_sku": false,
+        "countdown": false,
+        "countdown_lbl": "",
+        "show_share_buttons": false,
+        "show_variant_swatches": false,
+        "fake_orders": false,
+        "orders": 20,
+        "orders_time": 24,
+        "orders_msg": "[orders] sold in last [hours] hours"
+      }
+    },
+    "166302175497e73c51": {
+      "type": "feature-row",
+      "blocks": {
+        "1663021754a1319097-0": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/05_8a10d9a5-a4d9-4900-bd48-c7b1f5b20105.jpg",
+            "layout": "right",
+            "title": "Linea Rocketman",
+            "text": "<p><strong>Paga en 5 plazos desde $7,400.00 con Aplazo<\/strong><\/p><p>La <strong>Rocketman Sport 250<\/strong> fusiona a la perfección un diseño refinado e intimidante, con un implacable desempeño. Por eso se ha convertido en una de las favoritas de la familia <em>Vento Rebels<\/em>. Sus <strong>rines de rayos corte diamantado<\/strong>, su<strong>manillar<\/strong> y <strong>puños tipo Cafe Racer<\/strong> y su <strong>cubierta del asiento removible estilo “Monoposto”<\/strong>, harán que el estilo y la personalidad te acompañen en cada rodada.<\/p>",
+            "button_label": "Compra Aquí",
+            "button_link": "https:\/\/waldos.com.mx\/collections\/motocicletas-vento-rocketman",
+            "btn-size-desk": "btn-sm",
+            "btn-size-mob": "mob-btn-sm",
+            "text_align": "text-left",
+            "text_clr": "#000000",
+            "text_bg_clr": "#f5f5f5",
+            "button_bg_clr": "#cb0303",
+            "button_bdr_clr": "#cb0303",
+            "button_text_clr": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "1663021754a1319097-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1663022161a264d98e": {
+      "type": "product-slider",
+      "settings": {
+        "title": "¡Todos los modelos!",
+        "subtitle": "www.waldos.com.mx",
+        "collection": "motocicletas",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    }
+  },
+  "order": [
+    "1660336040ce72d933",
+    "1663022210612d79ff",
+    "1654790949ae94c54d",
+    "16630205263a865880",
+    "16630212189a534263",
+    "16630215732954f823",
+    "166302175497e73c51",
+    "1663022161a264d98e"
+  ]
+}

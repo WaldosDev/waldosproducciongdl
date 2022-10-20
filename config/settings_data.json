@@ -1,0 +1,3460 @@
+{
+  "current": {
+    "layout_style": "fullwidth",
+    "box_width": "1200",
+    "color_body_bg": "#ffffff",
+    "pagebox_bg": "#ffffff",
+    "bodybg_img": "",
+    "color_body_text": "#111111",
+    "bodybg_repeat": "repeat-x",
+    "bodybg_position": "center_center",
+    "bodybg_size": "cover",
+    "bodybg_attach": "fixed",
+    "body_overlay": 0,
+    "top-information-bar": true,
+    "show_sticky_arrow": true,
+    "enable_wishlist": true,
+    "wishlist_page": "wishlist",
+    "enable_site_animation": true,
+    "site_animation_mobile": true,
+    "rtl": false,
+    "catalogmode": false,
+    "ajax_cart": true,
+    "shippingTax": false,
+    "hide_checkout_cart": true,
+    "show_product_review": false,
+    "enable_search": true,
+    "favicon": "shopify:\/\/shop_images\/logowaldospng_3b49b316-71aa-4d62-89d8-39396c3ebf01.png",
+    "favicon_retina": "shopify:\/\/shop_images\/Logo_Waldos_2022-01.png",
+    "hm_keywords": "",
+    "hm_author": "Lasfito",
+    "breadcrumb_cl": true,
+    "breadcrumb_pr": true,
+    "breadcrumb_pg": false,
+    "breadcrumb_blog": true,
+    "br_bg": "#f9f9f9",
+    "bf_text": "#111111",
+    "free_ship": "free-shipping",
+    "free_ship_msg": "Compra $ más para obtener envío gratis",
+    "got_free_ship": "<b>Felicidades <\/b>Tienes envío gratis",
+    "free_ship_minicart": false,
+    "show_free_ship": false,
+    "free_ship_cartpage": false,
+    "show_estimate_ship": true,
+    "estimate_ship": "6\/8",
+    "estimate_shipping_msg": "Ordena ahora y recibe entre [startdate] y [enddate].",
+    "terms_checkbox": false,
+    "terms_text": "I agree with the terms and conditions",
+    "enable_age_varification": false,
+    "enable_birthdate": false,
+    "agevari_popup_bg": "",
+    "agevari_popup_bg_clr": "#111111",
+    "body_font": "fjalla_one_n4",
+    "type_base_size": 18,
+    "header_font": "mouse_memoirs_n4",
+    "heading_weight": "300",
+    "type_header_base_size_lh": 1.3,
+    "type_header_base_size": 26,
+    "type_header_base_size_2": 22,
+    "type_header_base_size_3": 19,
+    "type_header_base_size_4": 17,
+    "type_header_base_size_5": 16,
+    "type_header_base_size_6": 14,
+    "type_header_letter_space": 2,
+    "color_text": "#80bc00",
+    "color_text_field_text": "#80bc00",
+    "color_text_field": "#ffffff",
+    "field_bd": "#dddddd",
+    "btn_style": "round_crn",
+    "color_button_text": "#ffffff",
+    "color_button": "#cb0303",
+    "btn1_bd": "#cb0303",
+    "color_button_text_hov": "#000000",
+    "color_button_hov": "rgba(0,0,0,0)",
+    "btn1_bd_hover": "#030505",
+    "color_small_button_text": "#ffffff",
+    "color_small_button": "#000000",
+    "btn2_bd": "#000000",
+    "color_small_button_text_hov": "#000000",
+    "color_small_button_hov": "#ffffff",
+    "btn2_bd_hove": "#111111",
+    "link_btn_txt": "#139ddd",
+    "link_btn_txt_hv": "#000",
+    "navigation_font_size": 16,
+    "navigation_font_weight": "400",
+    "navigation_txt_case": "capitalize",
+    "navbarbdr": "#ea2621",
+    "navbar": "#ea2621",
+    "navbar_link": "#ffffff",
+    "navbar_link_hv": "#f9f9f9",
+    "nav_link_lbl": "#ffffff",
+    "nav_link_lbl1": "#ff0000",
+    "nav_link_lbl2": "#1cb5b5",
+    "nav_link_lbl3": "#f48920",
+    "nav_link_lbl4": "#d0a306",
+    "nav_link_lbl5": "#4daee2",
+    "mm_font_size": 14,
+    "mm_font_size_col": 17,
+    "nav_mm_bg": "#ffffff",
+    "nav_mm_title": "#000000",
+    "nav_mm_title_case": "capitalize",
+    "nav_mm_link": "#444444",
+    "nav_mm_link_hv": "#f06543",
+    "nav_dd_link": "#444444",
+    "nav_dd_link_bg": "#ffffff",
+    "nav_dd_link_hv": "#f06543",
+    "nav_dd_link_bghv": "#ffffff",
+    "nav_dd_divider": "#eeeeee",
+    "mob_nav_font_size": 14,
+    "mobile_nav_bg": "#ffffff",
+    "navigation_text": "#333333",
+    "border": "#eeeeee",
+    "subnav_color_shade": "darken",
+    "mobile_nav_cl": "#eee",
+    "mobile_nav_cltxt": "#000",
+    "slideshow_text_1": 30,
+    "slideshow_text_2": 38,
+    "slideshow_text_2_lh": 1.2,
+    "slideshow_text_3": 18,
+    "slideshow_text_3_lh": 1.3,
+    "color_slideshow_image_overlay": "rgba(0,0,0,0)",
+    "image_slideshow_overlay_opacity": 0,
+    "display_overlay": false,
+    "display_overlay_mb": true,
+    "slide_overlay_clr": "#ffffff",
+    "slide_caption_opacity": 0,
+    "sec_spacing": 50,
+    "sec_spacing_small": 20,
+    "title_align": "text-center",
+    "section_heading_1_size": 24,
+    "section_heading_1_lh": 1.4,
+    "section_heading_2_size": 15,
+    "headings_clr": "#111111",
+    "tab_font_size": 19,
+    "pr_tab_txt": "#777777",
+    "pr_tab_txt_ac": "#197919",
+    "pr_tab_brd": "#3c7c3c",
+    "pr_tab_brd_ac": "#3c7c3c",
+    "pr_tab_bg": "rgba(0,0,0,0)",
+    "pr_tab_ac_bg": "#80bc00",
+    "mob_text_clr": "#003d59",
+    "mob_bg_clr": "#dddddd",
+    "mob_text_clr_active": "#f9f9f9",
+    "mob_bg_clr_active": "#80bc00",
+    "text_size_colle_list": 24,
+    "text_size_colle_list_mbl": 14,
+    "box-text": 17,
+    "box-text_mbl": 14,
+    "text_size_heading": 18,
+    "text_size_content": 15,
+    "pbanner-title": 28,
+    "pbanner-des": 15,
+    "quote-title": 18,
+    "quote-des": 13,
+    "hero_text_size_heading": 22,
+    "hero_text_size_content": 14,
+    "color_image_overlay_text": "#000000",
+    "text_bg": "#ffffff",
+    "text_bg_opacity": 0.7,
+    "cl_bnr_title": 28,
+    "cl_bnr_des": 14,
+    "sidebar_ttls": "#111111",
+    "sidebar_links": "#000000",
+    "sidebar_links_hv": "#e55151",
+    "footer_img": "",
+    "footerbg_repeat": "inherit",
+    "footerbg_position": "center_center",
+    "footerbg_size": "auto",
+    "footerbg_attach": "inherit",
+    "footer_top_bdr": "#eeeeee",
+    "footer_top_bg": "#f5f5f5",
+    "footer_title": "#000000",
+    "top_footer_text": "#111111",
+    "icon_colors": "#191c1c",
+    "footer_bottom_bg": "#f3f5f6",
+    "footer_bottom_text": "#111111",
+    "footer_border": "#eeeeee",
+    "newsletter_input": "#ffffff",
+    "newsletter_input_txt": "#000000",
+    "newsletter_btn_txt": "#ffffff",
+    "newsletter_btn": "#80bc00",
+    "ttl-font": 27,
+    "font-style": "400",
+    "cart-header": "#f5f5f5",
+    "cart-summery": "#f5f5f5",
+    "scroll_icon_colors": "#139ddd",
+    "text_link": "#111111",
+    "text_link_hv": "#f04343",
+    "header_bg_clr": "#f9f9f9",
+    "color_borders": "#eeeeee",
+    "tooltip_bg": "#000000",
+    "tooltip_text": "#ffffff",
+    "snow_effect": false,
+    "snow_style": "style1",
+    "topbar": false,
+    "topbar_fullwidth": false,
+    "leftTxt": "<a href=\"tel:5512345678%20833\"><i class=\"ad ad-phone-l\"><\/i> +55 1234 5678<\/a>\n<a href=\"mailto:contacto@waldos.com.mx\"><i class=\"ad ad-envelope-l\"><\/i> contacto@waldos.com.mx<\/a>",
+    "leftTxt-mobile": true,
+    "centerTxt": "<i class=\"ad ad-telegram-plane\"><\/i> ENVÍO GRATIS en compras superiores a $500",
+    "centerTxt-mobile": false,
+    "rightTxt": "Síguenos: [social-icons]",
+    "rightTxt-mobile": true,
+    "tphfont": 16,
+    "top_bar_text": "#f5f5f5",
+    "top_header_clr": "#3c7c3c",
+    "main_header_fullwidth": true,
+    "logosvg": "",
+    "logo": "shopify:\/\/shop_images\/Logo_Waldos_2022-01.png",
+    "align_logo": "left",
+    "logo_width": "80",
+    "logo_height": "80",
+    "header_height": "85",
+    "mobile_header_height": "85",
+    "logo_width_mbl": "90",
+    "nav_below_logo": true,
+    "hdTxt-block": "",
+    "show_sticky_header": false,
+    "sticky_logo_width": "66",
+    "sticky_logo_height": "66",
+    "sticky_header_height": "50",
+    "main_header_bg": "#ffffff",
+    "mainhead_img": "",
+    "main_header_repeat": "inherit",
+    "main_header_position": "center_center",
+    "main_header_size": "auto",
+    "main_header_attach": "inherit",
+    "header_bd": "#ffffff",
+    "header_ico": "#000000",
+    "icon_size": 20,
+    "hide_login": false,
+    "my_account_icn": "user",
+    "icon_style": "trolly",
+    "cart_count_clr": "#cb0303",
+    "cart_count_text": "#ffffff",
+    "home_classic": false,
+    "logo_cl": "",
+    "icon_text_clr": "#ffffff",
+    "drawer_bg": "#ffffff",
+    "drawer_txt": "#333333",
+    "drawer_bdr": "#dddddd",
+    "secondary_image": true,
+    "show_vendor": false,
+    "display_countdown": false,
+    "enable_quickshop": true,
+    "prlist_btn_show": false,
+    "btn_mobiles": true,
+    "price_style": "default",
+    "price_lbl": false,
+    "price_lbl_txt": "De",
+    "show_color_swatch": true,
+    "color_type": "color",
+    "vr_bg_position": "50% 50%",
+    "color_size": "small",
+    "color_style": "rounded",
+    "primg_ratio": "100",
+    "primg_size": "contain",
+    "prbox_style": "style1",
+    "pr_title_size": 14,
+    "trim_title": true,
+    "Prod_price": 17,
+    "color_price_text": "#003d59",
+    "color_sale_text": "#000000",
+    "prbox_bdr": "rgba(0,0,0,0)",
+    "prbox_vendor": "#777777",
+    "acti_swatch_bdr_clr": "#000000",
+    "grid_btn_style": "round_crn",
+    "prbox_btnbg": "#e55151",
+    "prbox_btn_ico": "#ffffff",
+    "grid_countdown_text": "#111111",
+    "grid_countdown_text_bg": "#ffffff",
+    "grid_countdown_border": "#ffffff",
+    "Products_countdown_text_bg_opacity": "0.75",
+    "pr_lbl": true,
+    "select_label_style": "rectangular",
+    "lbl_txt": "#ffffff",
+    "sale_lbl": true,
+    "sale_label_style": "discountlable",
+    "lbl_sale_cl": "#000000",
+    "lbl_sold": "#f48920",
+    "pr_label1": "Nuevo",
+    "pr_label1_cl": "#000000",
+    "pr_label2": "Hot",
+    "pr_label2_cl": "#e9a400",
+    "pr_label3": "Popular",
+    "pr_label3_cl": "#81d53d",
+    "product_fullwidth": true,
+    "product_latyout": "style1",
+    "sticky_cart": true,
+    "enable_zoom": true,
+    "enable_lightbox": false,
+    "thumbnail_pos": "left",
+    "show_saleoff": false,
+    "spr_vendor": false,
+    "spr_availability": true,
+    "spr_sku": false,
+    "show_product_type_single": false,
+    "show_short_desc_single": false,
+    "read_more_link": "",
+    "askaboutproduct": false,
+    "quan-sel": true,
+    "shippingpopup": false,
+    "shippingpage": "button-styles",
+    "sizechart_link": false,
+    "sizechart_type": "default",
+    "sizechart_page": "guia-de-tallas",
+    "enable_payment_button": false,
+    "show_collection": false,
+    "show_tags": false,
+    "show_share_buttons_single": false,
+    "sharing_lbl": "Comparte :",
+    "enable_360": false,
+    "max_width_popup": 400,
+    "max_hegiht_popup": 500,
+    "spr_navigation": true,
+    "spr_navigation_mb": true,
+    "countdown": false,
+    "countdown_lbl": "Apura, el descuento termina en:",
+    "countdown_text": "#050000",
+    "countdown_text_bg": "#f8f8f8",
+    "countdown_border": "#dddddd",
+    "show_swatch": true,
+    "sw_color_type": "color",
+    "v_bg_position": "50% 0",
+    "sw_color_size": "small",
+    "sw_color_style": "rounded",
+    "var_style": false,
+    "quantity_msg": true,
+    "max_quantity": 26,
+    "product_qunt_text_clr": "#ffffff",
+    "product_qunt_bg": "#c62838",
+    "fake_orders": true,
+    "orders": 49,
+    "orders_time": 5,
+    "orders_msg": "[orders] vendidos en los últimos 5 min.",
+    "fake_visitors": true,
+    "visitors": 40,
+    "visitors_time": 25,
+    "visitors_msg": "[visitors] personas más están viendo este producto.",
+    "trust_seal_img": "",
+    "store_ft1": "<!--<i class=\"ad ad-truck-l\"><\/i> Envíos a toda la república -->",
+    "store_ft2": "<!-- <i class=\"ad ad-sync-ar\"><\/i> 2 semanas de garantía -->",
+    "store_ft3": "<!-- <i class=\"ad ad-question-l\"><\/i> Atención a clientes 365 -->",
+    "feature_txt": "#111",
+    "Prod_name_font_size": 42,
+    "prod_title_transform": "none",
+    "prod_font_weight": "600",
+    "Prod_price_font_size": 39,
+    "prod_price_font_weight": "600",
+    "rprice": "#000",
+    "sprice": "#e55151",
+    "instock": "#3c7c3c",
+    "outstock": "#979797",
+    "checkout_btn_bg": "#e95144",
+    "checkout_btn_text": "#ffffff",
+    "tab_align": "center",
+    "prTab_ft": 13,
+    "pr_tabs_bg": "#eee",
+    "pr_tabs_txt": "#000",
+    "pr_tabs_bg_act": "#000000",
+    "pr_tabs_txt_act": "#eee",
+    "dis_border": true,
+    "pr_tabs_bdr": "#ddd",
+    "pr_tabs_bdr_act": "#000000",
+    "cart_bg": "#000000",
+    "cart_text": "#f5f5f5",
+    "cart_qty_bdr": "#f9f9f9",
+    "cart_btn": "#ffffff",
+    "cart_btn_text": "#000000",
+    "show_multiple_currencies": false,
+    "currency_opt": "shopify",
+    "auto_currencies": false,
+    "currency_title": "SELECT CURRENCY",
+    "currency_format": "money_format",
+    "supported_currencies": "INR GBP CAD USD AUD EUR JPY",
+    "default_currency": "USD",
+    "show_language": false,
+    "language_title": "SELECT LANGUAGE",
+    "default_language": "English",
+    "languages": "language",
+    "crn_lan_btn": "#000000",
+    "crn_lan_btn_act": "#f04343",
+    "show_notification": false,
+    "hide_notification_mb": true,
+    "notify_collection": "digimon",
+    "notify_msg": "Alguien compró",
+    "fake_time": false,
+    "time_msg": "minutos atrás",
+    "location_msg": "Desde",
+    "notify_location": "Nuevo León | Guadalajara | Toluca | Tijuana| Mérida | Veracruz | Guanajuato",
+    "notify_delay": "90000",
+    "notify_display": "7000",
+    "pnp_boxbg": "#ffffff",
+    "pnp_boxbg_txt": "#000000",
+    "quick_view": true,
+    "show_product_availability": true,
+    "show_product_sku": false,
+    "show_product_type": false,
+    "show_product_vendor": false,
+    "show_short_desc": true,
+    "show_variant_swatches": true,
+    "show_view_full_info": true,
+    "announcement": false,
+    "announcement_mb": false,
+    "announcement_txt": "¡HASTA 50% DE DESCUENTO en compras de temporada!",
+    "announcement_link": "shopify:\/\/collections\/temporadas",
+    "annouance_bg": "#ffdf58",
+    "promotion_bg": "",
+    "annouance_txt": "#ffffff",
+    "annouance_fs": 11,
+    "annouance_pd": "style1",
+    "mailChimp_url": "",
+    "newsletter_code": "",
+    "newsletter_popup": false,
+    "newsletter_popup_time": "0",
+    "newsltr-style": "style2",
+    "newsletter_img": "",
+    "newsletter_popup_title": "Join Our Mailing List",
+    "ttl1": 20,
+    "newsletter_popup_subtitle": "Stay Informed! Monthly Tips, Tracks and Discount.",
+    "ttl2": 13,
+    "newsletter_popup_bg": "#fafafa",
+    "newsletter_popup_text": "#111",
+    "btn_clr": "#111111",
+    "btn_txt": "#ffffff",
+    "show_social_icons": true,
+    "newsletter_social_icn": "#111111",
+    "newsltr_close": "#111111",
+    "show_gnote": false,
+    "show_closetrext": true,
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": false,
+    "share_linkedin": false,
+    "share_whatsapp": true,
+    "share_email": true,
+    "social_twitter_link": "https:\/\/twitter.com\/username",
+    "social_facebook_link": "https:\/\/www.facebook.com\/username",
+    "social_pinterest_link": "https:\/\/in.pinterest.com\/username",
+    "social_instagram_link": "https:\/\/www.instagram.com\/username",
+    "social_tumblr_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
+    "postal_codes": "01619,01620,01630,01640,01645,01650,01700,01708,01710,01720,01729,01730,01740,01750,01759,01760,01770,01780,01789,01790,01800,01807,01810,01820,01830,01840,01849,06760,06780,06800,06820,06840,06850,06860,06870,06880,06890,06900,06920,07000,07010,07020,07040,07050,07058,07060,07069,07070,07080,07089,07090,07100,07109,07110,07119,07130,07140,07144,07149,07150,07160,07164,07170,07180,09838,09839,09840,09849,09850,09856,09858,09859,09860,09868,09870,09880,09890,09897,09900,09910,09920,09930,09940,09960,09969,09970,04640,04650,04660,04700,04710,04730,04739,04800,04810,04815,04830,04840,04870,04890,04899,04909,04910,04918,04919,04920,04929,04930,04938,04939,04940,04950,04960,04970,04980,05000,05010,05020,05030,05050,05100,05110,05118,05119,05120,05129,05200,05219,05220,05230,05240,05260,05269,08810,08830,08840,08900,08910,08920,08930,09000,09010,09020,09030,09040,09060,09070,09080,09089,09090,09099,09100,09130,09140,09180,09200,09208,09209,09210,09220,09230,09239,09240,09250,09260,09270,09280,09290,09300,09310,09319,09320,09350,09359,09360,03103,03104,03200,03230,03240,03300,03303,03310,03320,03330,03340,03400,03410,03420,03430,03440,03500,03510,03520,03530,03540,03550,03560,03570,03580,03590,03600,03610,03620,03630,03640,03650,03660,03700,03710,03720,03730,03740,03800,03810,03820,03840,03900,03910,03920,03930,03940,04000,04010,04020,04030,07890,07899,07900,07910,07918,07919,07920,07930,07939,07940,07950,07960,07969,07970,07979,07980,07990,08000,08010,08020,08030,08040,08100,08200,08210,08220,08230,08240,08300,08310,08320,08400,08420,08500,08510,08600,08610,08620,08650,08700,08710,08720,08730,08760,08770,08800,04040,04100,04120,04200,04210,04230,04240,04250,04260,04300,04310,04318,04320,04330,04340,04360,04369,04370,04380,04390,04400,04410,04420,04440,04450,04460,04470,04480,04489,04490,04500,04510,04519,04530,04600,04610,04620,04630,09400,09410,09420,09429,09430,09438,09440,09450,09460,09470,09479,09480,09500,09510,09520,09530,09550,09560,09570,09578,09600,09608,09609,09620,09630,09637,09638,09640,09648,01857,01859,01860,01863,01870,01900,01904,02000,02010,02020,02040,02050,02060,02070,02080,02090,02099,02100,02120,02128,02129,02130,02140,02150,02160,02200,02230,02240,02250,02300,02310,02320,02330,02340,02360,02400,02410,02420,02440,02459,02460,02470,07183,07187,07188,07189,07190,07199,07200,07207,07209,07210,07214,07220,07224,07230,07239,07240,07250,07259,07268,07270,07279,07280,07290,07300,07310,07320,07330,07340,07350,07359,07360,07369,07370,07380,07400,07410,07420,07430,07440,07450,07455,07456,07460,07469,07470,07480,07500,07509,02480,02490,02500,02519,02520,02530,02600,02630,02640,02650,02660,02670,02680,02700,02710,02719,02720,02730,02750,02760,02770,02780,02790,02800,02810,02830,02840,02860,02870,02900,02910,02920,02930,02940,02950,02960,02970,02980,02990,03000,03010,03020,03023,03100,07510,07520,07530,07540,07550,07560,07570,07580,07600,07620,07630,07640,07650,07670,07680,07700,07707,07708,07720,07730,07739,07740,07750,07754,07755,07760,07770,07780,07790,07800,07810,07820,07830,07838,07839,07840,07850,07858,07859,07860,07869,07870,07880,07889,01389,01400,01407,01408,01410,01419,01420,01430,01450,01460,01470,01480,01490,01500,01509,01510,01520,01530,01538,01539,01540,01548,01549,01550,01560,01566,01569,01588,01590,01600,01610,01618,05270,05280,05310,05320,05330,05348,05360,05370,05379,05400,05410,05500,05520,05530,05600,05610,05700,05710,05730,05750,05760,05780,06000,06010,06020,06030,06040,06050,06060,06070,06080,06090,06100,06140,06170,06200,06220,06240,06250,06270,06280,06300,06350,06400,06430,06450,06470,06500,06600,06700,06720,09660,09670,09680,09689,09690,09696,09698,09700,09704,09705,09706,09708,09709,09710,09720,09730,09740,09750,09760,09769,09770,09780,09790,09800,09810,09819,09820,09828,09829,09830,09837,01220,01230,01239,01240,01250,01259,01260,01269,01270,01275,01276,01278,01279,01280,01285,01289,01290,01296,01298,01299,01310,01320,01330,01340,01376,01377,01000,01010,01020,01030,01040,01049,01050,01060,01070,01080,01089,01090,01100,01109,01110,01120,01125,01130,01139,01140,01150,01160,01170,01180,01200,01210,01219,50000,50010,50016,50017,50018,50019,50020,50026,50040,50050,50060,50070,50071,50075,50080,50090,50100,50103,50110,50115,50120,50122,50123,50130,50140,50150,50160,50168,50170,50180,50190,50200,50205,50206,50209,50210,50214,50220,50223,50225,50226,50227,50228,50230,50233,50235,50236,50240,50245,50246,50250,50253,50254,50255,50256,50257,50258,50260,50263,50264,50265,50266,50270,50273,50274,50280,50283,50284,50285,50286,50290,50293,50294,50295,50300,50303,50304,50305,50306,50310,50313,50314,50315,50323,50324,50325,50326,50330,50333,50334,50335,50336,50337,50340,50343,50344,50345,50350,50353,50354,50355,50356,50357,50360,50370,50373,50374,50375,50376,50380,50383,50384,50385,50386,50393,50394,50395,50396,50397,50400,50410,50413,50414,50415,50420,50423,50424,50425,50430,50433,50434,50435,50440,50443,50444,50445,50446,50447,50450,50453,50454,50455,50456,50457,50458,50460,50463,50464,50465,50466,50470,50473,50474,50475,50476,50480,50483,50484,50485,50486,50487,50490,50493,50494,50495,50496,50497,50500,50503,50504,50505,50507,50508,50509,50510,50520,50523,50524,50525,50526,50527,50528,50540,50550,50553,50554,50559,50560,50563,50564,50565,50566,50567,50570,50573,50574,50575,50583,50584,50590,50596,50597,50600,50601,50603,50604,50610,50613,50614,50615,50616,50617,50625,50626,50627,50630,50633,50634,50635,50636,50637,50640,50653,50654,50655,50656,50660,50663,50664,50665,50666,50667,50668,50670,50673,50674,50675,50676,50677,50678,50680,50683,50684,50685,50686,50687,50693,50694,50695,50696,50697,50700,50710,50713,50714,50715,50716,50717,50720,50724,50725,50726,50727,50733,50734,50736,50737,50740,50743,50744,50750,50753,50754,50755,50760,50764,50770,50773,50774,50775,50780,50783,50785,50800,50810,50813,50814,50815,50816,50820,50823,50824,50825,50826,50830,50833,50834,50835,50836,50840,50843,50844,50845,50846,50847,50848,50850,50860,50863,50864,50865,50866,50867,50868,50869,50870,50874,50880,50883,50884,50885,50886,50890,50893,50894,50895,50896,50900,50903,50904,50906,50907,50910,50920,50924,50925,50926,50927,50930,50933,50934,50935,50940,50943,50944,50945,50946,50960,50963,50964,50965,50966,50967,50970,50973,50974,50975,50980,50983,50984,50985,50986,50987,50990,50993,50994,50995,50996,50997,51000,51004,51005,51006,51007,51008,51009,51010,51013,51014,51015,51016,51017,51019,51020,51024,51025,51026,51027,51028,51029,51030,51034,51035,51036,51040,51043,51044,51045,51046,51050,51054,51055,51070,51074,51075,51076,51077,51080,51083,51084,51085,51089,51100,51104,51105,51106,51108,51109,51115,51116,51117,51130,51136,51137,51138,51139,51140,51144,51145,51147,51149,51160,51163,51164,51170,51173,51200,51204,51206,51207,51208,51209,51210,51217,51218,51219,51220,51225,51226,51227,51229,51230,51237,51238,51239,51240,51245,51246,51247,51248,51260,51265,51266,51267,51268,51270,51273,51274,51280,51285,51287,51300,51303,51304,51305,51310,51314,51315,51320,51323,51324,51325,51326,51340,51344,51345,51346,51350,51354,51355,51356,51357,51360,51364,51366,51367,51370,51373,51374,51375,51380,51383,51384,51385,51386,51390,51393,51400,51410,51412,51413,51414,51415,51416,51417,51418,51422,51423,51424,51425,51426,51427,51428,51430,51432,51433,51434,51435,51436,51437,51440,51442,51443,51445,51446,51453,51454,51455,51456,51457,51458,51459,51462,51463,51464,51465,51466,51467,51468,51470,51474,51475,51476,51477,51479,51480,51483,51484,51485,51486,51500,51510,51513,51514,51515,51516,51517,51518,51523,51524,51525,51526,51527,51530,51533,51534,51535,51536,51537,51540,51543,51544,51550,51553,51554,51555,51556,51557,51558,51559,51560,51564,51565,51566,51568,51569,51570,51572,51573,51574,51575,51576,51577,51578,51579,51580,51582,51583,51584,51585,51586,51587,51588,51590,51598,51599,51600,51603,51604,51605,51606,51607,51610,51613,51614,51620,51623,51624,51633,51634,51635,51636,51637,51640,51644,51645,51646,51647,51650,51653,51654,51655,51670,51673,51674,51675,51676,51680,51690,51693,51694,51695,51696,51697,51700,51704,51705,51713,51714,51715,51716,51720,51723,51724,51725,51726,51727,51730,51733,51734,51735,51750,51753,51754,51760,51765,51766,51767,51773,51775,51776,51777,51783,51784,51785,51786,51800,51810,51813,51814,51815,51816,51817,51820,51825,51826,51827,51850,51854,51855,51856,51857,51860,51863,51864,51865,51866,51867,51870,51874,51875,51880,51883,51900,51904,51905,51906,51907,51910,51915,51916,51917,51920,51923,51924,51930,51933,51936,51937,51950,51953,51954,51955,51956,51959,51960,51963,51964,51970,51973,51974,51977,51980,51984,51985,51986,51987,51988,51989,51990,51994,51995,51996,51997,52000,52004,52005,52006,52010,52020,52030,52040,52043,52044,52045,52046,52047,52050,52054,52055,52059,52060,52064,52065,52067,52070,52073,52074,52075,52076,52077,52080,52082,52083,52084,52085,52088,52089,52090,52094,52095,52096,52100,52104,52105,52106,52107,52110,52120,52140,52143,52144,52145,52146,52147,52148,52149,52150,52154,52155,52156,52157,52158,52159,52160,52161,52164,52165,52166,52167,52168,52169,52170,52172,52175,52176,52177,52178,52179,52180,52182,52183,52184,52185,52186,52187,52189,52200,52203,52204,52205,52210,52213,52214,52215,52220,52223,52224,52225,52226,52227,52230,52233,52234,52235,52236,52240,52243,52244,52250,52253,52254,52280,52282,52286,52290,52300,52303,52304,52305,52307,52310,52315,52316,52317,52320,52330,52333,52334,52336,52337,52340,52343,52345,52346,52347,52350,52353,52354,52355,52356,52357,52360,52362,52363,52364,52365,52366,52367,52370,52374,52376,52380,52387,52390,52400,52403,52410,52413,52414,52415,52416,52420,52423,52424,52425,52426,52427,52430,52433,52434,52435,52436,52437,52440,52443,52444,52460,52463,52464,52465,52466,52467,52470,52473,52476,52477,52480,52483,52484,52485,52486,52487,52490,52493,52494,52495,52496,52497,52500,52503,52504,52505,52506,52540,52542,52543,52544,52570,52574,52600,52603,52604,52605,52607,52613,52614,52640,52644,52645,52646,52650,52653,52654,52656,52660,52664,52665,52666,52667,52680,52683,52684,52685,52686,52688,52689,52690,52693,52700,52710,52713,52714,52720,52723,52730,52733,52740,52743,52750,52753,52754,52755,52756,52757,52760,52763,52764,52765,52766,52767,52768,52769,52770,52773,52774,52775,52776,52777,52778,52779,52780,52783,52784,52785,52786,52787,52788,52789,52790,52793,52794,52795,52796,52797,52798,52799,52900,52909,52910,52915,52916,52918,52919,52920,52923,52924,52925,52926,52927,52928,52929,52930,52934,52936,52937,52938,52939,52940,52945,52946,52947,52948,52949,52950,52953,52956,52957,52958,52959,52960,52965,52966,52967,52968,52970,52975,52976,52977,52978,52979,52980,52985,52986,52987,52988,52989,52990,52994,52995,52996,52997,52998,53000,53010,53030,53040,53050,53060,53070,53100,53110,53115,53116,53117,53119,53120,53124,53125,53126,53127,53128,53129,53130,53138,53140,53150,53160,53170,53177,53178,53179,53200,53215,53216,53217,53218,53219,53220,53224,53227,53228,53229,53230,53237,53239,53240,53247,53248,53250,53260,53270,53278,53279,53280,53283,53290,53296,53297,53298,53300,53309,53310,53320,53329,53330,53338,53339,53340,53348,53350,53370,53378,53390,53398,53400,53410,53420,53425,53426,53427,53428,53430,53440,53450,53458,53459,53460,53470,53489,53490,53500,53519,53520,53529,53530,53533,53550,53560,53569,53570,53580,53598,53640,53650,53653,53654,53655,53658,53659,53660,53664,53670,53680,53687,53688,53689,53690,53694,53695,53696,53697,53698,53700,53708,53710,53713,53714,53716,53717,53718,53719,53730,53760,53770,53780,53787,53788,53790,53798,53799,53800,53809,53810,53819,53820,53830,53839,53840,53900,53909,53910,53930,53940,53950,53960,53970,54000,54009,54010,54015,54016,54017,54020,54021,54022,54023,54025,54026,54028,54030,54033,54037,54038,54040,54049,54050,54054,54055,54057,54059,54060,54063,54067,54068,54069,54070,54073,54075,54076,54080,54090,54092,54093,54094,54098,54100,54108,54109,54110,54118,54119,54120,54124,54126,54127,54128,54130,54134,54135,54136,54140,54142,54143,54145,54146,54147,54149,54150,54152,54158,54160,54162,54168,54170,54172,54173,54180,54187,54189,54190,54193,54195,54196,54197,54198,54200,54203,54204,54220,54223,54224,54225,54226,54227,54233,54234,54235,54236,54237,54239,54240,54246,54250,54253,54254,54255,54256,54257,54260,54263,54264,54265,54270,54273,54274,54275,54276,54280,54283,54284,54285,54290,54293,54294,54295,54296,54297,54300,54310,54313,54314,54315,54320,54324,54325,54326,54327,54330,54333,54334,54335,54336,54337,54340,54345,54346,54350,54360,54363,54364,54365,54366,54367,54373,54374,54375,54380,54383,54384,54385,54386,54387,54400,54402,54405,54407,54408,54409,54410,54413,54414,54416,54417,54420,54424,54425,54426,54430,54434,54435,54439,54440,54448,54449,54455,54457,54459,54460,54463,54464,54466,54467,54469,54470,54473,54474,54475,54476,54477,54480,54483,54484,54485,54486,54490,54493,54494,54495,54539,54570,54571,54573,54574,54575,54600,54602,54603,54604,54605,54607,54608,54610,54614,54615,54616,54640,54645,54650,54655,54656,54658,54660,54665,54666,54667,54668,54680,54683,54684,54685,54687,54690,54693,54694,54696,54697,54700,54710,54712,54713,54714,54715,54716,54719,54720,54725,54729,54730,54740,54743,54744,54745,54750,54753,54759,54760,54763,54764,54765,54766,54767,54769,54770,54783,54784,54785,54786,54800,54803,54804,54805,54807,54830,54831,54834,54835,54836,54840,54850,54855,54857,54858,54860,54870,54875,54877,54878,54879,54880,54882,54883,54884,54890,54893,54894,54900,54910,54913,54914,54915,54916,54918,54920,54924,54925,54926,54927,54929,54930,54932,54933,54934,54935,54938,54939,54940,54942,54943,54944,54945,54946,54947,54948,54949,54950,54954,54955,54957,54958,54959,54960,54962,54963,54964,54965,54966,54967,54970,54972,54974,54975,54976,54977,54980,54983,54984,54985,54986,54987,54990,55000,55010,55014,55016,55017,55018,55020,55023,55024,55025,55027,55028,55029,55030,55036,55037,55038,55039,55040,55050,55055,55056,55059,55060,55063,55064,55065,55066,55067,55068,55069,55070,55074,55075,55076,55080,55084,55085,55087,55090,55094,55095,55100,55104,55105,55107,55114,55115,55117,55118,55119,55120,55125,55126,55127,55128,55129,55130,55135,55137,55138,55139,55140,55146,55147,55148,55149,55158,55170,55176,55180,55187,55188,55189,55190,55200,55210,55218,55220,55230,55234,55235,55236,55237,55238,55240,55242,55243,55244,55245,55246,55247,55248,55249,55260,55264,55266,55267,55268,55269,55270,55280,55284,55287,55288,55289,55290,55294,55295,55296,55297,55298,55299,55300,55308,55310,55316,55317,55320,55330,55338,55339,55340,55347,55348,55349,55360,55369,55390,55400,55404,55405,55407,55410,55414,55415,55416,55417,55418,55419,55420,55425,55429,55430,55450,55458,55459,55490,55498,55500,55506,55507,55508,55509,55510,55515,55516,55517,55518,55519,55520,55530,55540,55547,55548,55549,55600,55604,55605,55606,55607,55609,55610,55613,55614,55619,55620,55627,55628,55629,55630,55634,55635,55636,55637,55640,55650,55653,55654,55655,55656,55657,55660,55663,55664,55665,55666,55667,55670,55676,55679,55680,55683,55684,55685,55689,55690,55694,55697,55700,55705,55707,55708,55709,55710,55712,55713,55714,55715,55716,55717,55718,55719,55720,55726,55728,55729,55730,55736,55737,55738,55739,55740,55743,55744,55745,55746,55747,55748,55749,55750,55752,55754,55755,55757,55758,55760,55763,55764,55765,55766,55767,55768,55769,55770,55773,55776,55778,55780,55783,55784,55785,55786,55787,55790,55793,55794,55795,55796,55797,55799,55800,55803,55804,55805,55806,55807,55810,55816,55817,55820,55823,55824,55825,55826,55829,55830,55833,55834,55835,55836,55837,55838,55840,55843,55844,55845,55846,55847,55850,55852,55853,55854,55855,55856,55859,55870,55873,55874,55875,55877,55878,55880,55882,55883,55884,55885,55886,55887,55888,55890,55893,55894,55895,55896,55899,55900,55913,55914,55920,55923,55924,55925,55926,55927,55930,55934,55935,55936,55937,55940,55943,55950,55952,55954,55955,55956,55960,55963,55965,55966,55970,55973,55975,55976,55977,55978,55980,55983,55984,55985,55988,55989,55990,55993,55994,55995,55996,55997,55998,56000,56003,56004,56005,56006,56007,56010,56020,56023,56024,56030,56033,56034,56035,56036,56037,56038,56040,56050,56053,56054,56055,56056,56057,56070,56074,56075,56077,56078,56080,56085,56086,56087,56100,56105,56106,56110,56120,56130,56140,56150,56160,56170,56200,56203,56204,56205,56207,56208,56210,56213,56214,56215,56216,56217,56220,56223,56224,56225,56226,56227,56230,56233,56235,56236,56237,56240,56243,56244,56245,56246,56247,56250,56253,56254,56255,56256,56257,56260,56263,56264,56265,56266,56267,56268,56270,56272,56273,56274,56280,56300,56303,56304,56305,56306,56310,56314,56315,56330,56334,56335,56337,56338,56340,56343,56344,56346,56350,56353,56356,56360,56363,56366,56370,56373,56375,56376,56377,56380,56383,56384,56386,56390,56395,56396,56400,56410,56420,56428,56429,56430,56440,56490,56495,56500,56505,56507,56508,56509,56510,56512,56513,56514,56515,56516,56520,56524,56525,56526,56527,56528,56529,56530,56535,56536,56537,56538,56539,56540,56550,56553,56555,56556,56558,56560,56563,56564,56565,56566,56567,56568,56569,56570,56576,56577,56579,56580,56584,56585,56586,56587,56588,56589,56590,56599,56600,56604,56605,56606,56607,56608,56609,56610,56613,56614,56615,56616,56617,56618,56619,56620,56623,56624,56625,56640,56641,56642,56643,56644,56646,56647,56650,56653,56654,56655,56656,56657,56680,56683,56684,56700,56703,56704,56710,56713,56714,56715,56716,56720,56723,56726,56730,56731,56735,56740,56743,56744,56745,56746,56747,56760,56763,56765,56766,56767,56770,56776,56780,56783,56784,56785,56800,56803,56804,56805,56806,56810,56813,56814,56815,56816,56820,56860,56863,56864,56866,56867,56870,56880,56884,56885,56890,56893,56894,56900,56903,56904,56905,56913,56914,56920,56923,56924,56930,56933,56935,56940,56945,56950,56953,56954,56955,56956,56960,56963,56965,56970,56973,56974,56975,56976,56980,56982,56983,56984,56990,56993,56996,57000,57100,57103,57120,57129,57130,57138,57139,57140,57150,57158,57170,57171,57178,57179,57180,57185,57188,57189,57200,57205,57210,57300,57310,57400,57410,57420,57425,57430,57440,57450,57460,57465,57500,57510,57520,57530,57600,57610,57620,57630,57700,57708,57709,57710,57718,57719,57720,57730,57739,57740,57750,57760,57800,57809,57810,57819,57820,57830,57840,57849,57900,57910,57920,57930,57940,57950",
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/logoWaldos.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#f9f9f9",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#ffffff",
+    "checkout_heading_font": "Roboto",
+    "checkout_body_font": "Lato",
+    "checkout_accent_color": "#1990c6",
+    "checkout_button_color": "#16395b",
+    "checkout_error_color": "#ff6d6d",
+    "Prod_name_font_size_S": 12,
+    "prod_title_transform_s": "none",
+    "prod_font_weight_s": "normal",
+    "color_product_title": "#111111",
+    "spr_review": true,
+    "spr_review_quick": true,
+    "show_share_buttons": true,
+    "show_product_review_cnt": false,
+    "share_image": "",
+    "newsletter_popup_title_color": "#000000",
+    "text-size": 19,
+    "product_detail_tab_button": "#f7f7f7",
+    "product_detail_tab_button_br": "#dddddd",
+    "product_detail_tab_button_text": "#0a0808",
+    "product_detail_tab_button_active": "rgba(0,0,0,0)",
+    "product_detail_tab_button_br_active": "#e5e5e5",
+    "product_detail_tab_button_active_text": "#111111",
+    "collection_ttl": "#111111",
+    "collection_ttl_bg": "#ffffff",
+    "collection_ttl_opt": 0.9,
+    "bnr_ttl": "#000000",
+    "bnr_ttl_bg": "#ffffff",
+    "collection_ttl_hm": "#ee4848",
+    "collection_ttl_bg_hm": "#111111",
+    "collection_ttl_opt_hm": "0.9",
+    "testimonials_bg": "#f5f5f5",
+    "testimonials_bg_img": "shopify:\/\/shop_images\/banner.jpg",
+    "testimonials_text": "#444444",
+    "pr_star_color": "#f7b427",
+    "box_shadow": "false",
+    "v_f_bg_position": "50% 0",
+    "share_google": true,
+    "prbox_btn_icon": "#ffffff",
+    "mailChimp_newsletter": "",
+    "footer_bg": "#111111",
+    "footer_text": "#ffffff",
+    "show_product_navigation": true,
+    "enable_ctcl": true,
+    "fullwidth": true,
+    "show_product_review_single": true,
+    "show_product_availability_single": true,
+    "show_product_vendor_single": true,
+    "show_product_sku_single": true,
+    "product_qunt_border_clr": "#eee",
+    "social_google_link": "https:\/\/plus.google.com\/102080012552359475231",
+    "section_heading_size": 21,
+    "section_heading_weight": "normal",
+    "section_heading_2_weight": "normal",
+    "section_heading_2_lh": 1.3,
+    "font_weight_colle_list": "700",
+    "slideshow_text_1_fw": "normal",
+    "slideshow_text_1_lh": 1.1,
+    "slideshow_text_2_fw": "normal",
+    "slideshow_text_3_fw": "normal",
+    "slide_text_clr": "#000000",
+    "display_overlay_border": false,
+    "slide_border_clr": "#000000",
+    "show_buynow": true,
+    "sticky_logo": "",
+    "lbl_sale_color": "#ff708e",
+    "lbl1_color": "#83cc52",
+    "lbl2_color": "#f5a100",
+    "lbl3_color": "#39cdf2",
+    "image_swatches": false,
+    "header_text_clr": "#000",
+    "nav_link_lbl_bg": "#f7d610",
+    "navbar_link_bghv": "#1c0505",
+    "section_spacing": "70px",
+    "color_bg": "#111111",
+    "annouance_color_text": "#ffffff",
+    "body_bg_position": "default",
+    "header_bottom_bdr": "rgba(0,0,0,0)",
+    "headed_height": "60",
+    "top_bar_icons": "#444444",
+    "color_image_overlay": "#ffffff",
+    "image_overlay_opacity": "0.7",
+    "navbar_bg": "rgba(0,0,0,0)",
+    "top_bar_bottom_border": "#fff",
+    "pr_tab_bg_ac": "rgba(0,0,0,0)",
+    "ttl_sep_line": "#8dc337",
+    "header_text": "#444444",
+    "header_hlight": "#444444",
+    "search_txt": "#444",
+    "search_bg": "#fff",
+    "search_bdr": "#ddd",
+    "nav_bottom_bdr": "#16395b",
+    "sidebar_box_bd": "#eee",
+    "sidebar_ttls_bg": "#f5f5f5",
+    "top_header_border_clr": "#dedede",
+    "newsletter_text": "#000000",
+    "newsletter_bg": "#b5dafe",
+    "cart_icn": "#fff",
+    "cart_icn_bg": "#16395b",
+    "product_tick_color": "#8dc337",
+    "product_review_color": "#f2b827",
+    "collection_ttl_opacity_hm": "0.7",
+    "collection_ttl_opacity": "0",
+    "button_style": "style2",
+    "type_base_family": "Google_Roboto_400_sans",
+    "type_header_family": "Google_Roboto_400_sans",
+    "search_ico": "#fff",
+    "search_btn": "#8dc337",
+    "product_detail_tab_border": "#e8e9eb",
+    "product_detail_tab_text_color": "#2e2d2d",
+    "product_detail_tab_active_text_color": "#000",
+    "color_button_hv": "#075159",
+    "color_small_button_hv": "#ef8700",
+    "password_bg": "",
+    "password_logo": "",
+    "show_collection_image": true,
+    "sort_enable": true,
+    "collection_sidebar": true,
+    "sidebar_position": "left",
+    "filter_btn_mobile": false,
+    "grid": "4",
+    "rows": "2",
+    "display_categories": true,
+    "display_filter_1": true,
+    "filter_1_label": "Price",
+    "shop_by_filter1_tag_lists": "Under $50,\nUnder $100, \n$100 - $400, \n$400 - $600,\n$600 - $800,\nAbove $800",
+    "display_filter_2": true,
+    "filter_2_label": "Size",
+    "shop_by_filter2_tag_lists": "XS,\r\nS,\r\nM,\r\nL,\r\nXL,\r\nXXL,\r\nOne Size",
+    "display_filter_3": true,
+    "filter_3_label": "Color",
+    "shop_by_color_1_name": "Black",
+    "shop_by_color_1": "#000",
+    "shop_by_color_2_name": "White",
+    "shop_by_color_2": "#fff",
+    "shop_by_color_3_name": "Red",
+    "shop_by_color_3": "#f93d03",
+    "shop_by_color_4_name": "Blue",
+    "shop_by_color_4": "#015be2",
+    "shop_by_color_5_name": "Pink",
+    "shop_by_color_5": "#f53c7f",
+    "shop_by_color_6_name": "Silver",
+    "shop_by_color_6": "#e1dddf",
+    "shop_by_color_7_name": "Gray",
+    "shop_by_color_7": "#c3bfc1",
+    "shop_by_color_8_name": "Green",
+    "shop_by_color_8": "#08b12c",
+    "shop_by_color_9_name": "Oragnge",
+    "shop_by_color_9": "#f1840e",
+    "shop_by_color_10_name": "Marun",
+    "shop_by_color_10": "#a5030f",
+    "shop_by_color_11_name": "Yellow",
+    "shop_by_color_11": "#f7e308",
+    "shop_by_color_12_name": "Cyan",
+    "shop_by_color_12": "#1a8180",
+    "shop_by_color_13_name": "Gold",
+    "shop_by_color_13": "#b28f35",
+    "shop_by_color_14_name": "Lavender",
+    "shop_by_color_14": "#8131c6",
+    "shop_by_color_15_name": "LimeGreen",
+    "shop_by_color_15": "#32cc08",
+    "display_filter_4": true,
+    "filter_4_label": "Brand",
+    "shop_by_filter4_tag_lists": "Allen Vela, Famiza, Oxymat, Vanelas, Pagini,\r\nMonark, Cantitate, Lirisla,\r\nZuzuva",
+    "display_filter_5": false,
+    "filter_5_label": "",
+    "shop_by_filter5_tag_lists": "",
+    "display_filter_6": false,
+    "filter_6_label": "",
+    "shop_by_filter6_tag_lists": "",
+    "display_sidebar_products_carosel": true,
+    "sidebar_products_title": "Popular Products",
+    "products_list_collection": "",
+    "num_of_products_in_carosel": "4",
+    "display_static_banner_block": true,
+    "static_banner_link": "#",
+    "display_static_text_block": true,
+    "static_text_block_title": "Static Block",
+    "static_text_block_text": "You can manage this text block from admin panel sidebar.",
+    "display_product_tags": true,
+    "price_color": "#f77200",
+    "footer__middle_topborder_clr": "#ddd",
+    "footer_middle_bg_clr": "#eee",
+    "footer__middle_text_clr": "#222",
+    "footer__bottom_topborder_clr": "#ddd",
+    "footer_bottom_bg_clr": "#f5f5f5",
+    "footer__bottom_text_clr": "#222",
+    "img_bnr_overlay": "#0b76cb",
+    "img_bnr_overlay_opacity": "0.3",
+    "footer_bg_clr": "#000e11",
+    "footer_text_clr": "#ffffff",
+    "footer_title_clr": "#ffad00",
+    "footer_border_clr": "#f9f9f9",
+    "newsletter_input_color": "#fff",
+    "newsletter_input_text_color": "#222",
+    "newsletter_input_border_color": "#222",
+    "newsletter_text_border_color": "#fff",
+    "newsletter_text_border_hover_color": "#222",
+    "newsletter_bg_clr": "#48a6ae",
+    "newsletter_text_clr": "#000",
+    "newsletter_border_clr": "#e8e9eb",
+    "newsletter_button_clr": "#075159",
+    "newsletter_button_hover_clr": "#ffad00",
+    "social_icon_colors": "#686868",
+    "product_tab_text_color": "#929292",
+    "product_tab_active_text_color": "#000",
+    "lbl_new_color": "#000000",
+    "show_product_label": true,
+    "main_header_bg_clr": "#fff",
+    "search_ico_clr": "#000",
+    "top_header_text_clr": "#010909",
+    "cart_bag_clr": "#000",
+    "disable_newsletter_popup": false,
+    "display_newsletter": true,
+    "socia_icon_color": "#141515",
+    "display_facebook": true,
+    "display_twitter": true,
+    "display_pinterest": true,
+    "display_instagram": true,
+    "display_tumblr": true,
+    "display_youtube": true,
+    "display_vimeo": true,
+    "type_bold_product_titles": false,
+    "social_snapchat_link": "",
+    "is_layout_fullwidth": false,
+    "is_header_fullwidth": true,
+    "header_border_clr": "#e8e9eb",
+    "button_bg_clr": "#ffffff",
+    "button_text_clr": "#888888",
+    "product_filter_heading_clr": "#075159",
+    "is_layout_fullwidth?": true,
+    "sections": {
+      "404": {
+        "type": "404",
+        "settings": {
+          "title": "Page Not Found",
+          "title2": "The page you requested does not exist.",
+          "btntext": "Continue shopping",
+          "btntlnk": "\/"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "settings": {
+          "section_width": true,
+          "snow_effect": false,
+          "snow_style": "style1",
+          "copyright_text": "Aceptamos",
+          "show_designby": false,
+          "show_payment": true,
+          "payment_img_width": "350"
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "layout": "style2",
+          "cart_notes_enable": false,
+          "display_saving": true,
+          "shippingTax": true,
+          "additionalCheckout": true,
+          "currency_notes": "We processes all orders in [shop.currency]. While the content of your cart is currently displayed in [selected.currency], the checkout will use [shop.currency] at the most current exchange rate.",
+          "shipping_calculator": false,
+          "shipping_calculator_heading": "Get shipping estimates",
+          "shipping_calculator_default_country": "United States",
+          "shipping_calculator_submit_button_label": "Calculate shipping",
+          "shipping_calculator_submit_button_label_disabled": "Calculating...",
+          "enable_giftcard": false,
+          "gift_product": "gift-wrapping",
+          "gift_wrap_optin": "diffrent-rate",
+          "gift-wrap-text": "Add a Gift Wrap to your order, For $",
+          "gift-wrap-msg": "Gift Message Note:"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "blocks": {
+          "1551070915808": {
+            "type": "descriptions",
+            "settings": {
+              "title": "Descripción"
+            }
+          },
+          "1551070927092": {
+            "type": "review",
+            "settings": {
+              "title": "Reseñas"
+            }
+          },
+          "1551070955235": {
+            "type": "custom",
+            "disabled": true,
+            "settings": {
+              "title": "Política de envíos",
+              "content": "<p><\/p><h4>Política de envíos<\/h4><br><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eros justo, accumsan non dui sit amet. Phasellus semper volutpat mi sed imperdiet. Ut odio lectus, vulputate non ex non, mattis sollicitudin purus. Mauris consequat justo a enim interdum, in consequat dolor accumsan. Nulla iaculis diam purus, ut vehicula leo efficitur at.<\/p><br><p>Interdum et malesuada fames ac ante ipsum primis in faucibus. In blandit nunc enim, sit amet pharetra erat aliquet ac.<\/p>\n<p><\/p><h4>Shipping<\/h4>\n<p><\/p><p>Pellentesque ultrices ut sem sit amet lacinia. Sed nisi dui, ultrices ut turpis pulvinar. Sed fringilla ex eget lorem consectetur, consectetur blandit lacus varius. Duis vel scelerisque elit, et vestibulum metus. Integer sit amet tincidunt tortor. Ut lacinia ullamcorper massa, a fermentum arcu vehicula ut. Ut efficitur faucibus dui Nullam tristique dolor eget turpis consequat varius. Quisque a interdum augue. Nam ut nibh mauris.<br><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1551070915808",
+          "1551070927092",
+          "1551070955235"
+        ],
+        "settings": {
+          "show_product_tabs": true
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "blocks": {
+          "1514544048360": {
+            "type": "by_color",
+            "settings": {
+              "title": "Color",
+              "filter_tags": "Negro, Rojo, Verde, Azul, Naranja, Rosa, Blanco, Gris, Dorado, Morado, Azul marino, Oliva, Violeta, Rosa,",
+              "color_size": "medium",
+              "color_style": "rounded"
+            }
+          },
+          "1552451607178": {
+            "type": "filter_by",
+            "settings": {
+              "title": "Tamaño",
+              "filter_tags": "Chico, Mediano, Grande",
+              "twocall": false
+            }
+          },
+          "1514544014309": {
+            "type": "filter_by",
+            "settings": {
+              "title": "Precio",
+              "filter_tags": "Menos de  $20.99,\n$21 - $50.99,\n$51 - $99.99,\n$100 - $200,\n$200 - $500,\nMás de $500",
+              "twocall": false
+            }
+          },
+          "015dce81-8d4f-46f8-9197-c2e48eaee1e3": {
+            "type": "filter_by",
+            "settings": {
+              "title": "Presentación",
+              "filter_tags": "Individual,\nPaquete",
+              "twocall": false
+            }
+          },
+          "1515868614230": {
+            "type": "products",
+            "disabled": true,
+            "settings": {
+              "title": "Quizá te interese",
+              "sidebar_products": "digimon",
+              "num_of_products": "2",
+              "side_all_products": false,
+              "btn_txt": "View All",
+              "side_prod_opt": "slider"
+            }
+          }
+        },
+        "block_order": [
+          "1514544048360",
+          "1552451607178",
+          "1514544014309",
+          "015dce81-8d4f-46f8-9197-c2e48eaee1e3",
+          "1515868614230"
+        ],
+        "settings": {
+          "fullwidth": true,
+          "show_collection_name": true,
+          "show_collection_image": false,
+          "banner_position": "top",
+          "bheight": 240,
+          "bheightipad": 90,
+          "bheightmob": 60,
+          "banner_style": "info-below",
+          "text-align": "text-left",
+          "collection-des": "top",
+          "clr_bg": "rgba(0,0,0,0)",
+          "clr_text": "#111111",
+          "clr_text_des": "#111111",
+          "secondary_image": true,
+          "show_vendor": false,
+          "prlist_btn_show": false,
+          "btn_mobiles": true,
+          "show_color_swatch": true,
+          "color_type": "color",
+          "vr_bg_position": "50% 50%",
+          "color_size": "small",
+          "color_style": "rounded",
+          "sort_enable": true,
+          "dis_prod_cnt": true,
+          "dis_grid_icn": false,
+          "prbox_style": "style1",
+          "grid": 4,
+          "tablet-grid": 3,
+          "mobile-grid": 2,
+          "rows": "12",
+          "pagination": "infinite",
+          "collection_sidebar": false,
+          "sidebar_position": "left"
+        }
+      },
+      "contact-template": {
+        "type": "contact-template",
+        "settings": {
+          "layout": "style1",
+          "show_google_map": true,
+          "map_address": "80 Spadina Ave, Toronto",
+          "api_key": "AIzaSyBfs0U_8RAYVZGgqMLb_dgO55R4Cw0X30k",
+          "contact_title": "Drop Us A Line",
+          "contact_text_desc": "Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500",
+          "store_opening_time": "<strong>Opening Hours<\/strong>\nMon - Sat : 9am - 11pm<br>\nSunday: 11am - 5pm",
+          "logo": "",
+          "cnt_title": "",
+          "store_address": "<strong>ADDRESS :<\/strong> 55 Gallaxy Enque,\n2568 steet, 23568 NY",
+          "store_phone": "<strong>PHONE : <\/strong> (440) 000 000 0000",
+          "store_email": "<strong>EMAIL:<\/strong> sales@yousite.com",
+          "show_socials": true,
+          "socials_ttl": "<b>STAY CONNECTED<\/b>",
+          "form_bg": "#f8f8f8",
+          "form_text": "#111111"
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "blocks": {
+          "1557117928594": {
+            "type": "collection",
+            "settings": {
+              "collection": "women",
+              "custom_name": "Women Tops"
+            }
+          },
+          "1557118850960": {
+            "type": "collection",
+            "settings": {
+              "collection": "women-fashion",
+              "custom_name": "New Arrivals"
+            }
+          },
+          "1557118640283": {
+            "type": "collection",
+            "settings": {
+              "collection": "popular",
+              "custom_name": "Mini Skirts"
+            }
+          },
+          "1557117919112": {
+            "type": "collection",
+            "settings": {
+              "collection": "accssories",
+              "custom_name": ""
+            }
+          },
+          "1557117924677": {
+            "type": "collection",
+            "settings": {
+              "collection": "bag",
+              "custom_name": ""
+            }
+          },
+          "1557117940326": {
+            "type": "collection",
+            "settings": {
+              "collection": "men",
+              "custom_name": "Men"
+            }
+          },
+          "1557117951245": {
+            "type": "collection",
+            "settings": {
+              "collection": "shoes",
+              "custom_name": "Women Shoes"
+            }
+          },
+          "1561292589786": {
+            "type": "collection",
+            "settings": {
+              "collection": "women-fashion",
+              "custom_name": "Hot Collection"
+            }
+          },
+          "1564919258286": {
+            "type": "collection",
+            "settings": {
+              "collection": "accssories",
+              "custom_name": ""
+            }
+          }
+        },
+        "block_order": [
+          "1557117928594",
+          "1557118850960",
+          "1557118640283",
+          "1557117919112",
+          "1557117924677",
+          "1557117940326",
+          "1557117951245",
+          "1561292589786",
+          "1564919258286"
+        ],
+        "settings": {
+          "section_width": false,
+          "page_title": "Collection 2019",
+          "display_type": "selected",
+          "sort": "alphabetical",
+          "product_count": true,
+          "collection_btn": "Shop Now",
+          "style": "style2",
+          "grid-spacing": 4,
+          "grid": 3,
+          "tablet-grid": 3,
+          "mobile-grid": 1,
+          "collection_ttl_hm": "#ffffff",
+          "collection_ttl_bg_hm": "#020101",
+          "collection_ttl_opt_hm": 0.8
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "layout": "list",
+          "img_ratio": "100",
+          "sidebar_position": "left",
+          "blog_align": "text-left",
+          "grid": 3,
+          "tablet-grid": 2,
+          "mobile-grid": 1,
+          "blog_show_author": false,
+          "blog_show_date": true,
+          "show_comment": true,
+          "show_mini_des": true,
+          "show_tags": true,
+          "number_of_post_to_show": "4",
+          "show_category": true,
+          "category_box_title": "Categorías",
+          "show_recent_posts": true,
+          "recent_posts_title": "Publicaciones recientes",
+          "show_banner_ad": false,
+          "banner_link": "",
+          "show_products": false,
+          "collection_title": "No olvides revisar",
+          "sidebar_collection": "abarrotes-basicos",
+          "number_of_prodcut": "3"
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "sidebar_position": "right",
+          "text_align": "text-left",
+          "featured-img": true,
+          "blog_show_author": false,
+          "blog_show_date": true,
+          "show_share_buttons": true,
+          "show_category": false,
+          "category_box_title": "Category",
+          "show_recent_posts": true,
+          "recent_posts_title": "Artículos recientes",
+          "show_banner_ad": false,
+          "banner_link": "",
+          "show_products": false,
+          "collection_title": "No olvides revisar",
+          "sidebar_collection": "digimon",
+          "number_of_prodcut": "4"
+        }
+      },
+      "image-slideshow": {
+        "type": "image-slideshow",
+        "blocks": {
+          "1514539053861": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/BANNERS_WEBMesa_de_trabajo_7_150x-100.jpg",
+              "link": "",
+              "newTab": false
+            }
+          },
+          "1514540186212": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/bannMov01.png",
+              "link": "",
+              "newTab": false
+            }
+          },
+          "1514540219114": {
+            "type": "image",
+            "settings": {
+              "link": "",
+              "newTab": false
+            }
+          }
+        },
+        "block_order": [
+          "1514539053861",
+          "1514540186212",
+          "1514540219114"
+        ],
+        "settings": {
+          "section_width": true,
+          "top-offeset": "default",
+          "autoplay": true,
+          "autoplay_speed": "7000",
+          "arrow": true,
+          "dots": false,
+          "snow_effect": false,
+          "snow_style": "style1"
+        }
+      },
+      "related-products": {
+        "type": "related-products",
+        "settings": {
+          "show_related_products": true,
+          "related_products_autoplay": true,
+          "autoplay_speed": "3000",
+          "related_title": "Productos relacionados",
+          "related_sub_title": "",
+          "grid": 5,
+          "tablet-grid": 3,
+          "mobile-grid": 2,
+          "related_total_product_to_show": "6"
+        }
+      },
+      "password-content": {
+        "type": "password-content",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/logo.png",
+          "logo_max_width": "300",
+          "header": "We will launch soon",
+          "newsletter_enable": true,
+          "newsletter_form_heading": "Be the first to know when we launch.",
+          "newsletter_placeholder": "Email address",
+          "newsletter_button_text": "Notify me",
+          "show_share_buttons": true,
+          "show_powered_by": false,
+          "social_message": "Stay in touch",
+          "password_bg": "",
+          "bg_color": "#111111",
+          "cnt_bg": "#ffffff",
+          "cnt_bg_opacity": "0.9",
+          "cnt_txt": "#000000"
+        }
+      },
+      "navigation": {
+        "type": "navigation",
+        "blocks": {
+          "ba2102ac-d3a0-49df-a51a-42246847ea29": {
+            "type": "megamenu4",
+            "settings": {
+              "title": "Departamentos",
+              "url": "shopify:\/\/collections\/all",
+              "newtab": false,
+              "mm_linklist": "main-menu-1",
+              "mmcolumns": 3,
+              "mm4_img_position": "right",
+              "mm4_space": "40%",
+              "custom_size": false,
+              "mm_size": "600",
+              "mm_align": "center"
+            }
+          },
+          "c93be249-ad59-4d34-88b6-0d3267688229": {
+            "type": "dropdown",
+            "settings": {
+              "title": "Hogar",
+              "url": "https:\/\/waldos.com.mx\/pages\/hogar-y-decoracion",
+              "mm_linklist": "01-hogar"
+            }
+          },
+          "af257d63-fcd7-4506-aee9-821c64d029ae": {
+            "type": "dropdown",
+            "settings": {
+              "title": "Cuidado Personal",
+              "url": "shopify:\/\/collections\/higiene-personal-y-belleza",
+              "mm_linklist": "02-cuidado-personal"
+            }
+          },
+          "4a9d54f4-afd1-44e2-9921-59f12bc4ea2e": {
+            "type": "megamenu2",
+            "settings": {
+              "title": "Decoración",
+              "url": "https:\/\/waldos.com.mx\/pages\/hogar-y-decoracion",
+              "newtab": false,
+              "collection": "",
+              "pr_limit": 4,
+              "mmcolumns": 4,
+              "prodall": "Ver todos",
+              "ftcl": false,
+              "ftcl_width": 20,
+              "ftcl_title": "",
+              "ftcl_title_size": 30,
+              "ftcl_subtitle": "",
+              "ftcl_subtitle_size": 15,
+              "ftcl_btn": "",
+              "ft_link": "",
+              "ftcl_bg": "#333333",
+              "ftcl_txt": "#ffffff",
+              "custom_size": false,
+              "mm_size": "600",
+              "mm_align": "center"
+            }
+          },
+          "59da4722-f8e7-431e-abb6-fcf97b235eb7": {
+            "type": "dropdown",
+            "settings": {
+              "title": "Waldo's Moda",
+              "url": "shopify:\/\/pages\/waldosmoda",
+              "mm_linklist": "04-waldos-moda"
+            }
+          },
+          "64354db0-beaf-4aea-87ea-2e91fb63c8b1": {
+            "type": "dropdown",
+            "settings": {
+              "title": "Temporadas",
+              "url": "shopify:\/\/collections\/temporadas",
+              "mm_linklist": "temporadas"
+            }
+          },
+          "6427a59c-0a7e-4b04-9770-0966f480a3e3": {
+            "type": "dropdown",
+            "settings": {
+              "title": "Waldo's Negocio",
+              "url": "https:\/\/waldos.com.mx\/pages\/waldos-negocio",
+              "mm_linklist": "06-waldos-negocio"
+            }
+          },
+          "cb0427a4-7ff4-4421-8382-b55bd27ecbba": {
+            "type": "dropdown",
+            "settings": {
+              "title": "Blog",
+              "url": "",
+              "mm_linklist": ""
+            }
+          },
+          "e44e52c3-ce93-4074-8f40-a602c6450683": {
+            "type": "single_link",
+            "disabled": true,
+            "settings": {
+              "title": "Waldo's Negocio",
+              "url": "https:\/\/waldos.com.mx\/pages\/waldos-negocio",
+              "newtab": false
+            }
+          },
+          "6613a8cb-00ab-487e-9081-ea9895af8b9a": {
+            "type": "megamenu6",
+            "settings": {
+              "title": "Servicios",
+              "url": "",
+              "newtab": false,
+              "mm_html": "<ul class=\"list-group list-group-flush\" style=\"font-size: 14px; padding-left: 0px;\">\n    <li class=\"list-group-item\">\n        <a href=\"\/collections\/puntos-futbol\">Puntos Futbol<\/a>\n    <\/li>\n    <li class=\"list-group-item\">\n        <a href=\"https:\/\/cochesegurowaldos.inter.mx\/inicio\" target=\"_blank\">Seguros<\/a>\n    <\/li>\n<\/ul>",
+              "custom_size": true,
+              "mm_size": "200",
+              "mm_align": "left"
+            }
+          }
+        },
+        "block_order": [
+          "ba2102ac-d3a0-49df-a51a-42246847ea29",
+          "c93be249-ad59-4d34-88b6-0d3267688229",
+          "af257d63-fcd7-4506-aee9-821c64d029ae",
+          "4a9d54f4-afd1-44e2-9921-59f12bc4ea2e",
+          "59da4722-f8e7-431e-abb6-fcf97b235eb7",
+          "64354db0-beaf-4aea-87ea-2e91fb63c8b1",
+          "6427a59c-0a7e-4b04-9770-0966f480a3e3",
+          "cb0427a4-7ff4-4421-8382-b55bd27ecbba",
+          "e44e52c3-ce93-4074-8f40-a602c6450683",
+          "6613a8cb-00ab-487e-9081-ea9895af8b9a"
+        ],
+        "settings": {
+          "menuarrow": true,
+          "menuAlign": "center",
+          "nm_label1": "Nuevo",
+          "nm_label2": "Oferta",
+          "nm_label3": "Hot",
+          "nm_label4": "Popular",
+          "nm_label5": "Tendencias"
+        }
+      },
+      "recently-viewed": {
+        "type": "recently-viewed",
+        "settings": {
+          "show_recently_products": true,
+          "recently_autoplay": true,
+          "autoplay_speed": "3000",
+          "recently_title": "Visto recientemente",
+          "recently_sub_title": "",
+          "grid": 4,
+          "tablet-grid": 3,
+          "mobile-grid": 2,
+          "recently_pr_limit": "6"
+        }
+      },
+      "custom-colors": {
+        "type": "custom-colors",
+        "blocks": {
+          "1551081207547": {
+            "type": "Color",
+            "settings": {
+              "title": "Rojo",
+              "color": "#ff0000"
+            }
+          },
+          "1556110467060": {
+            "type": "Color",
+            "disabled": true,
+            "settings": {
+              "title": "Turquesa",
+              "color": "#00646c"
+            }
+          },
+          "1556110714142": {
+            "type": "Color",
+            "settings": {
+              "title": "Blanco",
+              "color": "#ffffff"
+            }
+          },
+          "1556184952859": {
+            "type": "Color",
+            "settings": {
+              "title": "Azul",
+              "color": "#77bff2"
+            }
+          },
+          "1556185124126": {
+            "type": "Color",
+            "settings": {
+              "title": "Verde",
+              "color": "#37b767"
+            }
+          },
+          "1556188999672": {
+            "type": "Color",
+            "settings": {
+              "title": "Amarillo",
+              "color": "#e3dd0b"
+            }
+          },
+          "1559895617659": {
+            "type": "Color",
+            "settings": {
+              "title": "Naranja",
+              "color": "#df974d"
+            }
+          },
+          "bad18d43-9b58-415d-9fbc-0ed16c8641b8": {
+            "type": "Color",
+            "settings": {
+              "title": "Morado",
+              "color": "#af52cf"
+            }
+          }
+        },
+        "block_order": [
+          "1551081207547",
+          "1556110467060",
+          "1556110714142",
+          "1556184952859",
+          "1556185124126",
+          "1556188999672",
+          "1559895617659",
+          "bad18d43-9b58-415d-9fbc-0ed16c8641b8"
+        ],
+        "settings": {
+          "custom_colors": true
+        }
+      },
+      "top-info-panel": {
+        "type": "top-info-panel",
+        "blocks": {
+          "dc3a7cc0-beb6-4899-9675-8657843179a7": {
+            "type": "text_block",
+            "settings": {
+              "title": "Quiz Monstruosa Personalidad",
+              "align_text": "center",
+              "url": "shopify:\/\/pages\/quiz-monstruosa-personalidad"
+            }
+          },
+          "1551876638318": {
+            "type": "text_block",
+            "settings": {
+              "title": "<i class=\" ad ad-question-l\"><\/i> Atención al 722-226-1459",
+              "align_text": "center",
+              "url": ""
+            }
+          },
+          "31e64ff3-2bee-4464-9868-09db2cea39dd": {
+            "type": "text_block",
+            "settings": {
+              "title": "<i class=\" ad ad-question-l\"><\/i>   Proveedores",
+              "align_text": "center",
+              "url": "shopify:\/\/pages\/proveedores"
+            }
+          },
+          "1551876260106": {
+            "type": "text_block",
+            "settings": {
+              "title": "<i class=\" ad ad-cart-l\"><\/i>   Descubre las temporadas Waldo´s",
+              "align_text": "center",
+              "url": ""
+            }
+          },
+          "1551876223232": {
+            "type": "text_block",
+            "settings": {
+              "title": "<i class=\" ad ad-truck-l\"><\/i>  \n   Envíos a toda la república",
+              "align_text": "center",
+              "url": "#"
+            }
+          }
+        },
+        "block_order": [
+          "dc3a7cc0-beb6-4899-9675-8657843179a7",
+          "1551876638318",
+          "31e64ff3-2bee-4464-9868-09db2cea39dd",
+          "1551876260106",
+          "1551876223232"
+        ],
+        "settings": {
+          "fullwidth": false,
+          "topbarmobile": false,
+          "info_bg": "#ffffff",
+          "text_clr": "#000000",
+          "grid": 3,
+          "info_font": 13
+        }
+      },
+      "about-template": {
+        "type": "about-template",
+        "blocks": {
+          "1553578254469": {
+            "type": "style2",
+            "settings": {
+              "aboutimg": "shopify:\/\/shop_images\/fashion_787be7e7-7c09-4366-b4a8-226812bed4ea.jpg",
+              "title1": "<h4><b>WHY WE<\/b><\/h4>",
+              "title1des": "<p>Avon comes with easy-to-use interface and outstanding support. You can implement your own design. You can easily change the store's appearance as per your requirements using our ready sections and options available.You can implement your own design. You can easily change the store's appearance as per your requirements using our ready sections and options available.<\/p>",
+              "title2": "<h4><b>OUR VISION<\/b><\/h4>",
+              "title2des": "<p>Vestibulum ultricies aliquam convallis. Maecenas ut tellus mi. Proin tincidunt, lectus eu volutpat mattis, ante metus lacinia tellus, vitae condimentum nulla enim bibendum nibh. Praesent turpis risus, interdum nec venenatis id, pretium sit amet purus. Interdum et malesuada fames ac ante ipsum primis in faucibus.<\/p>",
+              "title3": "<h4><b>OUR MISSION<\/b><\/h4>",
+              "title3des": "<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. sunt in culpa qui officia deserunt mollit anim id est laborum. sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+              "title4": "<h4><b>CONTACT US<\/b><\/h4>",
+              "title4des": "<p><strong>55 Gallaxy Enque,<\/strong><br>2568 steet, 23568 NY<\/p>\n<p><strong>Phone<\/strong> : (440) 000 000 0000 <br><strong>Email<\/strong>: sales@yousite.com<\/p>",
+              "title5": "<h4><b>OUR \nTEAM<\/b><\/h4>",
+              "team1pic": "shopify:\/\/shop_images\/demo2-about-3.jpg",
+              "team1bio": "<p><strong>STIVE SMITH<\/strong><\/p>\n<p>FOUNDER & CEO<\/p>",
+              "socialurl1": "<a href=\"#\"><i class=\"ad ad-facebook-f\"><\/i><\/a>\n<a href=\"#\"><i class=\"ad ad-pinterest-p\"><\/i><\/a>\n<a href=\"#\"><i class=\"ad  ad-twitter \"><\/i><\/a>",
+              "team2pic": "shopify:\/\/shop_images\/demo2-about-1.jpg",
+              "team2bio": "<p><strong>STIVE SMITH<\/strong><\/p>\n<p>CREATIVE DIRECTOR<\/p>",
+              "socialurl2": "<a href=\"#\"><i class=\"ad ad-facebook-f\"><\/i><\/a>\n<a href=\"#\"><i class=\"ad ad-pinterest-p\"><\/i><\/a>\n<a href=\"#\"><i class=\"ad  ad-twitter \"><\/i><\/a>",
+              "team3pic": "shopify:\/\/shop_images\/demo2-about-2.jpg",
+              "team3bio": "<p><strong>STIVE SMITH<\/strong><\/p>\n<p>SALES DIRECTOR<\/p>",
+              "socialurl3": "<a href=\"#\"><i class=\"ad ad-facebook-f\"><\/i><\/a>\n<a href=\"#\"><i class=\"ad ad-pinterest-p\"><\/i><\/a>\n<a href=\"#\"><i class=\"ad  ad-twitter \"><\/i><\/a>"
+            }
+          },
+          "1553589884401": {
+            "type": "image_with_text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/our-mission.jpg",
+              "layout": "left",
+              "title": "<h4><b>Our Mission<\/b><\/h4>",
+              "text": "<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1553589941147": {
+            "type": "image_with_text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/our-vision.jpg",
+              "layout": "right",
+              "title": "<h4><b>Our Vision<\/b><\/h4>",
+              "text": "<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1553590025679": {
+            "type": "image_with_text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/the-founder.jpg",
+              "layout": "left",
+              "title": "<h4><b>The Founder<\/b><\/h4>",
+              "text": "<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+              "button_label": "Read More",
+              "button_link": "#"
+            }
+          }
+        },
+        "block_order": [
+          "1553578254469",
+          "1553589884401",
+          "1553589941147",
+          "1553590025679"
+        ],
+        "settings": {
+          "top-text": "<p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+          "pagestyle": "style1"
+        }
+      },
+      "custom-template1": {
+        "type": "custom-template1",
+        "blocks": {
+          "5a8199d5-e90b-4893-919b-e3e5d5bd6ff9": {
+            "type": "hero",
+            "settings": {
+              "ds_height": 500,
+              "tb_height": 350,
+              "mb_height": 250,
+              "image": "shopify:\/\/shop_images\/banner-3_4fc2c36d-0765-4af0-958b-c70743743121.jpg",
+              "alignment": "center",
+              "textalign": "rightcenter",
+              "pretext": "ARE YOU READY?",
+              "title": "<b> Start Selling Online Successfully<\/b>",
+              "text": "<p>Creative, Flexible and High Performance shopify theme!<\/p>",
+              "button_label": "Purchase Now",
+              "button_link": "#",
+              "txt_clr": "#ffffff",
+              "bg_clr": "rgba(0,0,0,0)",
+              "bg_opacity": 1,
+              "hero_dealtimer": false,
+              "cnt_date": "12\/03\/2021",
+              "cnt_bg": "#000000",
+              "cnt_text": "#eeeeee",
+              "cnt_bdr": "#000000"
+            }
+          },
+          "02a2863d-3712-42b3-937b-342724fd9c47": {
+            "type": "featuredProduct",
+            "settings": {
+              "product": "mi-10-108mp-quad-camera-sd-865-processor-5g",
+              "width": "100%",
+              "alignment": "bottom-middle",
+              "image_size": "medium",
+              "enable_zoom": false,
+              "show_vendor": false,
+              "spr_review": true,
+              "spr_availability": true,
+              "spr_sku": true,
+              "short_desc": true,
+              "countdown": true,
+              "countdown_lbl": "Hurry up! Sales End In",
+              "show_share_buttons": true,
+              "show_variant_swatches": true,
+              "fake_orders": false,
+              "orders": 20,
+              "orders_time": 24,
+              "orders_msg": "[orders] sold in last [hours] hours"
+            }
+          },
+          "9bdb882a-ad94-483f-a3ae-d7fa5ec8b9bc": {
+            "type": "html",
+            "settings": {
+              "code": "",
+              "width": "100%",
+              "align_text": "left"
+            }
+          },
+          "4b9b4070-884a-42b3-a090-44233a642846": {
+            "type": "text",
+            "settings": {
+              "title": "<h2>Capture the Unseen in the Everyday<\/h2><h3>108MP + 13MP + 2MP + 2MP <\/h3><br>",
+              "text": "<p>Introducing the <strong>highest resolution camera<\/strong> on a smartphone ever. Capture the unseen in every scene with the 108MP sensor. <br\/>Get more control over each image with the RAW mode built into the camera app. Shoot incredible ultra-wide landscapes. <br\/>Try out macro photography or get the perfect bokeh effect for all your portraits. A mighty quad camera setup loaded with professional camera.<\/p>",
+              "btntxt": "Read More",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          },
+          "5559af71-d412-405c-97a0-97b135e9032d": {
+            "type": "html",
+            "settings": {
+              "code": "",
+              "width": "100%",
+              "align_text": "center"
+            }
+          },
+          "74b941ca-2709-4770-9b54-beed5d537aac": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "",
+              "btntxt": "Read More",
+              "width": "25%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "842317f0-ce3b-4a7e-8a43-3b180cf2f682": {
+            "type": "text",
+            "settings": {
+              "title": "<h3>LOG Mode<\/h3>",
+              "text": "<p>Add a splash of colour to your photos at the edit table. Add a splash of colour to your photos at the edit table.<\/p>",
+              "btntxt": "Read More",
+              "width": "25%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          },
+          "b91c0706-7929-4db7-9a64-050b4c9e7724": {
+            "type": "text",
+            "settings": {
+              "title": "<h3>RAW Mode<\/h3>",
+              "text": "<p>Create the perfect shot even under the toughest lighting conditions. Create the perfect shot even under the toughest lighting conditions.<\/p>",
+              "btntxt": "Read More",
+              "width": "25%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          },
+          "bffa59a9-0a37-4c47-8410-7bfe117365fc": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "",
+              "btntxt": "Read More",
+              "width": "25%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "e7d08c53-4c58-482d-a82f-eecb6027f3eb": {
+            "type": "html",
+            "settings": {
+              "code": "",
+              "width": "100%",
+              "align_text": "left"
+            }
+          },
+          "117cce40-70ae-40f3-8ea2-d43a1a60dd3e": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-3.jpg",
+              "title": "",
+              "text": "",
+              "btntxt": "Read More",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          },
+          "2d5a5246-7d41-4bac-8b58-563070100c84": {
+            "type": "text",
+            "settings": {
+              "title": "<h3>ACCESSORIES<\/h3>",
+              "text": "",
+              "btntxt": "Read More",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          },
+          "b72c45d7-03c3-49c5-ae43-85d50f6524a2": {
+            "type": "product",
+            "settings": {
+              "product": "mi-10-wireless-charger",
+              "width": "25%"
+            }
+          },
+          "e5665a19-93e9-437c-a3c7-21fe57cadd4a": {
+            "type": "product",
+            "settings": {
+              "product": "bluetooth-speaker-aluminum-body",
+              "width": "25%"
+            }
+          },
+          "65a4cef8-5002-477a-985a-56522530c96c": {
+            "type": "product",
+            "settings": {
+              "product": "hard-back-cover-case-pink",
+              "width": "25%"
+            }
+          },
+          "32ad3ed7-d334-45c3-aa67-2c634e63abb4": {
+            "type": "product",
+            "settings": {
+              "product": "mi-power-bank-blue",
+              "width": "25%"
+            }
+          },
+          "769143cb-8bf1-4f6d-afc0-de46131f5915": {
+            "type": "video",
+            "settings": {
+              "video_url": "",
+              "mp4url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0036\/7306\/3491\/files\/miview.mp4?v=1609674779",
+              "enable_cntrl": false,
+              "is_autoplay": true,
+              "enable_sound": false,
+              "title": "<b>A Lens for Every Style<\/b>",
+              "text_align": "bottomcenter",
+              "color_ttl": "#ffffff",
+              "width": "100%",
+              "alignment": "top-middle"
+            }
+          },
+          "d983ce62-58fe-46a1-b530-8a05d48fbb3f": {
+            "type": "html",
+            "settings": {
+              "code": "",
+              "width": "100%",
+              "align_text": "left"
+            }
+          },
+          "faaa739e-6096-40b8-ad32-c904fe9b33d5": {
+            "type": "text",
+            "settings": {
+              "title": "<h2>All-New Camera Setup<\/h2>",
+              "text": "<p>A mighty quad camera setup loaded with professional camera features like RAW mode<br\/>that elevate the smartphone camera experience.<\/p>",
+              "btntxt": "Read More",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "aac27b80-3b81-4305-a336-c760261a85e7": {
+            "type": "text",
+            "settings": {
+              "title": "<h3>7P Lens<\/h3>",
+              "text": "<p>Impressive light gathering unlocks the full potential of the 108MP camera setup. Try out macro photography or get the perfect bokeh effect for all your portraits.<\/p>",
+              "btntxt": "Read More",
+              "width": "33%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "fe5d787e-8dc7-4a90-bba9-be0e702db08d": {
+            "type": "text",
+            "settings": {
+              "title": "<h2>HEIF<\/h2>",
+              "text": "<p>A JPEG equivalent which takes approximately 50% lesser storage space without losing out on image quality. Try something new every day!<\/p>",
+              "btntxt": "Read More",
+              "width": "33%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "aa8c3b5a-731e-49d9-812f-8ba42b64cc55": {
+            "type": "text",
+            "settings": {
+              "title": "<h2>AI Pixel<\/h2>",
+              "text": "<p>Comprehensive pixel optimization for vibrant pictures. All of this made possible with one mighty quad camera setup<\/p>",
+              "btntxt": "Read More",
+              "width": "33%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "c48a1aa0-d0b5-4aa2-9181-4da0fc0cc22e": {
+            "type": "html",
+            "settings": {
+              "code": "",
+              "width": "100%",
+              "align_text": "left"
+            }
+          },
+          "17d7a71d-7bbd-4b00-afb6-b1db55383692": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/3E10CADA-AA5C-5C9D-F4B9-864028375CC6.jpg",
+              "title": "",
+              "text": "<p>Before AI Pixel Optimization<\/p>",
+              "btntxt": "Read More",
+              "width": "50%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          },
+          "112b48cf-70f8-4a0b-b696-41c3f2f695f0": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/682E99CA-3A10-AEFC-5981-46E76C224511.jpg",
+              "title": "",
+              "text": "<p>After AI Pixel Optimization<\/p>",
+              "btntxt": "Read More",
+              "width": "50%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          }
+        },
+        "block_order": [
+          "5a8199d5-e90b-4893-919b-e3e5d5bd6ff9",
+          "02a2863d-3712-42b3-937b-342724fd9c47",
+          "9bdb882a-ad94-483f-a3ae-d7fa5ec8b9bc",
+          "4b9b4070-884a-42b3-a090-44233a642846",
+          "5559af71-d412-405c-97a0-97b135e9032d",
+          "74b941ca-2709-4770-9b54-beed5d537aac",
+          "842317f0-ce3b-4a7e-8a43-3b180cf2f682",
+          "b91c0706-7929-4db7-9a64-050b4c9e7724",
+          "bffa59a9-0a37-4c47-8410-7bfe117365fc",
+          "e7d08c53-4c58-482d-a82f-eecb6027f3eb",
+          "117cce40-70ae-40f3-8ea2-d43a1a60dd3e",
+          "2d5a5246-7d41-4bac-8b58-563070100c84",
+          "b72c45d7-03c3-49c5-ae43-85d50f6524a2",
+          "e5665a19-93e9-437c-a3c7-21fe57cadd4a",
+          "65a4cef8-5002-477a-985a-56522530c96c",
+          "32ad3ed7-d334-45c3-aa67-2c634e63abb4",
+          "769143cb-8bf1-4f6d-afc0-de46131f5915",
+          "d983ce62-58fe-46a1-b530-8a05d48fbb3f",
+          "faaa739e-6096-40b8-ad32-c904fe9b33d5",
+          "aac27b80-3b81-4305-a336-c760261a85e7",
+          "fe5d787e-8dc7-4a90-bba9-be0e702db08d",
+          "aa8c3b5a-731e-49d9-812f-8ba42b64cc55",
+          "c48a1aa0-d0b5-4aa2-9181-4da0fc0cc22e",
+          "17d7a71d-7bbd-4b00-afb6-b1db55383692",
+          "112b48cf-70f8-4a0b-b696-41c3f2f695f0"
+        ],
+        "settings": {
+          "title": "",
+          "subtitle": "",
+          "top-offset": false,
+          "hide_ttl": true,
+          "section_width": true,
+          "landing": true,
+          "pad-desk": 30,
+          "pad-ipad": 15,
+          "pad-mbl": 10,
+          "prbox_style": "style1"
+        }
+      },
+      "custom-template2": {
+        "type": "custom-template2",
+        "blocks": {
+          "1b124143-4cc1-48c7-bcbc-dbc54d5e78c6": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "<p><strong>Shopify<\/strong> is a commerce platform that allows anyone to set up an online store and sell their products. Merchants can also sell their products in person with Shopify POS.<br\/><\/p><p><em>Shopify started over ten years ago<\/em> when our founder Tobi wanted to sell snowboards with his company at that time called Snowdevil. He quickly realized it was incredibly challenging to sell snowboards online without an easy to use <strong>ecommerce platform<\/strong>. So he decided to create it himself, and Shopify was born.<br\/><\/p><p>Shopify is now the leading commerce platform designed for businesses of all sizes. Whether you sell online, on social media, in store, or out of the trunk of your car, Shopify has you covered. The first Shopify store was our own, and it’s been our mission to make commerce better for everyone ever since.<br\/><\/p><p><\/p>",
+              "btntxt": "Read More",
+              "width": "50%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "c2a551ee-1e39-4956-b5dd-ffe2cb41a41f": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "<p>Whether you’re a budding jewelry designer and want to start selling your products, or a musician and want to sell your latest mixtape, or if you have an established business and want to grow, Shopify can help you. <strong>Hundreds of thousands of entrepreneurs from over 175 countries trust Shopify to help sell their product<\/strong>s.<br\/><\/p><p>Below you’ll find the different products or services that you can sell on Shopify. Even if you know what you’re selling already, it may give you some ideas for other services you could sell to grow your business.<\/p>",
+              "btntxt": "",
+              "width": "50%",
+              "alignment": "top-middle",
+              "align_text": "left"
+            }
+          },
+          "75fc696c-f1e1-4ee3-ab96-93762b0502f5": {
+            "type": "html",
+            "settings": {
+              "code": "",
+              "width": "100%",
+              "align_text": "left"
+            }
+          },
+          "b81c6b73-8321-418f-b7f1-1402d7591b2e": {
+            "type": "text",
+            "settings": {
+              "title": "<h3>Our Mission<\/h3>",
+              "text": "<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+              "btntxt": "Read More",
+              "width": "50%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "6d90ddcb-f7af-45cc-8f01-1897dabba236": {
+            "type": "video",
+            "settings": {
+              "video_url": "",
+              "mp4url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0036\/7306\/3491\/files\/about-new.mp4?v=1609242230",
+              "enable_cntrl": false,
+              "is_autoplay": true,
+              "enable_sound": false,
+              "title": "",
+              "text_align": "left",
+              "color_ttl": "#ffffff",
+              "width": "50%",
+              "alignment": "top-middle"
+            }
+          },
+          "6892d992-fbc6-475e-b4f8-df92b369cb33": {
+            "type": "image_with_text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/about.jpg",
+              "layout": "left",
+              "title2": "Why we?",
+              "text2": "Avon comes with easy-to-use interface and outstanding support. You can implement your own design. You can easily change the store's appearance as per your requirements using our ready sections and options available.",
+              "button_label": "READ MORE",
+              "button_link": "#",
+              "text_align": "text-left",
+              "width": "100%",
+              "text_clr": "#111111",
+              "text_bg_clr": "#eeeeee"
+            }
+          },
+          "0be77821-e6b6-4e9b-82e2-1fdd736590e8": {
+            "type": "image_with_text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/our-vision.jpg",
+              "layout": "right",
+              "title2": "Our Vision",
+              "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+              "button_label": "",
+              "text_align": "text-left",
+              "width": "100%",
+              "text_clr": "#000000",
+              "text_bg_clr": "#eeeeee"
+            }
+          },
+          "3a45c006-af22-4225-9998-ef5bc1e4c05e": {
+            "type": "html",
+            "settings": {
+              "code": "",
+              "width": "100%",
+              "align_text": "left"
+            }
+          },
+          "c4faf458-222a-4ef3-aae3-15c7629df052": {
+            "type": "text",
+            "settings": {
+              "title": "<h4>FOUNDERS<\/h4>",
+              "text": "<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br\/><\/p><p><\/p>",
+              "btntxt": "Read More",
+              "width": "25%",
+              "alignment": "top-middle",
+              "align_text": "left"
+            }
+          },
+          "a3b5944d-823a-4c93-8730-f4d87bb45d19": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/demo2-about-2.jpg",
+              "title": "",
+              "text": "<p><strong>ANDREA SWIFT<br\/><\/strong>DIRECTOR <\/p><p><\/p>",
+              "btntxt": "Read More",
+              "width": "25%",
+              "alignment": "top-middle",
+              "align_text": "center"
+            }
+          },
+          "02152604-ace8-47fb-ae54-2b184b075167": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/demo2-about-1.jpg",
+              "title": "",
+              "text": "<p><strong>SIMONA HALEP<\/strong><br\/>FOUNDER &amp; CEO<\/p>",
+              "btntxt": "Read More",
+              "width": "25%",
+              "alignment": "top-middle",
+              "align_text": "center"
+            }
+          },
+          "dba82dd7-1cad-4ef2-8f75-ecf5c1a4349d": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/demo2-about-3.jpg",
+              "title": "",
+              "text": "<p><strong>STIVE SMITH<br\/><\/strong>CO FOUNDER <br\/><\/p>",
+              "btntxt": "Read More",
+              "width": "25%",
+              "alignment": "top-middle",
+              "align_text": "center"
+            }
+          }
+        },
+        "block_order": [
+          "1b124143-4cc1-48c7-bcbc-dbc54d5e78c6",
+          "c2a551ee-1e39-4956-b5dd-ffe2cb41a41f",
+          "75fc696c-f1e1-4ee3-ab96-93762b0502f5",
+          "b81c6b73-8321-418f-b7f1-1402d7591b2e",
+          "6d90ddcb-f7af-45cc-8f01-1897dabba236",
+          "6892d992-fbc6-475e-b4f8-df92b369cb33",
+          "0be77821-e6b6-4e9b-82e2-1fdd736590e8",
+          "3a45c006-af22-4225-9998-ef5bc1e4c05e",
+          "c4faf458-222a-4ef3-aae3-15c7629df052",
+          "a3b5944d-823a-4c93-8730-f4d87bb45d19",
+          "02152604-ace8-47fb-ae54-2b184b075167",
+          "dba82dd7-1cad-4ef2-8f75-ecf5c1a4349d"
+        ],
+        "settings": {
+          "title": "Our Story",
+          "subtitle": "Est. 2017",
+          "top-offset": false,
+          "hide_ttl": true,
+          "section_width": false,
+          "landing": false,
+          "pad-desk": 55,
+          "pad-ipad": 15,
+          "pad-mbl": 10,
+          "prbox_style": "style1"
+        }
+      },
+      "custom-template3": {
+        "type": "custom-template3",
+        "blocks": {
+          "643ebc0d-e11c-477c-83e2-1dcfb96f3475": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/custom-banner.png",
+              "title": "<h3>We are Shopify experts. Need help growing your Shopify sales?<\/h3>",
+              "text": "<p>We provide innovative solutions to expand your business. Let us take your online shop to new dimension in success! Boost your store sales and define your brands with Avone.<\/p>",
+              "btntxt": "Read More",
+              "width": "50%",
+              "alignment": "top-middle",
+              "align_text": "left"
+            }
+          },
+          "4cc6c2ac-58b1-4e07-a382-7e301afab41f": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "<p><strong>Design Quality<\/strong><\/p><p>First impressions of online store is 94% design related. Quality web design establishes trust and credibility. We provide high quality shopify themes. <br\/><br\/><br\/><strong>One Click Demo Installation<\/strong><\/p><p>It&#x27;s very easy to install the demo just by a single click. It’s totally automatic and save your time.<br\/><br\/><br\/><strong>Top Quality Documentation<br\/><\/strong><br\/>Extensive documentation where each section of the theme and its features are described in a easy way to understand.<\/p><p><br\/><\/p>",
+              "btntxt": "Read More",
+              "width": "25%",
+              "alignment": "top-middle",
+              "align_text": "left"
+            }
+          },
+          "141afeac-4573-4d84-abf4-401f32de95a8": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "<p><strong>Unlimited power and<br\/> customization possibilities<\/strong><\/p><p>Save time and frustration by visually editing your site. Build professional layouts in just a few minutes.<br\/><br\/><br\/><strong>High Speed &amp; Performance<\/strong><\/p><p>Performance matters the most for your online shop ! We leverage the strategy and help you earn maximum ROI.<br\/><br\/><br\/><strong>Top Notch Support <\/strong><\/p><p>Get the best technical support in 24 hours. If you have questions or problems, we are glad to help you<\/p>",
+              "btntxt": "Read More",
+              "width": "25%",
+              "alignment": "top-middle",
+              "align_text": "left"
+            }
+          },
+          "3e51aa24-bfa7-40ef-8aff-8dcb65194e4c": {
+            "type": "html",
+            "settings": {
+              "code": "",
+              "width": "100%",
+              "align_text": "left"
+            }
+          },
+          "36afb72d-593c-4347-9eeb-00e103dfe63f": {
+            "type": "text",
+            "settings": {
+              "title": "<h3>FEATURED COLLECTION<\/h3>",
+              "text": "<p>Top Rated Shopify themes and Services from certified Shopify Experts<\/p>",
+              "btntxt": "Read More",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          },
+          "2a5aa2ce-cdb7-4f09-8f7b-566770bfbdb2": {
+            "type": "html",
+            "settings": {
+              "code": "",
+              "width": "100%",
+              "align_text": "left"
+            }
+          },
+          "6699eb65-38ea-4075-bd23-5fffe0d70e26": {
+            "type": "collection",
+            "settings": {
+              "collection": "women",
+              "collection_name": "",
+              "width": "25%"
+            }
+          },
+          "0ba79b26-1f20-4c2c-ad7d-c5a8093f6491": {
+            "type": "collection",
+            "settings": {
+              "collection": "hot-collection",
+              "collection_name": "",
+              "width": "25%"
+            }
+          },
+          "2713c98a-63ef-4168-914f-f5223f074456": {
+            "type": "collection",
+            "settings": {
+              "collection": "beachwear",
+              "collection_name": "",
+              "width": "25%"
+            }
+          },
+          "fb20f1f3-c9dc-4495-8bc9-25feed7b2758": {
+            "type": "collection",
+            "settings": {
+              "collection": "men",
+              "collection_name": "",
+              "width": "25%"
+            }
+          },
+          "d179b4ed-3dac-4e6f-8af9-baaca928e819": {
+            "type": "html",
+            "settings": {
+              "code": "",
+              "width": "100%",
+              "align_text": "left"
+            }
+          },
+          "57daff52-d354-4469-98c7-c88d2e4ffdf5": {
+            "type": "text",
+            "settings": {
+              "title": "<h3>WHY BUY FROM US?<\/h3>",
+              "text": "<p>Use this text to share information about your brand with your customers. <\/p>",
+              "btntxt": "Read More",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          },
+          "7f0980dd-d619-4c81-933b-9d6197534a22": {
+            "type": "html",
+            "settings": {
+              "code": "",
+              "width": "100%",
+              "align_text": "center"
+            }
+          },
+          "a7267749-7cd9-4eb6-b574-4d5d95b1df9d": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/truck.jpg",
+              "title": "<h4>FREE SHIPPING<\/h4>",
+              "text": "<p>Lorem Ipsum hasbeen standard daand scrambled.<\/p>",
+              "btntxt": "Read More",
+              "width": "25%",
+              "alignment": "top-middle",
+              "align_text": "center"
+            }
+          },
+          "f5ed9cc8-5f01-4138-9358-865138ffa983": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/support.jpg",
+              "title": "<h4>24\/7 SUPPORT<\/h4>",
+              "text": "<p>Lorem Ipsum hasbeen standard daand scrambled.<\/p>",
+              "btntxt": "Read More",
+              "width": "25%",
+              "alignment": "top-middle",
+              "align_text": "center"
+            }
+          },
+          "56065bf5-14f9-419f-a7d7-5e462dc0d392": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/SECURE.jpg",
+              "title": "<h4>SECURE PAYMENT<\/h4>",
+              "text": "<p>Lorem Ipsum hasbeen standard daand scrambled.<\/p>",
+              "btntxt": "Read More",
+              "width": "25%",
+              "alignment": "top-middle",
+              "align_text": "center"
+            }
+          },
+          "db521d26-6451-421c-9ed4-26e8d738252f": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/money.jpg",
+              "title": "<h4>MONEY GAURNTEE<\/h4>",
+              "text": "<p>Lorem Ipsum hasbeen standard daand scrambled.<\/p>",
+              "btntxt": "Read More",
+              "width": "25%",
+              "alignment": "top-middle",
+              "align_text": "center"
+            }
+          }
+        },
+        "block_order": [
+          "643ebc0d-e11c-477c-83e2-1dcfb96f3475",
+          "4cc6c2ac-58b1-4e07-a382-7e301afab41f",
+          "141afeac-4573-4d84-abf4-401f32de95a8",
+          "3e51aa24-bfa7-40ef-8aff-8dcb65194e4c",
+          "36afb72d-593c-4347-9eeb-00e103dfe63f",
+          "2a5aa2ce-cdb7-4f09-8f7b-566770bfbdb2",
+          "6699eb65-38ea-4075-bd23-5fffe0d70e26",
+          "0ba79b26-1f20-4c2c-ad7d-c5a8093f6491",
+          "2713c98a-63ef-4168-914f-f5223f074456",
+          "fb20f1f3-c9dc-4495-8bc9-25feed7b2758",
+          "d179b4ed-3dac-4e6f-8af9-baaca928e819",
+          "57daff52-d354-4469-98c7-c88d2e4ffdf5",
+          "7f0980dd-d619-4c81-933b-9d6197534a22",
+          "a7267749-7cd9-4eb6-b574-4d5d95b1df9d",
+          "f5ed9cc8-5f01-4138-9358-865138ffa983",
+          "56065bf5-14f9-419f-a7d7-5e462dc0d392",
+          "db521d26-6451-421c-9ed4-26e8d738252f"
+        ],
+        "settings": {
+          "title": "",
+          "subtitle": "",
+          "top-offset": false,
+          "hide_ttl": true,
+          "section_width": false,
+          "landing": false,
+          "pad-desk": 0,
+          "pad-ipad": 0,
+          "pad-mbl": 0,
+          "prbox_style": "style1"
+        }
+      },
+      "faq-template": {
+        "type": "faq-template",
+        "blocks": {
+          "1553603314287": {
+            "type": "faqsection",
+            "settings": {
+              "sectiontitle": "Shopping"
+            }
+          },
+          "1553602500682": {
+            "type": "faqs",
+            "settings": {
+              "question": "What Shipping Methods Are Available?",
+              "answer": "Nullam sed neque luctus, maximus diam sed, facilisis orci. Nunc ultricies neque a aliquam sollicitudin. Vivamus sit amet finibus sapien. Duis est dui, sodales nec pretium a, interdum in lacus. Sed et est vel velit vestibulum tincidunt non a felis. Phasellus convallis, diam eu facilisis tincidunt, ex nibh vulputate dolor, eu maximus massa libero vel eros."
+            }
+          },
+          "1553602843258": {
+            "type": "faqs",
+            "settings": {
+              "question": "How do I place an Order?",
+              "answer": "Duis nec nisi id ligula dapibus maximus nec eu dui. Proin ornare, ipsum vitae tincidunt rutrum, diam neque accumsan turpis, a dignissim nisi libero non lacus. Nulla quis massa nulla. Morbi metus lacus, sagittis sed est vel, aliquet ultrices nibh. Morbi auctor ex eget egestas auctor.   Duis nec nisi id ligula dapibus maximus nec eu dui. Proin ornare, ipsum vitae tincidunt rutrum, diam neque accumsan turpis, a dignissim nisi libero non lacus. Nulla quis massa nulla. Morbi metus lacus, sagittis sed est vel, aliquet ultrices nibh. Morbi auctor ex eget egestas auctor."
+            }
+          },
+          "1553603329876": {
+            "type": "faqsection",
+            "settings": {
+              "sectiontitle": "Payment"
+            }
+          },
+          "1553602722941": {
+            "type": "faqs",
+            "settings": {
+              "question": "What Payment Methods Are Accepted?",
+              "answer": "Nullam sed neque luctus, maximus diam sed, facilisis orci. Nunc ultricies neque a aliquam sollicitudin. Vivamus sit amet finibus sapien. Duis est dui, sodales nec pretium a, interdum in lacus. Sed et est vel velit vestibulum tincidunt non a felis. Phasellus convallis, diam eu facilisis tincidunt"
+            }
+          },
+          "1553602889369": {
+            "type": "faqs",
+            "settings": {
+              "question": "Do You Ship Internationally?",
+              "answer": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+            }
+          },
+          "1553602923016": {
+            "type": "faqs",
+            "settings": {
+              "question": "What Payment Methods Are Accepted?",
+              "answer": "Nullam sed neque luctus, maximus diam sed, facilisis orci. Nunc ultricies neque a aliquam sollicitudin. Vivamus sit amet finibus sapien. Duis est dui, sodales nec pretium a, interdum in lacus. Sed et est vel velit vestibulum tincidunt non a felis. Phasellus convallis, diam eu facilisis tincidunt, ex nibh vulputate dolor, eu maximus massa libero vel eros. In vulputate metus lacus, eu vehicula dolor feugiat id. Nulla vitae nisl in ex consequat porttitor vel a lectus. Vestibulum viverra in velit ac consequat. Nullam porta nulla eu dignissim cursus."
+            }
+          },
+          "1553603400182": {
+            "type": "faqsection",
+            "settings": {
+              "sectiontitle": "Returns"
+            }
+          },
+          "1553603365355": {
+            "type": "faqs",
+            "settings": {
+              "question": "Is Buying On-Line Safe?",
+              "answer": "Nullam sed neque luctus, maximus diam sed, facilisis orci. Nunc ultricies neque a aliquam sollicitudin. Vivamus sit amet finibus sapien. Duis est dui, sodales nec pretium a, interdum in lacus. Sed et est vel velit vestibulum tincidunt non a felis. Phasellus convallis, diam eu facilisis tincidunt, ex nibh vulputate dolor, eu maximus massa libero vel eros. In vulputate metus lacus, eu vehicula dolor feugiat id. Nulla vitae nisl in ex consequat porttitor vel a lectus."
+            }
+          },
+          "1553603427067": {
+            "type": "faqs",
+            "settings": {
+              "question": "Do I have to pay anything to return my items?",
+              "answer": "Nullam sed neque luctus, maximus diam sed, facilisis orci. Nunc ultricies neque a aliquam sollicitudin. Vivamus sit amet finibus sapien. Duis est dui, sodales nec pretium a, interdum in lacus."
+            }
+          },
+          "1553603439453": {
+            "type": "faqs",
+            "settings": {
+              "question": "How do I return an item?",
+              "answer": "In vulputate metus lacus, eu vehicula dolor feugiat id. Nulla vitae nisl in ex consequat porttitor vel a lectus. Vestibulum viverra in velit ac consequat. Nullam porta nulla eu dignissim cursus."
+            }
+          }
+        },
+        "block_order": [
+          "1553603314287",
+          "1553602500682",
+          "1553602843258",
+          "1553603329876",
+          "1553602722941",
+          "1553602889369",
+          "1553602923016",
+          "1553603400182",
+          "1553603365355",
+          "1553603427067",
+          "1553603439453"
+        ],
+        "settings": {
+          "pagestyle": "style1",
+          "sec-title-bg": "#333333",
+          "sec-title": "#eeeeee"
+        }
+      },
+      "about-template-2": {
+        "type": "about-template-2",
+        "blocks": {
+          "1590669262380": {
+            "type": "style2",
+            "settings": {
+              "aboutimg": "shopify:\/\/shop_images\/fashion_787be7e7-7c09-4366-b4a8-226812bed4ea.jpg",
+              "title1": "<h4>WHY WE<\/h4>",
+              "title1des": "<p>Avon comes with easy-to-use interface and outstanding support. You can implement your own design. You can easily change the store's appearance as per your requirements using our ready sections and options available.<\/p>",
+              "title2": "<h4>OUR VISION<\/h4>",
+              "title2des": "<p>Vestibulum ultricies aliquam convallis. Maecenas ut tellus mi. Proin tincidunt, lectus eu volutpat mattis, ante metus lacinia tellus, vitae condimentum nulla enim bibendum nibh. Praesent turpis risus, interdum nec venenatis id, pretium sit amet purus. Interdum et malesuada fames ac ante ipsum primis in faucibus.<\/p>",
+              "title3": "<h4>OUR MISSION<\/h4>",
+              "title3des": "<p>Vestibulum ultricies aliquam convallis. Maecenas ut tellus mi. Proin tincidunt, lectus eu volutpat mattis, ante metus lacinia tellus, vitae condimentum nulla enim bibendum nibh. Praesent turpis risus, interdum nec venenatis id, pretium sit amet purus. Interdum et malesuada fames ac ante ipsum primis in faucibus.<\/p>",
+              "title4": "<h4>CONTACT US<\/h4>",
+              "title4des": "<p><strong>55 Gallaxy Enque,<\/strong><br>2568 steet, 23568 NY<\/p>\n<p><strong>Phone<\/strong> : (440) 000 000 0000 <br><strong>Email<\/strong>: sales@yousite.com<\/p>",
+              "title5": "<h4>OUR TEAM<\/h4>",
+              "team1pic": "shopify:\/\/shop_images\/demo2-about-3.jpg",
+              "team1bio": "<p><strong>STIVE SMITH<\/strong><\/p>\n<p>FOUNDER & CEO<\/p>",
+              "socialurl1": "<a href=\"#\"><i class=\"ad ad-facebook-f\"><\/i><\/a>\n<a href=\"#\"><i class=\"ad ad-pinterest-p\"><\/i><\/a>\n<a href=\"#\"><i class=\"ad ad-twitter \"><\/i><\/a>",
+              "team2pic": "shopify:\/\/shop_images\/demo2-about-2.jpg",
+              "team2bio": "<p><strong>STIVE SMITH<\/strong><\/p>\n<p>FOUNDER & CEO<\/p>",
+              "socialurl2": "<a href=\"#\"><i class=\"ad ad-facebook-f\"><\/i><\/a>\n<a href=\"#\"><i class=\"ad ad-pinterest-p\"><\/i><\/a>\n<a href=\"#\"><i class=\"ad ad-twitter \"><\/i><\/a>",
+              "team3pic": "shopify:\/\/shop_images\/demo2-about-1.jpg",
+              "team3bio": "<p><strong>STIVE SMITH<\/strong><\/p>\n<p>FOUNDER & CEO<\/p>",
+              "socialurl3": "<a href=\"#\"><i class=\"ad ad-facebook-f\"><\/i><\/a>\n<a href=\"#\"><i class=\"ad ad-pinterest-p\"><\/i><\/a>\n<a href=\"#\"><i class=\"ad ad-twitter \"><\/i><\/a>"
+            }
+          }
+        },
+        "block_order": [
+          "1590669262380"
+        ],
+        "settings": {
+          "top-text": "<p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+          "pagestyle": "style2"
+        }
+      },
+      "faq-template-2": {
+        "type": "faq-template-2",
+        "blocks": {
+          "1590669949255": {
+            "type": "faqsection",
+            "settings": {
+              "sectiontitle": "Shopping"
+            }
+          },
+          "1590669957934": {
+            "type": "faqs",
+            "settings": {
+              "question": "What Shipping Methods Are Available?",
+              "answer": "Nullam sed neque luctus, maximus diam sed, facilisis orci. Nunc ultricies neque a aliquam sollicitudin. Vivamus sit amet finibus sapien. Duis est dui, sodales nec pretium a, interdum in lacus. Sed et est vel velit vestibulum tincidunt non a felis. Phasellus convallis, diam eu facilisis tincidunt, ex nibh vulputate dolor, eu maximus massa libero vel eros."
+            }
+          },
+          "1590669982356": {
+            "type": "faqs",
+            "settings": {
+              "question": "How do I place an Order?",
+              "answer": "Duis nec nisi id ligula dapibus maximus nec eu dui. Proin ornare, ipsum vitae tincidunt rutrum, diam neque accumsan turpis, a dignissim nisi libero non lacus. Nulla quis massa nulla. Morbi metus lacus, sagittis sed est vel, aliquet ultrices nibh. Morbi auctor ex eget egestas auctor. Duis nec nisi id ligula dapibus maximus nec eu dui. Proin ornare, ipsum vitae tincidunt rutrum, diam neque accumsan turpis, a dignissim nisi libero non lacus. Nulla quis massa nulla. Morbi metus lacus, sagittis sed est vel, aliquet ultrices nibh. Morbi auctor ex eget egestas auctor."
+            }
+          },
+          "1590669992592": {
+            "type": "faqsection",
+            "settings": {
+              "sectiontitle": "Payment"
+            }
+          },
+          "1590670000653": {
+            "type": "faqs",
+            "settings": {
+              "question": "What Payment Methods Are Accepted?",
+              "answer": "Nullam sed neque luctus, maximus diam sed, facilisis orci. Nunc ultricies neque a aliquam sollicitudin. Vivamus sit amet finibus sapien. Duis est dui, sodales nec pretium a, interdum in lacus. Sed et est vel velit vestibulum tincidunt non a felis. Phasellus convallis, diam eu facilisis tincidunt"
+            }
+          },
+          "1590670011943": {
+            "type": "faqs",
+            "settings": {
+              "question": "Do You Ship Internationally?",
+              "answer": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+            }
+          },
+          "1590670021435": {
+            "type": "faqs",
+            "settings": {
+              "question": "What Payment Methods Are Accepted?",
+              "answer": "Nullam sed neque luctus, maximus diam sed, facilisis orci. Nunc ultricies neque a aliquam sollicitudin. Vivamus sit amet finibus sapien. Duis est dui, sodales nec pretium a, interdum in lacus. Sed et est vel velit vestibulum tincidunt non a felis. Phasellus convallis, diam eu facilisis tincidunt, ex nibh vulputate dolor, eu maximus massa libero vel eros. In vulputate metus lacus, eu vehicula dolor feugiat id. Nulla vitae nisl in ex consequat porttitor vel a lectus. Vestibulum viverra in velit ac consequat. Nullam porta nulla eu dignissim cursus."
+            }
+          },
+          "1590670033579": {
+            "type": "faqsection",
+            "settings": {
+              "sectiontitle": "Returns"
+            }
+          },
+          "1590670039182": {
+            "type": "faqs",
+            "settings": {
+              "question": "Is Buying On-Line Safe?",
+              "answer": "Nullam sed neque luctus, maximus diam sed, facilisis orci. Nunc ultricies neque a aliquam sollicitudin. Vivamus sit amet finibus sapien. Duis est dui, sodales nec pretium a, interdum in lacus. Sed et est vel velit vestibulum tincidunt non a felis. Phasellus convallis, diam eu facilisis tincidunt, ex nibh vulputate dolor, eu maximus massa libero vel eros. In vulputate metus lacus, eu vehicula dolor feugiat id. Nulla vitae nisl in ex consequat porttitor vel a lectus."
+            }
+          },
+          "1590670048272": {
+            "type": "faqs",
+            "settings": {
+              "question": "Do I have to pay anything to return my items?",
+              "answer": "Nullam sed neque luctus, maximus diam sed, facilisis orci. Nunc ultricies neque a aliquam sollicitudin. Vivamus sit amet finibus sapien. Duis est dui, sodales nec pretium a, interdum in lacus."
+            }
+          },
+          "1590670056034": {
+            "type": "faqs",
+            "settings": {
+              "question": "How do I return an item?",
+              "answer": "In vulputate metus lacus, eu vehicula dolor feugiat id. Nulla vitae nisl in ex consequat porttitor vel a lectus. Vestibulum viverra in velit ac consequat. Nullam porta nulla eu dignissim cursus."
+            }
+          }
+        },
+        "block_order": [
+          "1590669949255",
+          "1590669957934",
+          "1590669982356",
+          "1590669992592",
+          "1590670000653",
+          "1590670011943",
+          "1590670021435",
+          "1590670033579",
+          "1590670039182",
+          "1590670048272",
+          "1590670056034"
+        ],
+        "settings": {
+          "pagestyle": "style2",
+          "sec-title-bg": "#333",
+          "sec-title": "#eeeeee"
+        }
+      },
+      "lookbook": {
+        "type": "lookbook",
+        "blocks": {
+          "1556020238652": {
+            "type": "lookbook1",
+            "settings": {
+              "image": "",
+              "url": "shopify:\/\/collections\/accesories",
+              "title": "dfsds",
+              "title2": "sds",
+              "width": "50%",
+              "product1": "innerbloom-puffer-jacket",
+              "p1_top": 10,
+              "p1_left": 25,
+              "dis-pstn1": "left",
+              "product2": "black-flower-vase",
+              "p2_top": 65,
+              "p2_left": 64,
+              "dis-pstn2": "left",
+              "product3": "",
+              "p3_top": 1,
+              "p3_left": 1,
+              "dis-pstn3": "left",
+              "product4": "",
+              "p4_top": 1,
+              "p4_left": 1,
+              "dis-pstn4": "left"
+            }
+          },
+          "1556020206822": {
+            "type": "lookbook1",
+            "settings": {
+              "image": "",
+              "url": "shopify:\/\/collections\/accesories",
+              "title": "sds",
+              "title2": "dsd",
+              "width": "25%",
+              "product1": "",
+              "p1_top": 1,
+              "p1_left": 1,
+              "dis-pstn1": "left",
+              "product2": "",
+              "p2_top": 1,
+              "p2_left": 1,
+              "dis-pstn2": "left",
+              "product3": "",
+              "p3_top": 1,
+              "p3_left": 1,
+              "dis-pstn3": "left",
+              "product4": "",
+              "p4_top": 1,
+              "p4_left": 1,
+              "dis-pstn4": "left"
+            }
+          },
+          "1556020391737": {
+            "type": "lookbook1",
+            "settings": {
+              "image": "",
+              "url": "",
+              "title": "dfg",
+              "title2": "dfgd",
+              "width": "25%",
+              "product1": "",
+              "p1_top": 1,
+              "p1_left": 1,
+              "dis-pstn1": "left",
+              "product2": "",
+              "p2_top": 1,
+              "p2_left": 1,
+              "dis-pstn2": "left",
+              "product3": "",
+              "p3_top": 1,
+              "p3_left": 1,
+              "dis-pstn3": "left",
+              "product4": "",
+              "p4_top": 1,
+              "p4_left": 1,
+              "dis-pstn4": "left"
+            }
+          },
+          "1556080853264": {
+            "type": "lookbook1",
+            "settings": {
+              "image": "",
+              "url": "",
+              "title": "",
+              "title2": "",
+              "width": "50%",
+              "product1": "",
+              "p1_top": 1,
+              "p1_left": 1,
+              "dis-pstn1": "left",
+              "product2": "",
+              "p2_top": 1,
+              "p2_left": 1,
+              "dis-pstn2": "left",
+              "product3": "",
+              "p3_top": 1,
+              "p3_left": 1,
+              "dis-pstn3": "left",
+              "product4": "",
+              "p4_top": 1,
+              "p4_left": 1,
+              "dis-pstn4": "left"
+            }
+          }
+        },
+        "block_order": [
+          "1556020238652",
+          "1556020206822",
+          "1556020391737",
+          "1556080853264"
+        ],
+        "settings": {
+          "fullwidth": false,
+          "lb-style": "shop",
+          "grid-spacing": 2,
+          "grid-spacing-mbl": 5,
+          "grid-spacing-col": 4,
+          "cap_bg": "#eeeeee",
+          "cap_text": "#111111",
+          "zoom_bg": "#ffffff",
+          "zoom_text": "#111111"
+        }
+      },
+      "55513c811fd4": {
+        "type": "grid-banners",
+        "disabled": true,
+        "blocks": {
+          "1558350031635": {
+            "type": "style1",
+            "settings": {
+              "text1": "",
+              "text1-large": "",
+              "bnr1align": "btmleft",
+              "link1": "shopify:\/\/collections\/electrodomesticos-para-el-hogar",
+              "text2": "<b><\/b>",
+              "text2-large": "",
+              "bnr2align": "topleft",
+              "link2": "shopify:\/\/collections\/baterias-de-cocina",
+              "text3": "<b><\/b>",
+              "text3-large": "",
+              "bnr3align": "topleft",
+              "link3": "shopify:\/\/collections\/contenedores-para-cocina",
+              "text4": "<b><\/b>",
+              "text4-large": "",
+              "bnr4align": "topleft",
+              "link4": "#"
+            }
+          }
+        },
+        "block_order": [
+          "1558350031635"
+        ],
+        "settings": {
+          "title": "",
+          "subtitle": "",
+          "top-offeset": "small",
+          "fullwidth": false,
+          "pad-desk": 55,
+          "pad-ipad": 15,
+          "pad-mbl": 7,
+          "hide_mobile": false,
+          "bnr_ttl": "#000000",
+          "bnr_ttl_bg": "rgba(0,0,0,0)",
+          "bnr_ttl_bg_op": 0.7,
+          "disable_zoom": false,
+          "snow_effect": false,
+          "snow_style": "style1"
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "recommanded_products_autoplay": true,
+          "autoplay_speed": "3000",
+          "recommanded_title": "Productos recomendados",
+          "recommanded_sub_title": "",
+          "grid": 4,
+          "tablet-grid": 3,
+          "mobile-grid": 2,
+          "recommanded_total_product_to_show": "8"
+        }
+      },
+      "163001328445fe37fd": {
+        "type": "featured-product",
+        "disabled": true,
+        "settings": {
+          "top-offeset": "small",
+          "title": "<b>¡NUEVA OFERTA!<\/b>",
+          "featured_product": "cuna-5-en-1-para-bebe-color-gris",
+          "image_size": "medium",
+          "enable_zoom": true,
+          "show_vendor": false,
+          "spr_availability": false,
+          "spr_sku": false,
+          "countdown": false,
+          "countdown_lbl": "Compra Aquí",
+          "show_share_buttons": false,
+          "show_variant_swatches": true,
+          "fake_orders": false,
+          "orders": 50,
+          "orders_time": 5,
+          "orders_msg": "[orders] vendidos en las últimas [hours] hrs"
+        }
+      },
+      "1631634442b009e050": {
+        "type": "collection-list",
+        "disabled": true,
+        "blocks": {
+          "ac82e1ce-7ed9-43bd-91f4-0f6c383e141d": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "nasa",
+              "collection_name": "NASA",
+              "collection_btn": "Compra Aquí"
+            }
+          },
+          "c7a7bca3-bf80-4dd5-ad1f-01bdcc3476cb": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "disney",
+              "collection_name": "",
+              "collection_btn": "Compra Aquí"
+            }
+          },
+          "43632299-37d5-4d6a-82b1-0a2760c39a15": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "ponte-la-camiseta-nfl",
+              "collection_name": "NFL",
+              "collection_btn": "Compra Aquí"
+            }
+          }
+        },
+        "block_order": [
+          "ac82e1ce-7ed9-43bd-91f4-0f6c383e141d",
+          "c7a7bca3-bf80-4dd5-ad1f-01bdcc3476cb",
+          "43632299-37d5-4d6a-82b1-0a2760c39a15"
+        ],
+        "settings": {
+          "title": "¡Conoce las licencias que tenemos para ti!",
+          "subtitle": "Desde $69.99",
+          "top-offeset": "small",
+          "section_width": true,
+          "pad-desk": 53,
+          "pad-ipad": 15,
+          "pad-mbl": 10,
+          "section_cov": false,
+          "sec_bg_clr": "#fafafa",
+          "hide_mobile": false,
+          "enable_carousel": true,
+          "grid-spacing": 15,
+          "grid-spacing-mbl": 5,
+          "style": "style1",
+          "textalign": "text-center",
+          "leftpadzero": false,
+          "product_count": false,
+          "show_buttons": true,
+          "btn-size-desk": "btn-sm",
+          "btn-size-mob": "mob-btn-sm",
+          "grid": 3,
+          "tablet-grid": 3,
+          "mobile-grid": 3,
+          "collection_ttl_hm": "#ffffff",
+          "collection_ttl_bg_hm": "#000000",
+          "collection_ttl_bg_hm_responsive": "#111111",
+          "collection_ttl_opt_hm": 0.7,
+          "disable_zoom": false
+        }
+      },
+      "collection-navidad": {
+        "type": "collection-navidad",
+        "settings": {
+          "fullwidth": true,
+          "show_collection_name": false,
+          "show_collection_image": false,
+          "banner_position": "top",
+          "bheight": 300,
+          "bheightipad": 200,
+          "bheightmob": 100,
+          "banner_style": "info-below",
+          "text-align": "text-center",
+          "collection-des": "top",
+          "clr_bg": "#eeeeee",
+          "clr_text": "#111111",
+          "clr_text_des": "#111111",
+          "secondary_image": true,
+          "show_vendor": false,
+          "prlist_btn_show": false,
+          "btn_mobiles": true,
+          "show_color_swatch": true,
+          "color_type": "color",
+          "vr_bg_position": "50% 0",
+          "color_size": "small",
+          "color_style": "rounded",
+          "sort_enable": true,
+          "dis_prod_cnt": true,
+          "dis_grid_icn": false,
+          "prbox_style": "style1",
+          "grid": 4,
+          "tablet-grid": 3,
+          "mobile-grid": 2,
+          "rows": "24",
+          "pagination": "button",
+          "collection_sidebar": false,
+          "sidebar_position": "left"
+        }
+      },
+      "collection-list": {
+        "type": "collection-list",
+        "blocks": {
+          "4c2fd093-97fe-4d55-83df-018baa6cf709": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "ahora-o-nunca",
+              "collection_name": "",
+              "collection_btn": "Shop Now"
+            }
+          },
+          "d58f012a-d0dc-423d-b56f-0c1609753920": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "30-de-descuento",
+              "collection_image": "shopify:\/\/shop_images\/BANNER-PRODUCTO-2.jpg",
+              "collection_name": "",
+              "collection_btn": "Shop Now"
+            }
+          },
+          "3309635e-344e-4f36-a46b-80ac92932131": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "alimento-para-mascotas",
+              "collection_image": "shopify:\/\/shop_images\/logowaldospng_3b49b316-71aa-4d62-89d8-39396c3ebf01.png",
+              "collection_name": "",
+              "collection_btn": "Shop Now"
+            }
+          }
+        },
+        "block_order": [
+          "4c2fd093-97fe-4d55-83df-018baa6cf709",
+          "d58f012a-d0dc-423d-b56f-0c1609753920",
+          "3309635e-344e-4f36-a46b-80ac92932131"
+        ],
+        "settings": {
+          "title": "Collection list",
+          "subtitle": "Describe your products, collection, content etc...",
+          "top-offeset": "default",
+          "section_width": true,
+          "pad-desk": 55,
+          "pad-ipad": 15,
+          "pad-mbl": 10,
+          "section_cov": false,
+          "sec_bg_clr": "#fafafa",
+          "hide_mobile": false,
+          "enable_carousel": true,
+          "grid-spacing": 15,
+          "grid-spacing-mbl": 5,
+          "style": "style1",
+          "textalign": "text-center",
+          "leftpadzero": false,
+          "product_count": false,
+          "show_buttons": false,
+          "btn-size-desk": "btn-sm",
+          "btn-size-mob": "mob-btn-sm",
+          "grid": 4,
+          "tablet-grid": 3,
+          "mobile-grid": 2,
+          "collection_ttl_hm": "#fff",
+          "collection_ttl_bg_hm": "#000",
+          "collection_ttl_bg_hm_responsive": "#000",
+          "collection_ttl_opt_hm": 0.7,
+          "disable_zoom": false
+        }
+      },
+      "collection-banner": {
+        "type": "collection-banner",
+        "blocks": {
+          "93c0298a-ed8c-4f5d-8e31-f8debbdc7aaf": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "20-de-descuento",
+              "collection_name": "",
+              "collection_name2": "",
+              "textalign": "center",
+              "text-left": false,
+              "collection_btn": "Shop Now",
+              "width": "50%"
+            }
+          },
+          "5d2644c7-3dc0-4b60-be6d-0f8292206af3": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "ahora-o-nunca",
+              "collection_name": "",
+              "collection_name2": "",
+              "textalign": "center",
+              "text-left": false,
+              "collection_btn": "Shop Now",
+              "width": "50%"
+            }
+          }
+        },
+        "block_order": [
+          "93c0298a-ed8c-4f5d-8e31-f8debbdc7aaf",
+          "5d2644c7-3dc0-4b60-be6d-0f8292206af3"
+        ],
+        "settings": {
+          "title": "Collection Banner",
+          "subtitle": "Describe your products, collection, content etc...",
+          "top-offeset": "default",
+          "section_width": false,
+          "hide_mobile": false,
+          "pad-desk": 55,
+          "pad-ipad": 15,
+          "pad-mbl": 10,
+          "grid-spacing": 15,
+          "grid-spacing-mbl": 5,
+          "grid-spacing-col": 2,
+          "box-width": 50,
+          "box_bg": "#fff",
+          "box_txt": "#000",
+          "disable_zoom": false,
+          "show_buttons": true,
+          "btn-size-desk": "btn-sm",
+          "btn-size-mob": "mob-btn-sm",
+          "snow_effect": false,
+          "snow_style": "style1"
+        }
+      },
+      "collection-tab": {
+        "type": "collection-tab",
+        "settings": {
+          "title": "Our Collection",
+          "subtitle": "Describe your products, collection etc...",
+          "secondary_image": true,
+          "show_vendor": false,
+          "prlist_btn_show": false,
+          "btn_mobiles": false,
+          "show_color_swatch": true,
+          "color_type": "color",
+          "v_f_bg_position": "50% 0",
+          "color_size": "small",
+          "color_style": "rounded",
+          "top-offeset": "default",
+          "section_cov": false,
+          "sec_bg_clr": "#fafafa",
+          "tab-style": "style1",
+          "prbox_style": "style1",
+          "grid": 4,
+          "tablet-grid": 3,
+          "mobile-grid": 2,
+          "rows": "5"
+        }
+      },
+      "hero": {
+        "type": "hero",
+        "settings": {
+          "top-offeset": "default",
+          "section_width": false,
+          "pad-desk": 0,
+          "pad-ipad": 0,
+          "pad-mbl": 0,
+          "ds_height": 600,
+          "tb_height": 350,
+          "mb_height": 250,
+          "parallax_scroll": true,
+          "image": "shopify:\/\/shop_images\/navidade.jpg",
+          "alignment": "center",
+          "textalign": "center",
+          "pretext": "Pre Heading",
+          "title": "Heading",
+          "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+          "txt_clr": "#000",
+          "bg_clr": "#fff",
+          "bg_opacity": 0.3,
+          "button_label": "",
+          "button_link": "",
+          "link_image": false,
+          "btn-size-desk": "btn-sm",
+          "btn-size-mob": "mob-btn-sm",
+          "snow_effect": false,
+          "snow_style": "style1",
+          "hero_dealtimer": false,
+          "cnt_date": "12\/20\/2020",
+          "cnt_bg": "#000",
+          "cnt_text": "#eee",
+          "cnt_bdr": "#000"
+        }
+      },
+      "1648054604ab44e3a8": {
+        "type": "image-slideshow",
+        "blocks": {
+          "1648054604ab44e3a8-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/5-MALETAS-SEM42.png",
+              "mb_image": "shopify:\/\/shop_images\/5-MALETAS-SEM42_95655031-3919-4364-86fb-613469c5daa7.png",
+              "link": "shopify:\/\/collections\/nuevas-maletas",
+              "newTab": false
+            }
+          },
+          "5ecf1293-5054-4b44-aa15-353a5b59895a": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "link": "shopify:\/\/pages\/hogar-y-decoracion",
+              "newTab": false
+            }
+          },
+          "bdd633fe-5df0-4fc9-8537-b3c9e3c90c61": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "link": "shopify:\/\/pages\/waldosmoda",
+              "newTab": false
+            }
+          },
+          "1648054604ab44e3a8-1": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "link": "shopify:\/\/collections\/electronicos",
+              "newTab": false
+            }
+          },
+          "ea5fdcf2-3d51-4911-94ed-005ec8c7d9dc": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "link": "shopify:\/\/collections\/ninos-y-bebes",
+              "newTab": false
+            }
+          },
+          "afcfcb5d-7901-412e-ba82-060a71e9b8e0": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "link": "shopify:\/\/collections\/perfumeria",
+              "newTab": false
+            }
+          }
+        },
+        "block_order": [
+          "1648054604ab44e3a8-0",
+          "5ecf1293-5054-4b44-aa15-353a5b59895a",
+          "bdd633fe-5df0-4fc9-8537-b3c9e3c90c61",
+          "1648054604ab44e3a8-1",
+          "ea5fdcf2-3d51-4911-94ed-005ec8c7d9dc",
+          "afcfcb5d-7901-412e-ba82-060a71e9b8e0"
+        ],
+        "settings": {
+          "section_width": true,
+          "top-offeset": "none",
+          "autoplay": true,
+          "autoplay_speed": "7000",
+          "arrow": true,
+          "dots": false,
+          "snow_effect": false,
+          "snow_style": "style1"
+        }
+      },
+      "16521180081b44ad14": {
+        "type": "image-slideshow",
+        "disabled": true,
+        "blocks": {
+          "ca6950b4-6829-4a09-8516-1ab94511538f": {
+            "type": "image",
+            "settings": {
+              "link": "shopify:\/\/collections\/juguetes",
+              "newTab": false
+            }
+          }
+        },
+        "block_order": [
+          "ca6950b4-6829-4a09-8516-1ab94511538f"
+        ],
+        "settings": {
+          "section_width": true,
+          "top-offeset": "default",
+          "autoplay": true,
+          "autoplay_speed": "5000",
+          "arrow": true,
+          "dots": false,
+          "snow_effect": false,
+          "snow_style": "style1"
+        }
+      },
+      "1654619622a355c513": {
+        "type": "collection-list",
+        "disabled": true,
+        "blocks": {
+          "1654619622a355c513-1": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "venta-monstruo",
+              "collection_name": "Halloween",
+              "collection_btn": "Compra Aquí"
+            }
+          },
+          "1654619622a355c513-3": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "dia-de-muertos",
+              "collection_name": "Día de Muertos",
+              "collection_btn": "Compra Aquí"
+            }
+          },
+          "1654619622a355c513-2": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "feliz-navidad-2022",
+              "collection_name": "Navidad",
+              "collection_btn": "Compra Aquí"
+            }
+          }
+        },
+        "block_order": [
+          "1654619622a355c513-1",
+          "1654619622a355c513-3",
+          "1654619622a355c513-2"
+        ],
+        "settings": {
+          "title": "Temporadas",
+          "subtitle": "",
+          "top-offeset": "default",
+          "section_width": true,
+          "pad-desk": 55,
+          "pad-ipad": 15,
+          "pad-mbl": 10,
+          "section_cov": false,
+          "sec_bg_clr": "#fafafa",
+          "hide_mobile": false,
+          "enable_carousel": true,
+          "grid-spacing": 15,
+          "grid-spacing-mbl": 5,
+          "style": "style1",
+          "textalign": "text-center",
+          "leftpadzero": false,
+          "product_count": false,
+          "show_buttons": true,
+          "btn-size-desk": "btn-sm",
+          "btn-size-mob": "mob-btn-sm",
+          "grid": 3,
+          "tablet-grid": 3,
+          "mobile-grid": 3,
+          "collection_ttl_hm": "#ffffff",
+          "collection_ttl_bg_hm": "#000000",
+          "collection_ttl_bg_hm_responsive": "#000000",
+          "collection_ttl_opt_hm": 0.7,
+          "disable_zoom": false
+        }
+      },
+      "165634539740847d58": {
+        "type": "product-slider",
+        "settings": {
+          "title": "",
+          "subtitle": "",
+          "collection": "guadalajara",
+          "secondary_image": true,
+          "show_vendor": false,
+          "prlist_btn_show": false,
+          "btn_mobiles": false,
+          "show_view_all": "Compra Aquí",
+          "show_color_swatch": true,
+          "color_type": "color",
+          "vr_bg_position": "50% 0",
+          "color_size": "small",
+          "color_style": "rounded",
+          "top-offeset": "default",
+          "section_cov": false,
+          "sec_bg_clr": "#fafafa",
+          "prbox_style": "style1",
+          "grid": 3,
+          "tablet-grid": 3,
+          "mobile-grid": 3,
+          "rows": "3",
+          "autoplay": false,
+          "autoplay_speed": 5
+        }
+      },
+      "1659722726ffc32017": {
+        "type": "image-slideshow",
+        "disabled": true,
+        "blocks": {
+          "a3be44eb-3bc7-41c6-b100-43b78bed1d45": {
+            "type": "image",
+            "settings": {
+              "link": "shopify:\/\/collections\/dia-de-muertos",
+              "newTab": false
+            }
+          },
+          "5681aad4-69a0-476c-bb65-0519092be758": {
+            "type": "image",
+            "settings": {
+              "link": "shopify:\/\/pages\/fiesta-monstruo",
+              "newTab": false
+            }
+          },
+          "dfd71638-5d94-4992-bdb8-bcd5a9de7490": {
+            "type": "image",
+            "settings": {
+              "link": "shopify:\/\/pages\/navidad-en-waldos-1",
+              "newTab": false
+            }
+          }
+        },
+        "block_order": [
+          "a3be44eb-3bc7-41c6-b100-43b78bed1d45",
+          "5681aad4-69a0-476c-bb65-0519092be758",
+          "dfd71638-5d94-4992-bdb8-bcd5a9de7490"
+        ],
+        "settings": {
+          "section_width": true,
+          "top-offeset": "default",
+          "autoplay": true,
+          "autoplay_speed": "5000",
+          "arrow": true,
+          "dots": false,
+          "snow_effect": false,
+          "snow_style": "style1"
+        }
+      },
+      "165996332784cca3df": {
+        "type": "collection-list",
+        "disabled": true,
+        "blocks": {
+          "165996332784cca3df-0": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "waldos-negocio-despensa",
+              "collection_name": "Abarrotes",
+              "collection_btn": "Compra Aquí"
+            }
+          },
+          "165996332784cca3df-1": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "waldos-negocio-bebidas",
+              "collection_name": "Bebidas",
+              "collection_btn": "Compra Aquí"
+            }
+          },
+          "165996332784cca3df-2": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "waldos-negocio-dulces",
+              "collection_name": "Dulces y Galletas",
+              "collection_btn": "Compra Aquí"
+            }
+          },
+          "165996332784cca3df-3": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "waldo-s-negocio-limpieza",
+              "collection_name": "Limpieza",
+              "collection_btn": "Compra Aquí"
+            }
+          }
+        },
+        "block_order": [
+          "165996332784cca3df-0",
+          "165996332784cca3df-1",
+          "165996332784cca3df-2",
+          "165996332784cca3df-3"
+        ],
+        "settings": {
+          "title": "Mayoreo",
+          "subtitle": "Waldo's Negocios",
+          "top-offeset": "default",
+          "section_width": true,
+          "pad-desk": 55,
+          "pad-ipad": 15,
+          "pad-mbl": 10,
+          "section_cov": false,
+          "sec_bg_clr": "#fafafa",
+          "hide_mobile": false,
+          "enable_carousel": true,
+          "grid-spacing": 15,
+          "grid-spacing-mbl": 5,
+          "style": "style1",
+          "textalign": "text-center",
+          "leftpadzero": false,
+          "product_count": false,
+          "show_buttons": false,
+          "btn-size-desk": "btn-sm",
+          "btn-size-mob": "mob-btn-sm",
+          "grid": 4,
+          "tablet-grid": 3,
+          "mobile-grid": 2,
+          "collection_ttl_hm": "#ffffff",
+          "collection_ttl_bg_hm": "#000000",
+          "collection_ttl_bg_hm_responsive": "#000000",
+          "collection_ttl_opt_hm": 0.7,
+          "disable_zoom": false
+        }
+      },
+      "16617856797f15c307": {
+        "type": "product-slider",
+        "disabled": true,
+        "settings": {
+          "title": "Sillones para los pequeños de la casa",
+          "subtitle": "A solo $199.99",
+          "collection": "sillon-corona",
+          "secondary_image": true,
+          "show_vendor": false,
+          "prlist_btn_show": false,
+          "btn_mobiles": false,
+          "show_view_all": "Compra Aquí",
+          "show_color_swatch": true,
+          "color_type": "color",
+          "vr_bg_position": "50% 0",
+          "color_size": "small",
+          "color_style": "rounded",
+          "top-offeset": "default",
+          "section_cov": false,
+          "sec_bg_clr": "#fafafa",
+          "prbox_style": "style1",
+          "grid": 3,
+          "tablet-grid": 3,
+          "mobile-grid": 3,
+          "rows": "3",
+          "autoplay": false,
+          "autoplay_speed": 5
+        }
+      },
+      "6b4edfa6-aa97-43b2-9246-5238d72f72f8": {
+        "type": "featured-product",
+        "disabled": true,
+        "settings": {
+          "top-offeset": "small",
+          "title": "<b>¡Exclusivo online!<\/b>",
+          "featured_product": "album-oficial-world-cup-qatar-editorial-panini-pasta-suave-paquete-con-104-sobres-de-estampas-1-album-gratis",
+          "image_size": "medium",
+          "enable_zoom": true,
+          "show_vendor": false,
+          "spr_availability": false,
+          "spr_sku": false,
+          "countdown": false,
+          "countdown_lbl": "Compra Aquí",
+          "show_share_buttons": false,
+          "show_variant_swatches": true,
+          "fake_orders": false,
+          "orders": 50,
+          "orders_time": 5,
+          "orders_msg": "[orders] vendidos en las últimas [hours] horas"
+        }
+      },
+      "e3d7a7a5-a3ae-4141-974c-cfb6f39cb6c5": {
+        "type": "image-slideshow",
+        "disabled": true,
+        "blocks": {
+          "e3d7a7a5-a3ae-4141-974c-cfb6f39cb6c5-166509462141053b12-0": {
+            "type": "image",
+            "settings": {
+              "link": "shopify:\/\/collections\/mundial",
+              "newTab": false
+            }
+          },
+          "e3d7a7a5-a3ae-4141-974c-cfb6f39cb6c5-166509462141053b12-1": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "link": "",
+              "newTab": false
+            }
+          }
+        },
+        "block_order": [
+          "e3d7a7a5-a3ae-4141-974c-cfb6f39cb6c5-166509462141053b12-0",
+          "e3d7a7a5-a3ae-4141-974c-cfb6f39cb6c5-166509462141053b12-1"
+        ],
+        "settings": {
+          "section_width": true,
+          "top-offeset": "default",
+          "autoplay": true,
+          "autoplay_speed": "5000",
+          "arrow": true,
+          "dots": false,
+          "snow_effect": false,
+          "snow_style": "style1"
+        }
+      },
+      "b3b02af9-ce2d-4e26-868a-27fe05047e8d": {
+        "type": "product-slider",
+        "disabled": true,
+        "settings": {
+          "title": "",
+          "subtitle": "",
+          "collection": "bicicletas",
+          "secondary_image": true,
+          "show_vendor": false,
+          "prlist_btn_show": false,
+          "btn_mobiles": false,
+          "show_view_all": "",
+          "show_color_swatch": true,
+          "color_type": "color",
+          "vr_bg_position": "50% 0",
+          "color_size": "small",
+          "color_style": "rounded",
+          "top-offeset": "default",
+          "section_cov": false,
+          "sec_bg_clr": "#fafafa",
+          "prbox_style": "style1",
+          "grid": 3,
+          "tablet-grid": 3,
+          "mobile-grid": 3,
+          "rows": "3",
+          "autoplay": false,
+          "autoplay_speed": 5
+        }
+      },
+      "ce6dfc9d-aaa4-49c4-9e64-095a57324833": {
+        "type": "product-slider",
+        "disabled": true,
+        "settings": {
+          "title": "",
+          "subtitle": "",
+          "collection": "puntos-futbol",
+          "secondary_image": true,
+          "show_vendor": false,
+          "prlist_btn_show": false,
+          "btn_mobiles": false,
+          "show_view_all": "",
+          "show_color_swatch": true,
+          "color_type": "color",
+          "vr_bg_position": "50% 0",
+          "color_size": "small",
+          "color_style": "rounded",
+          "top-offeset": "default",
+          "section_cov": false,
+          "sec_bg_clr": "#fafafa",
+          "prbox_style": "style1",
+          "grid": 4,
+          "tablet-grid": 3,
+          "mobile-grid": 2,
+          "rows": "5",
+          "autoplay": false,
+          "autoplay_speed": 5
+        }
+      },
+      "4a385a52-30f7-4968-9d29-0b1fa0cf6711": {
+        "type": "product-slider",
+        "disabled": true,
+        "settings": {
+          "title": "",
+          "subtitle": "",
+          "collection": "motocicleta-vento-screamer",
+          "secondary_image": true,
+          "show_vendor": false,
+          "prlist_btn_show": false,
+          "btn_mobiles": false,
+          "show_view_all": "",
+          "show_color_swatch": true,
+          "color_type": "color",
+          "vr_bg_position": "50% 0",
+          "color_size": "small",
+          "color_style": "rounded",
+          "top-offeset": "default",
+          "section_cov": false,
+          "sec_bg_clr": "#fafafa",
+          "prbox_style": "style1",
+          "grid": 3,
+          "tablet-grid": 3,
+          "mobile-grid": 3,
+          "rows": "3",
+          "autoplay": false,
+          "autoplay_speed": 5
+        }
+      },
+      "a17cabc1-0af1-47f1-bbe5-2e21c3a33c28": {
+        "type": "image-slideshow",
+        "disabled": true,
+        "blocks": {
+          "a17cabc1-0af1-47f1-bbe5-2e21c3a33c28-1665413471be5f2cda-0": {
+            "type": "image",
+            "settings": {
+              "link": "shopify:\/\/pages\/venta-de-motos-vento",
+              "newTab": false
+            }
+          }
+        },
+        "block_order": [
+          "a17cabc1-0af1-47f1-bbe5-2e21c3a33c28-1665413471be5f2cda-0"
+        ],
+        "settings": {
+          "section_width": true,
+          "top-offeset": "default",
+          "autoplay": true,
+          "autoplay_speed": "5000",
+          "arrow": true,
+          "dots": false,
+          "snow_effect": false,
+          "snow_style": "style1"
+        }
+      }
+    },
+    "content_for_index": [
+      "1648054604ab44e3a8",
+      "165634539740847d58",
+      "1659722726ffc32017",
+      "1654619622a355c513",
+      "e3d7a7a5-a3ae-4141-974c-cfb6f39cb6c5",
+      "6b4edfa6-aa97-43b2-9246-5238d72f72f8",
+      "ce6dfc9d-aaa4-49c4-9e64-095a57324833",
+      "a17cabc1-0af1-47f1-bbe5-2e21c3a33c28",
+      "4a385a52-30f7-4968-9d29-0b1fa0cf6711",
+      "55513c811fd4",
+      "1631634442b009e050",
+      "163001328445fe37fd",
+      "16617856797f15c307",
+      "16521180081b44ad14",
+      "b3b02af9-ce2d-4e26-868a-27fe05047e8d",
+      "165996332784cca3df"
+    ]
+  },
+  "presets": {
+    "Default": {
+      "color_text": "#3d4246",
+      "color_body_text": "#788188",
+      "color_sale_text": "#7796A8",
+      "color_borders": "#e8e9eb",
+      "color_button": "#7796A8",
+      "color_button_text": "#fff",
+      "color_small_button": "#fff",
+      "color_small_button_text": "#3d4246",
+      "color_text_field": "#fff",
+      "color_text_field_text": "#000",
+      "color_image_overlay_text": "#fff",
+      "color_image_overlay": "#3d4246",
+      "image_overlay_opacity": "0.25",
+      "color_body_bg": "#fff",
+      "type_header_family": "Google_Work+Sans_600_sans",
+      "type_header_base_size": "26px",
+      "type_base_family": "Google_Work+Sans_400_sans",
+      "type_base_size": "16px",
+      "type_bold_product_titles": false,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "sections": {
+        "hero": {
+          "type": "hero",
+          "settings": {
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "slideshow-1": {
+              "type": "image",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "slideshow-1"
+          ],
+          "settings": {
+          }
+        },
+        "feature-row": {
+          "type": "feature-row",
+          "settings": {
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+          }
+        }
+      },
+      "content_for_index": [
+        "hero",
+        "feature-row",
+        "slideshow"
+      ]
+    }
+  }
+}

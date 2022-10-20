@@ -1,0 +1,101 @@
+{%- assign globo_search = true -%}
+{%- assign home_filter = false -%}
+{%- assign has_form = false -%}
+{%- if request.page_type != 'index' -%}{%- assign home_filter = false -%}{%- endif -%}
+{%- if globo_search or request.page_type == 'collection' or request.page_type == 'search' or home_filter -%}
+{%- assign assets_url = 'product-1.png' | asset_img_url: '50x' | split: 'product-1_50x.png' -%}
+{%- assign files_url  = 'product-1.png' | file_img_url: '50x' | split: 'product-1_50x.png' -%}
+{%- assign primary_locale = 'null' -%}
+{%- for locale in shop.published_locales -%}{%- if locale.primary -%}{%- assign primary_locale = locale.iso_code | json -%}{%- endif -%}{%- endfor -%}
+
+<script>
+  window.sortByRelevance = false;
+  window.moneyFormat = "{{ shop.money_format | replace: '"', "'" }}";
+  window.GloboMoneyFormat = "{{ shop.money_format | replace: '"', "'" }}";
+  window.GloboMoneyWithCurrencyFormat = "{{ shop.money_with_currency_format | replace: '"', "'" }}";
+  window.filterPriceRate = 1;
+  window.filterPriceAdjustment = 1;
+
+  window.shopCurrency = {{shop.currency | json}};
+  window.currentCurrency = {{cart.currency.iso_code | json}};
+
+  window.isMultiCurrency = {% assign enabled_currencies_size = shop.enabled_currencies | size %}{% if enabled_currencies_size > 1 and false %}true{% else %}false{% endif %};
+  window.assetsUrl = '{{ assets_url[0] }}';
+  window.filesUrl = '{{ files_url[0] }}';
+  var page_id = {% if request.page_type contains 'collection' %}{% if collection.id %}{{collection.id | default: 1}}{% else %}1{% endif %}{% elsif request.page_type contains 'search' %}2{% else %}0{% endif %};
+  var GloboFilterConfig = {
+    api: {
+      filterUrl: "https://filter-v5.globosoftware.net/filter",
+      searchUrl: "https://filter-v5.globosoftware.net/search",
+      url: "https://filter-v5.globosoftware.net",
+    },
+    shop: {
+      name: "{{ shop.name | escape }}",
+      url: "{{ shop.url }}",
+      domain: "{{ shop.permanent_domain }}",
+      is_multicurrency: {% assign is_multicurrency = shop.enabled_currencies | size %}{% if is_multicurrency > 1 and false and false %}true{% else %}false{% endif %},
+      currency: {{shop.currency | json}},
+      cur_currency: {{cart.currency.iso_code | json}},
+      cur_locale: {{request.locale.iso_code | json}},
+      locale: {{primary_locale}},
+      product_image: {width: 360, height: 504},
+      no_image_url: "https://cdn.shopify.com/s/images/themes/product-1.png",
+      themeStoreId: 0,
+      swatches: {{ shop.metafields.globo.swatches | json }},
+      translation: {"default":{"search":{"suggestions":"Sugerencias","collections":"Colecciones","pages":"P\u00e1ginas","product":"Producto","products":"Productos","view_all":"Buscar","view_all_products":"Ver todos","not_found":"Lo sentimos, no encontramos nada sobre","product_not_found":"No se encontraron productos","no_result_keywords_suggestions_title":"B\u00fasquedas populares","no_result_products_suggestions_title":"Sin embargo, podr\u00eda gustarte","zero_character_keywords_suggestions_title":"Sugerencias","zero_character_popular_searches_title":"B\u00fasquedas populares","zero_character_products_suggestions_title":"Productos en tendencia"},"form":{"title":"Buscar...","submit":"Buscar"},"filter":{"filter_by":"Filtrar por","clear_all":"Limpiar filtros","view":"Ver","clear":"Limpiar","in_stock":"En almac\u00e9n","out_of_stock":"Agotado","ready_to_ship":"Listo para enviar","search":"Opciones de b\u00fasqueda"},"sort":{"sort_by":"Ordenar por","manually":"Destacado","availability_in_stock_first":"Disponibilidad","relevance":"Relevancia","best_selling":"M\u00e1s vendidos","alphabetically_a_z":"Alfabeticamente, A-Z","alphabetically_z_a":"Alfabeticamente, Z-A","price_low_to_high":"Precio, de menos a m\u00e1s","price_high_to_low":"Precio, de m\u00e1s a menos","date_new_to_old":"Fecha, nuevo a viejo","date_old_to_new":"Fecha, viejo a nuevo","sale_off":"% descuento"},"product":{"add_to_cart":"A\u00f1adir a carrito","unavailable":"No disponible","sold_out":"Agotado","sale":"Descuento","load_more":"Cargar m\u00e1s","limit":"Mostrar","search":"Buscar productos","no_results":"Lo sentimos, no hay productos en esta colecci\u00f3n"},"labels":{"283769":"Tipo de producto","283770":"Precio","283775":"Color","283776":"Estilo","283777":"Tama\u00f1o","283779":"Talla"}}},
+      redirects: {{ shop.metafields.globo.redirects | json }},
+      images: ["404-notfound.png","arrow-select.png","default-skin.png","fire.png","snow-1.png","snow-2.png","snow-3.png","snowballs-lg.png","snowballs-md.png","snowballs-sm.png","soldout.png","spacer.png"],
+      settings: {{ settings | json }},
+      home_filter: {{home_filter}},
+      page: {{request.page_type | json}},
+      layout: "app"
+    },
+    special_countries: null,
+    adjustments: null,
+
+    year_make_model: {
+      id: null
+    },
+    filter: {
+      id: {"default":28555}[page_id] || {"default":28555}['default'] || 0,
+      layout: 3,
+      showCount: 1,
+      isLoadMore: 1,
+      filter_on_search_page: false
+    },
+    search:{
+      enable: {{globo_search}},
+      zero_character_suggestion: false,
+      layout: 1,
+    },
+    collection: {
+      id: {%- if request.page_type == 'collection' -%}{{ collection.id | default: 0 }}{%- else -%}0{%- endif -%},
+      handle: {%- if request.page_type == 'collection' -%}'{{ collection.handle }}'{%- else -%}''{%- endif -%},
+      sort: {% if request.page_type contains 'collection' %}"{{ collection.default_sort_by | default: 'best-selling' }}"{% elsif request.page_type contains 'search' %}'relevance'{% else %}'best-selling'{% endif %},
+      tags: {% if current_tags %}[{% for tag in current_tags %}{{ tag | json }},{{ tag | handle | json }}{% unless forloop.last %},{% endunless %}{% endfor %}]{% else %}null{% endif %},
+      vendor: {{ collection.current_vendor | json }},
+      type: {{ collection.current_type | json }},
+      term: {{ search.terms | escape | json }},
+      limit: 12,
+      products_count: {{collection.products_count | default: 0}},
+      excludeTags: null
+    },
+    customer: {% if customer %}{id: {{customer.id}}, tags: {{customer.tags | json}}}{% else %}false{% endif %},
+    selector: {
+      sortBy: '.collection-sorting',
+      pagination: '.pagination:first, .paginate:first, .pagination-custom:first, #pagination:first, #gf_pagination_wrap',
+      products: '.grid.grid-collage'
+    }
+  };
+
+</script>
+<script defer src="{{ 'v5.globo.filter.lib.js' | asset_url }}"></script>
+{% if request.page_type == 'collection' or request.page_type == 'search' or home_filter or has_form %}<link rel="preload stylesheet" href="{{ 'v5.globo.filter.css' | asset_url }}" as="style">
+{% endif %}
+{% if globo_search %}<link rel="preload stylesheet" href="{{ 'v5.globo.search.css' | asset_url }}" as="style">
+{% endif %}
+{% endif %}
+
+
+
+

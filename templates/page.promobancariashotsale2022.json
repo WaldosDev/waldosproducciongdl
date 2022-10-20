@@ -1,0 +1,201 @@
+{
+  "sections": {
+    "1646064069169c2ea8": {
+      "type": "image-slideshow",
+      "blocks": {
+        "16731e76-647d-4927-90e1-7e1009f01f62": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_1.png",
+            "link": "",
+            "newTab": false
+          }
+        },
+        "e5580177-8961-418f-bc5a-fab0eb5ec607": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KUESKY-PAY.png",
+            "link": "",
+            "newTab": false
+          }
+        }
+      },
+      "block_order": [
+        "16731e76-647d-4927-90e1-7e1009f01f62",
+        "e5580177-8961-418f-bc5a-fab0eb5ec607"
+      ],
+      "settings": {
+        "section_width": true,
+        "top-offeset": "none",
+        "autoplay": true,
+        "autoplay_speed": "5000",
+        "arrow": true,
+        "dots": false,
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "16533407592eeda0fd": {
+      "type": "product-slider",
+      "settings": {
+        "title": "¡Sal a dar un paseo en bici! Págala con Kueski Pay y obtén 30% OFF.",
+        "subtitle": "Solo hoy 23 de Mayo del 2022",
+        "collection": "juguetes",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 3,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "3",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "1653334948042368e3": {
+      "type": "image-slideshow",
+      "blocks": {
+        "16533349485b2cfef9-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MESES-SIN-INTERESES.png",
+            "link": "",
+            "newTab": false
+          }
+        },
+        "d0cb63d4-e778-4f83-a49b-c8b3c7aa9025": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "newTab": false
+          }
+        }
+      },
+      "block_order": [
+        "16533349485b2cfef9-1",
+        "d0cb63d4-e778-4f83-a49b-c8b3c7aa9025"
+      ],
+      "settings": {
+        "section_width": true,
+        "top-offeset": "default",
+        "autoplay": true,
+        "autoplay_speed": "5000",
+        "arrow": true,
+        "dots": false,
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "165334086713d9e7b7": {
+      "type": "product-slider",
+      "settings": {
+        "title": "El regalo perfecto no exis… ¡Un Playstation 5 a MSI es el mejor regalo!",
+        "subtitle": "Date el gustito que mereces y paga tu Playstation 5 a MSI.",
+        "collection": "electronicos",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "16533409983bb9f9cd": {
+      "type": "image-slideshow",
+      "blocks": {
+        "16533409984f4ad29a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cupones_op_1510off_1200x200_9f356814-7253-4f1f-a80f-0ce1b863fc24.jpg",
+            "link": "",
+            "newTab": false
+          }
+        },
+        "16533409984f4ad29a-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cupones_todosbancos_1200x200_1.jpg",
+            "link": "",
+            "newTab": false
+          }
+        }
+      },
+      "block_order": [
+        "16533409984f4ad29a-0",
+        "16533409984f4ad29a-1"
+      ],
+      "settings": {
+        "section_width": true,
+        "top-offeset": "default",
+        "autoplay": true,
+        "autoplay_speed": "5000",
+        "arrow": true,
+        "dots": false,
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "165334103791dcb7d8": {
+      "type": "product-slider",
+      "settings": {
+        "title": "Renovar tu casa nunca fue tan sencillo. Paga con Mercado Pago y recibe hasta 15% OFF.",
+        "subtitle": "Mercado Pago y tu Tarjeta de Crédito te consienten 💕 ¡Conoce los descuentos en línea!",
+        "collection": "decoracion",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    }
+  },
+  "order": [
+    "1646064069169c2ea8",
+    "16533407592eeda0fd",
+    "1653334948042368e3",
+    "165334086713d9e7b7",
+    "16533409983bb9f9cd",
+    "165334103791dcb7d8"
+  ]
+}

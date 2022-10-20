@@ -1,0 +1,300 @@
+{
+  "sections": {
+    "165576459472660974": {
+      "type": "image-slideshow",
+      "blocks": {
+        "165576459482db4e32-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FIESTAS-PATRIAS.jpg",
+            "mb_image": "shopify:\/\/shop_images\/FIESTAS-PATRIAS_5489acfc-cb2a-40db-8661-e3a81012830d.jpg",
+            "link": "shopify:\/\/collections\/fiestas-patrias-2022",
+            "newTab": false
+          }
+        }
+      },
+      "block_order": [
+        "165576459482db4e32-0"
+      ],
+      "settings": {
+        "section_width": true,
+        "top-offeset": "default",
+        "autoplay": true,
+        "autoplay_speed": "5000",
+        "arrow": true,
+        "dots": false,
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "165479145495f8b5b1": {
+      "type": "product-slider",
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "collection": "fiestas-patrias-2022",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "Compra Aquí",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 6,
+        "tablet-grid": 4,
+        "mobile-grid": 3,
+        "rows": "6",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "1654790949ae94c54d": {
+      "type": "collection-list",
+      "blocks": {
+        "1654790948117f6440-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ropa-caballero-mexico",
+            "collection_name": "Ropa para Caballero",
+            "collection_btn": "Compra Aquí"
+          }
+        },
+        "1654790948117f6440-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ropa-dama-mexico",
+            "collection_name": "Ropa para Dama",
+            "collection_btn": "Compra Aquí"
+          }
+        }
+      },
+      "block_order": [
+        "1654790948117f6440-0",
+        "1654790948117f6440-1"
+      ],
+      "settings": {
+        "title": "Lleva el mejor outfit a tu Fiesta Mexicana",
+        "subtitle": "Desde $19.99",
+        "top-offeset": "default",
+        "section_width": true,
+        "pad-desk": 55,
+        "pad-ipad": 15,
+        "pad-mbl": 10,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "hide_mobile": false,
+        "enable_carousel": true,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 5,
+        "style": "style1",
+        "textalign": "text-center",
+        "leftpadzero": false,
+        "product_count": false,
+        "show_buttons": true,
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm",
+        "grid": 2,
+        "tablet-grid": 2,
+        "mobile-grid": 2,
+        "collection_ttl_hm": "#ffffff",
+        "collection_ttl_bg_hm": "#000000",
+        "collection_ttl_bg_hm_responsive": "#000000",
+        "collection_ttl_opt_hm": 0.7,
+        "disable_zoom": false
+      }
+    },
+    "16547898286671a1fd": {
+      "type": "feature-row",
+      "blocks": {
+        "16547898271433f893-0": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ELECTRONICOS_c0af135c-cd4d-4852-be7d-0e4088415ccc.jpg",
+            "layout": "left",
+            "title": "",
+            "text": "<p>Las mejores bocinas para tu Noche Mexicana desde $299.9<\/p>",
+            "button_label": "Compra Aquí",
+            "button_link": "https:\/\/waldos.com.mx\/collections\/audio",
+            "btn-size-desk": "btn-sm",
+            "btn-size-mob": "mob-btn-sm",
+            "text_align": "text-left",
+            "text_clr": "#000000",
+            "text_bg_clr": "#f5f5f5",
+            "button_bg_clr": "#ff0000",
+            "button_bdr_clr": "#ff0000",
+            "button_text_clr": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "16547898271433f893-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "165482171087e70e45": {
+      "type": "product-slider",
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "collection": "bocinas",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "Ver todos",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "1654790921bc1355fc": {
+      "type": "featured-product",
+      "settings": {
+        "top-offeset": "default",
+        "title": "Producto de Temporada",
+        "featured_product": "bandera-mexicana",
+        "image_size": "medium",
+        "enable_zoom": true,
+        "show_vendor": false,
+        "spr_availability": false,
+        "spr_sku": false,
+        "countdown": false,
+        "countdown_lbl": "Corre por que se acaban",
+        "show_share_buttons": true,
+        "show_variant_swatches": true,
+        "fake_orders": false,
+        "orders": 20,
+        "orders_time": 24,
+        "orders_msg": "[orders] sold in last [hours] hours"
+      }
+    },
+    "165972501053f3d855": {
+      "type": "image-slideshow",
+      "blocks": {
+        "1659725010de3678c3-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/COCINA.jpg",
+            "link": "",
+            "newTab": false
+          }
+        }
+      },
+      "block_order": [
+        "1659725010de3678c3-0"
+      ],
+      "settings": {
+        "section_width": true,
+        "top-offeset": "default",
+        "autoplay": true,
+        "autoplay_speed": "5000",
+        "arrow": true,
+        "dots": false,
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1654790168079953b0": {
+      "type": "products-columns",
+      "blocks": {
+        "1654790168d88421fa-1": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "",
+            "collection": "cristaleria"
+          }
+        },
+        "1654790168d88421fa-2": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "",
+            "collection": "tramontina"
+          }
+        }
+      },
+      "block_order": [
+        "1654790168d88421fa-1",
+        "1654790168d88421fa-2"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "grid": "2",
+        "rows": "3"
+      }
+    },
+    "1654791097bd4cc3d2": {
+      "type": "feature-row",
+      "blocks": {
+        "1654791097e900cedb-0": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/100078621.jpg",
+            "layout": "right",
+            "title": "Todo para tu Noche Mexicana",
+            "text": "<p>Desde $9.99<\/p>",
+            "button_label": "Compra Aquí",
+            "button_link": "https:\/\/waldos.com.mx\/collections\/maquillaje-y-belleza",
+            "btn-size-desk": "btn-sm",
+            "btn-size-mob": "mob-btn-sm",
+            "text_align": "text-left",
+            "text_clr": "#000000",
+            "text_bg_clr": "#f5f5f5",
+            "button_bg_clr": "#ff0000",
+            "button_bdr_clr": "#ff0000",
+            "button_text_clr": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "1654791097e900cedb-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    }
+  },
+  "order": [
+    "165576459472660974",
+    "165479145495f8b5b1",
+    "1654790949ae94c54d",
+    "16547898286671a1fd",
+    "165482171087e70e45",
+    "1654790921bc1355fc",
+    "165972501053f3d855",
+    "1654790168079953b0",
+    "1654791097bd4cc3d2"
+  ]
+}

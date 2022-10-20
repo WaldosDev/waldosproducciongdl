@@ -1,0 +1,451 @@
+{
+  "sections": {
+    "1656342108d9b62d1f": {
+      "type": "image-slideshow",
+      "blocks": {
+        "a8fbfd71-c2ce-44d7-a911-23948246adb2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MODA_MUNDIAL.png",
+            "mb_image": "shopify:\/\/shop_images\/MODA_MUNDIAL_34883e60-9b18-41fa-952a-fb936a799d76.png",
+            "link": "shopify:\/\/collections\/mundial",
+            "newTab": false
+          }
+        },
+        "165634210814509c25-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TEMPORADA_NFL.png",
+            "mb_image": "shopify:\/\/shop_images\/TEMPORADA_NFL_4a3ab2ac-a762-4dbe-b634-db2800c27049.png",
+            "link": "shopify:\/\/collections\/ponte-la-camiseta-nfl",
+            "newTab": false
+          }
+        }
+      },
+      "block_order": [
+        "a8fbfd71-c2ce-44d7-a911-23948246adb2",
+        "165634210814509c25-0"
+      ],
+      "settings": {
+        "section_width": true,
+        "top-offeset": "default",
+        "autoplay": true,
+        "autoplay_speed": "5000",
+        "arrow": true,
+        "dots": false,
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1654790949ae94c54d": {
+      "type": "collection-list",
+      "blocks": {
+        "1654790948117f6440-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ropa-de-mujer",
+            "collection_name": "Ropa para Dama",
+            "collection_btn": "Compra Aquí"
+          }
+        },
+        "1654790948117f6440-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ropa-para-caballero",
+            "collection_name": "",
+            "collection_btn": "Compra Aquí"
+          }
+        },
+        "1654790948117f6440-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ropa-de-ninos",
+            "collection_name": "Ropa para Niños",
+            "collection_btn": "Compra Aquí"
+          }
+        }
+      },
+      "block_order": [
+        "1654790948117f6440-0",
+        "1654790948117f6440-1",
+        "1654790948117f6440-3"
+      ],
+      "settings": {
+        "title": "Ropa para toda la familia",
+        "subtitle": "Desde $19.99",
+        "top-offeset": "default",
+        "section_width": true,
+        "pad-desk": 55,
+        "pad-ipad": 15,
+        "pad-mbl": 10,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "hide_mobile": false,
+        "enable_carousel": true,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 5,
+        "style": "style1",
+        "textalign": "text-center",
+        "leftpadzero": false,
+        "product_count": false,
+        "show_buttons": true,
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm",
+        "grid": 3,
+        "tablet-grid": 3,
+        "mobile-grid": 3,
+        "collection_ttl_hm": "#ffffff",
+        "collection_ttl_bg_hm": "#000000",
+        "collection_ttl_bg_hm_responsive": "#000000",
+        "collection_ttl_opt_hm": 0.7,
+        "disable_zoom": false
+      }
+    },
+    "16547898286671a1fd": {
+      "type": "feature-row",
+      "blocks": {
+        "16547898271433f893-0": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/100081553AM13.jpg",
+            "layout": "left",
+            "title": "Sudaderas para caballero",
+            "text": "<p>Sudadera con Estampado de México para Caballero, a solo $99.99<\/p>",
+            "button_label": "Compra Aquí",
+            "button_link": "shopify:\/\/collections\/sudaderas-para-caballero",
+            "btn-size-desk": "btn-sm",
+            "btn-size-mob": "mob-btn-sm",
+            "text_align": "text-left",
+            "text_clr": "#000000",
+            "text_bg_clr": "#f5f5f5",
+            "button_bg_clr": "#000000",
+            "button_bdr_clr": "#000000",
+            "button_text_clr": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "16547898271433f893-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1657042974719af787": {
+      "type": "product-slider",
+      "settings": {
+        "title": "Apoya a tu equipo favorito",
+        "subtitle": "Colección NFL",
+        "collection": "ponte-la-camiseta-nfl",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 3,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "3",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "1654790921bc1355fc": {
+      "type": "featured-product",
+      "settings": {
+        "top-offeset": "default",
+        "title": "Producto del día",
+        "featured_product": "plancha-de-vapor-vertical-con-pedestal",
+        "image_size": "medium",
+        "enable_zoom": true,
+        "show_vendor": false,
+        "spr_availability": false,
+        "spr_sku": false,
+        "countdown": false,
+        "countdown_lbl": "Corre por que se acaban",
+        "show_share_buttons": true,
+        "show_variant_swatches": true,
+        "fake_orders": false,
+        "orders": 20,
+        "orders_time": 24,
+        "orders_msg": "[orders] sold in last [hours] hours"
+      }
+    },
+    "165482171087e70e45": {
+      "type": "product-slider",
+      "settings": {
+        "title": "Conoce nuestra nueva colección playeras de Pantera Rosa",
+        "subtitle": "A solo $129.99",
+        "collection": "pantera-rosa-1",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "Ver todos",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "4",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "165479029744feb5d2": {
+      "type": "feature-row",
+      "blocks": {
+        "16547902969a64a869-0": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/100068288SPR2.jpg",
+            "layout": "right",
+            "title": "Moda de Invierno",
+            "text": "<p>Desde $29.99<\/p>",
+            "button_label": "Compra Aquí",
+            "button_link": "https:\/\/waldos.com.mx\/collections\/moda-para-el-frio",
+            "btn-size-desk": "btn-sm",
+            "btn-size-mob": "mob-btn-sm",
+            "text_align": "text-left",
+            "text_clr": "#000000",
+            "text_bg_clr": "#f5f5f5",
+            "button_bg_clr": "#000000",
+            "button_bdr_clr": "#000000",
+            "button_text_clr": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "16547902969a64a869-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1654790168079953b0": {
+      "type": "products-columns",
+      "blocks": {
+        "1654790168d88421fa-1": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "Linea Confort Dama",
+            "collection": "lo-mas-basico-en-tu-closet"
+          }
+        },
+        "1654790168d88421fa-2": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "Linea Confort Caballero",
+            "collection": "pants-de-caballero"
+          }
+        }
+      },
+      "block_order": [
+        "1654790168d88421fa-1",
+        "1654790168d88421fa-2"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "grid": "2",
+        "rows": "2"
+      }
+    },
+    "165479145495f8b5b1": {
+      "type": "product-slider",
+      "settings": {
+        "title": "Tus personajes favoritos de Disney llegarón a Waldo's",
+        "subtitle": "Desde $69.99",
+        "collection": "disney",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "ver todos",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "16563420658f6b3349": {
+      "type": "feature-row",
+      "blocks": {
+        "1656342065e39eb67c-0": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/100080003RP132.jpg",
+            "layout": "left",
+            "title": "Conoce nuestra linea de Pijamas",
+            "text": "<p>Conjunto Pijama de Short y Camiseta para Dama con Estampado<\/p><p>A solo $49.99<\/p>",
+            "button_label": "Compra Aquí",
+            "button_link": "https:\/\/waldos.com.mx\/collections\/pijamas-dama",
+            "btn-size-desk": "btn-sm",
+            "btn-size-mob": "mob-btn-sm",
+            "text_align": "text-left",
+            "text_clr": "#000000",
+            "text_bg_clr": "#f5f5f5",
+            "button_bg_clr": "#000000",
+            "button_bdr_clr": "#000000",
+            "button_text_clr": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "1656342065e39eb67c-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "165634186230d64506": {
+      "type": "product-slider",
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "collection": "cobijas",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "Ver todos",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "1654791097bd4cc3d2": {
+      "type": "feature-row",
+      "blocks": {
+        "1654791097e900cedb-0": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/21958293BEIGE-_2.jpg",
+            "layout": "right",
+            "title": "Accesorios ideales para toda ocasión",
+            "text": "<p>Lentes de sol y más desde $29.99<\/p>",
+            "button_label": "Compra Aquí",
+            "button_link": "https:\/\/waldos.com.mx\/collections\/maquillaje-y-belleza",
+            "btn-size-desk": "btn-sm",
+            "btn-size-mob": "mob-btn-sm",
+            "text_align": "text-left",
+            "text_clr": "#000000",
+            "text_bg_clr": "#f5f5f5",
+            "button_bg_clr": "#000000",
+            "button_bdr_clr": "#000000",
+            "button_text_clr": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "1654791097e900cedb-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "0928a85b-4797-49d7-886d-aaa025c7729b": {
+      "type": "product-slider",
+      "settings": {
+        "title": "Para tu Negocio",
+        "subtitle": "Waldo's Negocio",
+        "collection": "waldos-negocio",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    }
+  },
+  "order": [
+    "1656342108d9b62d1f",
+    "1654790949ae94c54d",
+    "16547898286671a1fd",
+    "1657042974719af787",
+    "1654790921bc1355fc",
+    "165482171087e70e45",
+    "165479029744feb5d2",
+    "1654790168079953b0",
+    "165479145495f8b5b1",
+    "16563420658f6b3349",
+    "165634186230d64506",
+    "1654791097bd4cc3d2",
+    "0928a85b-4797-49d7-886d-aaa025c7729b"
+  ]
+}

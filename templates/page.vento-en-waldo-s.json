@@ -1,0 +1,40 @@
+{
+  "sections": {
+    "165576459472660974": {
+      "type": "image-slideshow",
+      "blocks": {
+        "165576459482db4e32-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20220818_LANDING-PAGE_MOTOS_HORIZONTAL.jpg",
+            "mb_image": "shopify:\/\/shop_images\/20220818_LANDING-PAGE_MOTOS_VERTICAL.jpg",
+            "link": "",
+            "newTab": false
+          }
+        }
+      },
+      "block_order": [
+        "165576459482db4e32-0"
+      ],
+      "settings": {
+        "section_width": true,
+        "top-offeset": "default",
+        "autoplay": true,
+        "autoplay_speed": "5000",
+        "arrow": true,
+        "dots": false,
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "tiendas": {
+      "type": "tiendas-vento",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "165576459472660974",
+    "tiendas"
+  ]
+}

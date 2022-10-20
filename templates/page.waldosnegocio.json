@@ -1,0 +1,336 @@
+{
+  "sections": {
+    "16547993366be58b0d": {
+      "type": "image-slideshow",
+      "blocks": {
+        "16547993363caef96b-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ACEITE.png",
+            "mb_image": "shopify:\/\/shop_images\/ACEITE_2daf1b95-c8bd-4eaa-b4d7-57a537fae68b.png",
+            "link": "shopify:\/\/collections\/waldos-negocio-despensa",
+            "newTab": false
+          }
+        },
+        "f6e771c7-7b51-4b9b-aae3-2ac460aa4662": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GALLETAS.png",
+            "mb_image": "shopify:\/\/shop_images\/GALLETAS-MARIA.png",
+            "link": "shopify:\/\/collections\/waldos-negocio-dulces",
+            "newTab": false
+          }
+        },
+        "397dab96-6219-4af4-b48e-916162986dcb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CAFE.png",
+            "mb_image": "shopify:\/\/shop_images\/CAFE_u.png",
+            "link": "shopify:\/\/collections\/waldos-negocio-despensa",
+            "newTab": false
+          }
+        }
+      },
+      "block_order": [
+        "16547993363caef96b-0",
+        "f6e771c7-7b51-4b9b-aae3-2ac460aa4662",
+        "397dab96-6219-4af4-b48e-916162986dcb"
+      ],
+      "settings": {
+        "section_width": true,
+        "top-offeset": "default",
+        "autoplay": true,
+        "autoplay_speed": "5000",
+        "arrow": true,
+        "dots": false,
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1655744502ad9e7c4a": {
+      "type": "product-slider",
+      "settings": {
+        "title": "Limpieza",
+        "subtitle": "",
+        "collection": "waldo-s-negocio-limpieza",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "165479897593f709f8": {
+      "type": "products-columns",
+      "blocks": {
+        "1654798975d01aefa6-0": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "Dulces, galletas y cereales",
+            "collection": "waldos-negocio-dulces"
+          }
+        },
+        "1654798975d01aefa6-1": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "Bebidas",
+            "collection": "waldos-negocio-bebidas"
+          }
+        },
+        "1654798975d01aefa6-2": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "Abarrotes",
+            "collection": "waldos-negocio-despensa"
+          }
+        },
+        "3c74965e-51f4-4a08-a0c2-e24bc4162882": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "Limpieza",
+            "collection": "waldo-s-negocio-limpieza"
+          }
+        },
+        "10996795-84e1-44a5-985f-93e072aefc83": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "Hogar y Decoración",
+            "collection": "waldo-s-negocio-hogar-y-decoracion"
+          }
+        },
+        "8e885892-15a6-45ad-b441-156896d30300": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "Cuidado personal",
+            "collection": "waldo-s-negocio-cuidado-personal-y-belleza"
+          }
+        }
+      },
+      "block_order": [
+        "1654798975d01aefa6-0",
+        "1654798975d01aefa6-1",
+        "1654798975d01aefa6-2",
+        "3c74965e-51f4-4a08-a0c2-e24bc4162882",
+        "10996795-84e1-44a5-985f-93e072aefc83",
+        "8e885892-15a6-45ad-b441-156896d30300"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "grid": "3",
+        "rows": "2"
+      }
+    },
+    "165513779337de6fbf": {
+      "type": "featured-product",
+      "settings": {
+        "top-offeset": "default",
+        "title": "Oferta del día",
+        "featured_product": "mayoreo-camiseta-de-tirantes-para-nina-12-piezas",
+        "image_size": "medium",
+        "enable_zoom": true,
+        "show_vendor": false,
+        "spr_availability": false,
+        "spr_sku": false,
+        "countdown": false,
+        "countdown_lbl": "",
+        "show_share_buttons": false,
+        "show_variant_swatches": true,
+        "fake_orders": false,
+        "orders": 20,
+        "orders_time": 24,
+        "orders_msg": "[orders] sold in last [hours] hours"
+      }
+    },
+    "16551378736c6aca1d": {
+      "type": "collection-tab",
+      "blocks": {
+        "165513787367829ae4-0": {
+          "type": "featured_collection_tabs",
+          "settings": {
+            "title": "Abarrotes",
+            "collection": "waldos-negocio-despensa"
+          }
+        },
+        "165513787367829ae4-1": {
+          "type": "featured_collection_tabs",
+          "settings": {
+            "title": "Bebidas",
+            "collection": "waldos-negocio-bebidas"
+          }
+        },
+        "165513787367829ae4-2": {
+          "type": "featured_collection_tabs",
+          "settings": {
+            "title": "Dulces y Galletas",
+            "collection": "waldos-negocio-dulces"
+          }
+        },
+        "c8683ebc-74ae-4a66-8246-fe934659e6f6": {
+          "type": "featured_collection_tabs",
+          "settings": {
+            "title": "Cuidado Personal",
+            "collection": "waldo-s-negocio-cuidado-personal-y-belleza"
+          }
+        }
+      },
+      "block_order": [
+        "165513787367829ae4-0",
+        "165513787367829ae4-1",
+        "165513787367829ae4-2",
+        "c8683ebc-74ae-4a66-8246-fe934659e6f6"
+      ],
+      "settings": {
+        "title": "Waldo's Negocio",
+        "subtitle": "en waldos.com.mx",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "v_f_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "tab-style": "style1",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5"
+      }
+    },
+    "165574428355de655e": {
+      "type": "product-slider",
+      "settings": {
+        "title": "Waldo's Moda",
+        "subtitle": "",
+        "collection": "waldos-negocio",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "165513838347fe60da": {
+      "type": "feature-row",
+      "blocks": {
+        "16551383822b58523a-0": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/395461662476852nutrioli.jpg",
+            "layout": "left",
+            "title": "Conoce nuestros paquetes en abarrotes que tenemos para tu negocio",
+            "text": "<p>Desde $199.99 o 10 piezas<\/p>",
+            "button_label": "Compra Aquí",
+            "button_link": "shopify:\/\/collections\/waldos-negocio-despensa",
+            "btn-size-desk": "btn-md",
+            "btn-size-mob": "mob-btn-sm",
+            "text_align": "text-left",
+            "text_clr": "#000000",
+            "text_bg_clr": "#f5f5f5",
+            "button_bg_clr": "#000000",
+            "button_bdr_clr": "#000000",
+            "button_text_clr": "#ffffff"
+          }
+        },
+        "4cbbb664-8511-43a9-b77f-97093e90e6f3": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/39548369961221.jpg",
+            "layout": "right",
+            "title": "Conoce nuestros paquetes en bebidas que tenemos para tu negocio",
+            "text": "<p>Desde $139.99 o 24 piezas <\/p>",
+            "button_label": "Compra Aquí",
+            "button_link": "shopify:\/\/collections\/waldos-negocio-bebidas",
+            "btn-size-desk": "btn-sm",
+            "btn-size-mob": "mob-btn-sm",
+            "text_align": "text-left",
+            "text_clr": "#000000",
+            "text_bg_clr": "#f5f5f5",
+            "button_bg_clr": "#000000",
+            "button_bdr_clr": "#000000",
+            "button_text_clr": "#ffffff"
+          }
+        },
+        "bd83e167-f26a-4356-b26e-7a7d9d8309cc": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/39548666413317.jpg",
+            "layout": "left",
+            "title": "Conoce nuestros paquetes en dulces y galletas que tenemos para tu negocio",
+            "text": "<p>Desde $269.99 o 12 piezas<\/p>",
+            "button_label": "Compra Aquí",
+            "button_link": "shopify:\/\/collections\/waldos-negocio-dulces",
+            "btn-size-desk": "btn-sm",
+            "btn-size-mob": "mob-btn-sm",
+            "text_align": "text-left",
+            "text_clr": "#000000",
+            "text_bg_clr": "#f5f5f5",
+            "button_bg_clr": "#000000",
+            "button_bdr_clr": "#000000",
+            "button_text_clr": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "16551383822b58523a-0",
+        "4cbbb664-8511-43a9-b77f-97093e90e6f3",
+        "bd83e167-f26a-4356-b26e-7a7d9d8309cc"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    }
+  },
+  "order": [
+    "16547993366be58b0d",
+    "1655744502ad9e7c4a",
+    "165479897593f709f8",
+    "165513779337de6fbf",
+    "16551378736c6aca1d",
+    "165574428355de655e",
+    "165513838347fe60da"
+  ]
+}

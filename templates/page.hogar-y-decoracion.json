@@ -1,0 +1,387 @@
+{
+  "sections": {
+    "1661347735743d6a8d": {
+      "type": "image-slideshow",
+      "blocks": {
+        "166134773556add94a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HOGAR_Y_DECORACION_6b1836f7-6eb2-42ab-a98b-3cac5f17dca3.jpg",
+            "mb_image": "shopify:\/\/shop_images\/HOGAR_Y_DECORACION_1d1f5678-8753-4585-8c54-4ade3d12ca9b.jpg",
+            "link": "shopify:\/\/collections\/decoracion",
+            "newTab": false
+          }
+        }
+      },
+      "block_order": [
+        "166134773556add94a-0"
+      ],
+      "settings": {
+        "section_width": true,
+        "top-offeset": "default",
+        "autoplay": true,
+        "autoplay_speed": "5000",
+        "arrow": true,
+        "dots": false,
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "16593661393bd71a28": {
+      "type": "collection-list",
+      "blocks": {
+        "1659366138c525209e-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "decoracion",
+            "collection_name": "Decoración",
+            "collection_btn": "Compra Aquí"
+          }
+        },
+        "1659366138c525209e-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cocina",
+            "collection_name": "Cocina",
+            "collection_btn": "Compra Aquí"
+          }
+        },
+        "1659366138c525209e-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cajas-y-contenedores",
+            "collection_name": "Organización",
+            "collection_btn": "Compra Aquí"
+          }
+        }
+      },
+      "block_order": [
+        "1659366138c525209e-0",
+        "1659366138c525209e-1",
+        "1659366138c525209e-2"
+      ],
+      "settings": {
+        "title": "Nuestros Básicos",
+        "subtitle": "para el Hogar",
+        "top-offeset": "default",
+        "section_width": true,
+        "pad-desk": 55,
+        "pad-ipad": 15,
+        "pad-mbl": 10,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "hide_mobile": false,
+        "enable_carousel": true,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 5,
+        "style": "style1",
+        "textalign": "text-center",
+        "leftpadzero": false,
+        "product_count": false,
+        "show_buttons": false,
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm",
+        "grid": 3,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "collection_ttl_hm": "#ffffff",
+        "collection_ttl_bg_hm": "#000000",
+        "collection_ttl_bg_hm_responsive": "#000000",
+        "collection_ttl_opt_hm": 0.7,
+        "disable_zoom": false
+      }
+    },
+    "16593831506056332e": {
+      "type": "product-slider",
+      "settings": {
+        "title": "Viaja con estilo",
+        "subtitle": "¡A precios irresistibles!",
+        "collection": "nuevas-maletas",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "1659366016ee111213": {
+      "type": "products-columns",
+      "blocks": {
+        "16593660166aa32496-0": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "Portaretrato",
+            "collection": "portaretrato"
+          }
+        },
+        "16593660166aa32496-2": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "Espejos y Relojes",
+            "collection": "espejos-y-relojes"
+          }
+        },
+        "16593660166aa32496-1": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "Velas Aromaticas",
+            "collection": "velas-1"
+          }
+        }
+      },
+      "block_order": [
+        "16593660166aa32496-0",
+        "16593660166aa32496-2",
+        "16593660166aa32496-1"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#ffffff",
+        "grid": "3",
+        "rows": "4"
+      }
+    },
+    "1659372196361f379f": {
+      "type": "featured-product",
+      "settings": {
+        "top-offeset": "default",
+        "title": "NUEVA OFERTA",
+        "featured_product": "08-09wn-set-de-repisas-maravilla",
+        "image_size": "medium",
+        "enable_zoom": true,
+        "show_vendor": false,
+        "spr_availability": false,
+        "spr_sku": false,
+        "countdown": false,
+        "countdown_lbl": "Hurry up! Sales End In",
+        "show_share_buttons": true,
+        "show_variant_swatches": true,
+        "fake_orders": false,
+        "orders": 20,
+        "orders_time": 24,
+        "orders_msg": "[orders] sold in last [hours] hours"
+      }
+    },
+    "1659366060228cd387": {
+      "type": "products-rows",
+      "settings": {
+        "title": "Mesas Inkanto",
+        "subtitle": "Promoción 3X2 solo en waldos.com.mx",
+        "collection": "mesas-inkanto",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "Compra Aquí",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 3,
+        "tablet-grid": 3,
+        "mobile-grid": 3,
+        "rows": "3"
+      }
+    },
+    "165936608369c4da06": {
+      "type": "feature-row",
+      "blocks": {
+        "1659366083a9e7bb3b-0": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/23194151-_1.jpg",
+            "layout": "left",
+            "title": "Todo para tu recamara",
+            "text": "<p>Desde $29.99<\/p>",
+            "button_label": "Compra Aquí",
+            "button_link": "https:\/\/waldos.com.mx\/collections\/recamara",
+            "btn-size-desk": "btn-sm",
+            "btn-size-mob": "mob-btn-lg",
+            "text_align": "text-left",
+            "text_clr": "#000000",
+            "text_bg_clr": "#f5f5f5",
+            "button_bg_clr": "#cb0303",
+            "button_bdr_clr": "#cb0303",
+            "button_text_clr": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "1659366083a9e7bb3b-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "16593703975430157d": {
+      "type": "product-slider",
+      "settings": {
+        "title": "Tapetes",
+        "subtitle": "Decora tus espacios con Waldo's",
+        "collection": "tapetes",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "Ver Todos",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 3,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "3",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "16593709193b789454": {
+      "type": "feature-row",
+      "blocks": {
+        "165937091905392f22-0": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/23380851OBLA.jpg",
+            "layout": "right",
+            "title": "Decora tu sala",
+            "text": "<p>A precios irresistibles desde $29.99<\/p>",
+            "button_label": "Compra Aquí",
+            "button_link": "shopify:\/\/collections\/decora-tu-sala",
+            "btn-size-desk": "btn-sm",
+            "btn-size-mob": "mob-btn-sm",
+            "text_align": "text-left",
+            "text_clr": "#000000",
+            "text_bg_clr": "#f5f5f5",
+            "button_bg_clr": "#000000",
+            "button_bdr_clr": "#000000",
+            "button_text_clr": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "165937091905392f22-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "16593724217e2190f3": {
+      "type": "products-columns",
+      "blocks": {
+        "1659372421a07c6aad-0": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "Cristalería",
+            "collection": "cristaleria"
+          }
+        },
+        "1659372421a07c6aad-1": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "Utensilios de Cocina",
+            "collection": "tramontina"
+          }
+        },
+        "1659372421a07c6aad-2": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "Tazas y Vasos",
+            "collection": "botellas"
+          }
+        }
+      },
+      "block_order": [
+        "1659372421a07c6aad-0",
+        "1659372421a07c6aad-1",
+        "1659372421a07c6aad-2"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "grid": "3",
+        "rows": "4"
+      }
+    },
+    "1659372361c36d4ba1": {
+      "type": "product-slider",
+      "settings": {
+        "title": "Electrodomésticos y Cocina",
+        "subtitle": "www.waldos.com.mx",
+        "collection": "sartenes-y-electrodomesticos",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_view_all": "",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    }
+  },
+  "order": [
+    "1661347735743d6a8d",
+    "16593661393bd71a28",
+    "16593831506056332e",
+    "1659366016ee111213",
+    "1659372196361f379f",
+    "1659366060228cd387",
+    "165936608369c4da06",
+    "16593703975430157d",
+    "16593709193b789454",
+    "16593724217e2190f3",
+    "1659372361c36d4ba1"
+  ]
+}
