@@ -1,6 +1,7 @@
 
 // --- Variables
 const btnAplicar = document.querySelector('#btnAplicar');
+const inputCP = document.querySelector('#code_p');
 const urlParams = new URLSearchParams(location.search);
 const cpParam = urlParams.get('cp');
 
@@ -56,15 +57,15 @@ const getCP_url = () => {
         location.href = '#';
 }
 
-const validarCP = (e) => {
+const validarCP = () => {
     // Seleccionar input text del codigo postal
     const inputCP = document.querySelector('#code_p');
 
     // Obtener el valor ingresado
-    const valInputCP = inputCP.value.trim();
+    const valInputCP = parseInt(inputCP.value.trim());
 
     // Validar si hay un codigo postal
-    if(valInputCP == "")  {
+    if(valInputCP == "" || !Number.isInteger(valInputCP) || valInputCP.toString().length < 5)  {
         const span_msj = document.querySelector(".modal-content-cp span");
         const inputCP = document.querySelector(".modal-content-cp input[type=text]");
 
@@ -78,14 +79,14 @@ const validarCP = (e) => {
     // Validar que exista el codigo postal (pendiente)
 
     // Obtener valores de configuración desde un atributo data
-    const CP_Guadalajara = e.target.dataset.codigospostales;
-    const urlStore = e.target.dataset.urlstore;
+    const CP_Guadalajara = btnAplicar.dataset.codigospostales;
+    const urlStore = btnAplicar.dataset.urlstore;
 
     // Convertir los valores de códigos postales a un array
-    const CP_Guadalajara_array = CP_Guadalajara.split(',') ;
-    
-    // Si el código postal es de la zona de Guadalajara, almacenar el código postal
-    // Si es el caso contrario redireccionar a esa tienda
+    const CP_Guadalajara_array = CP_Guadalajara.split(',').map(Number);
+
+    // Si el código postal es de la zona de Guadalajara, redireccionar a esa tienda
+    // Si es el caso contrario almacenar el código postal
     if(CP_Guadalajara_array.includes(valInputCP)) {
         // Almacenar en localStorage
         localStorage.setItem('cp', valInputCP);
@@ -107,6 +108,11 @@ document.addEventListener('DOMContentLoaded', function() {
     
 // Evento al dar clic en el botón Aplicar
 btnAplicar.addEventListener('click', validarCP);
+// Evento al dar enter al input de cp
+inputCP.addEventListener('keyup', e => {
+    if(e.code === 'Enter')
+        validarCP();
+});
     
 // Si no hay un código postal, ejecutar cada ocho minutos (480000 milisengundos)
 
